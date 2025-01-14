@@ -43,9 +43,9 @@
                     </p>
                 </div>
                 <div class="container pt-5 pb-5">
-                    <h2 style="color:#EF481B">FOUNDATION PROGRAM</h2>
+                    <h2 style="color:#EF481B">IIT JEE COURSES</h2>
 
-                    <h3>FOUNDATION COURSES FOR <a href="jee.php" style="color:#1B6CCE">JEE Main & Advanced Coaching</h3>
+                    <h3>IIT JEE Courses FOR <a href="jee.php" style="color:#1B6CCE">JEE Main & Advanced Coaching</h3>
 
                     <table class="table p=5">
                         <thead>
