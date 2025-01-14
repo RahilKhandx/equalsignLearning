@@ -187,14 +187,13 @@
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
-                                                <a href="#">EqualMerit</a>
-                                                <ul class="sub-menu">
-                                                    <!-- <li><a href="blog.html">CBSE (Class 8 to 12)</a></li> -->
+                                                <a href="equalmerit.php">EqualMerit</a>
+                                                <!-- <ul class="sub-menu">
                                                     <li><a href="jee.php">JEE Main & Advanced</a></li>
                                                     <li><a href="neet.php">NEET UG</a></li>
                                                     <li><a href="nda.php">NDA</a></li>
                                                     <li><a href="#">CUET UG</a></li>
-                                                </ul>
+                                                </ul> -->
                                             </li>
                                             <li><a href="contact.php">Contact</a></li>
                                         </ul>

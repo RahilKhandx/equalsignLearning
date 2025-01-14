@@ -27,18 +27,11 @@
                 </div>
                 <div class="col-lg-6 pr-70 md-pr-15">
                     <div class="sec-title">
-                        <div class="sub-title orange">About Equalsign</div>
-                        <h2 class="title mb-17">Welcome to The Equalsign</h2>
+                        <div class="sub-title orange">About</div>
+                        <h2 class="title mb-17">Equalsign</h2>
                         <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
                         <div class="desc">
-                            <p>Equalsign Learning is your compass for academic success. As a premier coaching
-                                institution, we empower students through tailored courses for CBSE (Class 8 to 12), JEE
-                                Main, NEET UG, CUET, and NDA. Our expert faculty and personalized approach ensure a
-                                holistic learning experience. From mastering core subjects to excelling in competitive
-                                exams, Equalsign is your partner in educational excellence. With a commitment to
-                                fostering growth and shaping bright futures, we offer a School Integrated Program for
-                                seamless learning within campuses. Choose Equalsign for a transformative education that
-                                goes beyond classrooms, equipping you with the skills to conquer your academic goals.
+                            <p>Equalsign Learning is your compass for academic success. As a premier coaching institution, we empower students through tailored courses for CBSE (Class 8 to 12), JEE Main, NEET UG, CUET, and NDA. Our expert faculty and personalized approach ensure a holistic learning experience. From mastering core subjects to excelling in competitive exams, Equalsign is your partner in educational excellence. With a commitment to fostering growth and shaping bright futures, we offer a School Integrated Program for seamless learning within campuses. Choose Equalsign for a transformative education that goes beyond classrooms, equipping you with the skills to conquer your academic goals.
                             </p>
                         </div>
                     </div>
@@ -138,9 +131,8 @@
                             <h2 class="title mb-16">Admission Open for 2025</h2>
                             <div class="desc">"Equalsign is a vibrant community passionate about transformative
                                 learning. If you're dedicated to education, innovation, and making an impact, explore
-                                career opportunities with us. Join our mission to redefine education and shape the
-                                future of learning. Send your CV to<a
-                                    href="mailto:info@equalsign.in">info@equalsign.in</a> "</div>
+                                 opportunities with us. <a href="mailto:info@equalsign.in">info@equalsign.in</a> "
+                            </div>
                         </div>
                         <div class="btn-part wow fadeInUp" data-wow-delay="200ms" data-wow-duration="2000ms">
                             <a class="readon2 orange" href="#">Apply Now</a>
@@ -150,6 +142,59 @@
             </div>
         </div>
     </div>
+    <div class="timeline wow fadeInUp" data-wow-delay="300ms"
+    data-wow-duration="2000ms">
+    <!-- 2015 -->
+    <div class="timeline-item left">
+      <div class="year">2015</div>
+      <div class="content">Launched the first project, marking the beginning of our success journey with innovative ideas.</div>
+    </div>
+    <!-- 2016 -->
+    <div class="timeline-item right">
+      <div class="year">2016</div>
+      <div class="content">Expanded our team and achieved key milestones, setting a strong foundation for growth.</div>
+    </div>
+    <!-- 2017 -->
+    <div class="timeline-item left">
+      <div class="year">2017</div>
+      <div class="content">Introduced groundbreaking solutions that gained industry recognition and client trust.</div>
+    </div>
+    <!-- 2018 -->
+    <div class="timeline-item right">
+      <div class="year">2018</div>
+      <div class="content">Diversified into new markets, demonstrating resilience and adaptability.</div>
+    </div>
+    <!-- 2019 -->
+    <div class="timeline-item left">
+      <div class="year">2019</div>
+      <div class="content">Reached a major milestone by serving over 1 million customers worldwide.</div>
+    </div>
+    <!-- 2020 -->
+    <div class="timeline-item right">
+      <div class="year">2020</div>
+      <div class="content">Navigated challenges during the pandemic, emerging stronger and more innovative.</div>
+    </div>
+    <!-- 2021 -->
+    <div class="timeline-item left">
+      <div class="year">2021</div>
+      <div class="content">Launched new initiatives, enhancing customer engagement and satisfaction.</div>
+    </div>
+    <!-- 2022 -->
+    <div class="timeline-item right">
+      <div class="year">2022</div>
+      <div class="content">Recognized as an industry leader with multiple awards and accolades.</div>
+    </div>
+    <!-- 2023 -->
+    <div class="timeline-item left">
+      <div class="year">2023</div>
+      <div class="content">Celebrated partnerships with global organizations, expanding our impact.</div>
+    </div>
+    <!-- 2024 -->
+    <div class="timeline-item right">
+      <div class="year">2024</div>
+      <div class="content">Looking ahead to a brighter future, we remain committed to innovation and excellence.</div>
+    </div>
+  </div>
     <!-- Counter Section Start -->
     <div id="rs-counter" class="rs-counter style2-about pt-100 md-pt-70">
         <div class="container">
@@ -402,6 +447,42 @@
             </div> -->
 </div>
 </div>
+<div class="container"><div class="col-lg-8 pr-50 md-pr-15">
+                    <div class="about-part">
+                        <div class="sec-title mb-40">
+                            <div class="sub-title primary wow fadeInUp" data-wow-delay="300ms"
+                                data-wow-duration="2000ms">About Us</div>
+                            <h2 class="title wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">World Best
+                                Institution Equalsign </h2>
+                            <div class="desc wow fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
+                                <p>
+                                    "Equalsign
+                                    is your path to academic success, offering tailored courses for CBSE (Class 8 to
+                                    12),
+                                    JEE Main, NEET UG, CUET, and NDA. With expert faculty and personalized support, we
+                                    ensure a holistic learning experience. Our School Integrated Program provides
+                                    seamless
+                                    campus learning, equipping students with the skills to excel in competitive exams
+                                    and
+                                    achieve their academic goals."
+                                </p>
+                            </div>
+                        </div>
+                        <div class="sign-part wow fadeInUp" data-wow-delay="600ms" data-wow-duration="2000ms">
+                            <div class="img-part">
+                                <img src="assets/images/ceo.png" alt="CEO Image" style="border-radius: 50%;">
+                            </div>
+                            <div class="author-part">
+                                <!-- <span class="sign mb-10"><img src="assets/images/about/sign.png" alt="Sign"></span> -->
+                                <span class="post">Managing Director <br>EQUALSIGN</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div></div>
+  
 <div class="rs-testimonial style3 orange-color pt-90 md-pt-70">
     <div class="container">
         <div class="sec-title mb-60 md-mb-30 text-center">

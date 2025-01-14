@@ -33,9 +33,8 @@
                     </p>
                 </div>
                 <div class="container pt-5 pb-5">
-                    <h2 style="color:#EF481B">FOUNDATION PROGRAM</h2>
-
-                    <h3>FOUNDATION COURSES FOR <a href="jee.php" style="color:#1B6CCE">NEET UG Coaching</h3>
+                    <h2 style="color:#EF481B">
+                    <h3> <a href="jee.php" style="color:#1B6CCE">NEET UG COURSES</h3>
 
                     <table class="table p=5">
                         <thead>
