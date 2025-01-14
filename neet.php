@@ -32,6 +32,87 @@
                     Equalsign Learning is your trusted partner in preparing for the NEET UG examination, the gateway to a successful medical career. Our coaching program is meticulously designed to provide students with the knowledge, skills, and confidence required to excel in this highly competitive medical entrance exam.<br>Join Equalsign Learning's NEET UG coaching program and embark on a transformative journey toward realizing your dream of a successful career in medicine. Our program is designed to equip you with the skills and confidence needed to excel in one of the most competitive medical entrance exams in the country.
                     </p>
                 </div>
+                <div class="container pt-5 pb-5">
+                    <h2 style="color:#EF481B">FOUNDATION PROGRAM</h2>
+
+                    <h3>FOUNDATION COURSES FOR <a href="jee.php" style="color:#1B6CCE">NEET UG Coaching</h3>
+
+                    <table class="table p=5">
+                        <thead>
+                            <tr>
+                                <th scope="col">PROGRAM</th>
+                                <th scope="col">CLASS SCHEDULE</th>
+                                <th scope="col">TEST SCHEDULE</th>
+                                <th scope="col">COURSE DESCRIPTION</th>
+                                <th scope="col">COURSE FEE</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">One Year Integrated Program <br>(for XIth)</th>
+                                <td>3-4 Days a week<br>3 hrs.each Day</td>
+                                <td>Weekly Test & Monthly Grand Test on NEET Pattern</td>
+                                <td>
+                                    <p>The course prepares the students for class XIth as well as (NEET) Exam</p>
+                                </td>
+                                <td>INR 1,25,000<br>(+ GST)</td>
+
+                            </tr>
+
+                        </tbody>
+                    </table>
+                    <table class="table p=5">
+                        <thead>
+                            <tr>
+                                <th scope="col">PROGRAM</th>
+                                <th scope="col">CLASS SCHEDULE</th>
+                                <th scope="col">TEST SCHEDULE</th>
+                                <th scope="col">COURSE DESCRIPTION</th>
+                                <th scope="col">COURSE FEE</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">One Year Integrated Program <br>(for XIIth)</th>
+                                <td>3-4 Days a week<br>3 hrs.each Day</td>
+                                <td>Weekly Test & Monthly Grand Test on NEET Pattern</td>
+                                <td>
+                                    <p>The course prepares the students for class XIIth Board as well as (NEET)
+                                        Exam </p>
+                                </td>
+                                <td>INR 1,25,000<br>(+ GST)</td>
+
+                            </tr>
+
+                        </tbody>
+                    </table>
+                    <table class="table p=5">
+                        <thead>
+                            <tr>
+                                <th scope="col">PROGRAM</th>
+                                <th scope="col">CLASS SCHEDULE</th>
+                                <th scope="col">TEST SCHEDULE</th>
+                                <th scope="col">COURSE DESCRIPTION</th>
+                                <th scope="col">COURSE FEE</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">One Year Integrated Program <br>(for XIIth pass)</th>
+                                <td>4-5 Days a week<br>4 hrs.each Day</td>
+                                <td>Weekly Test & Monthly Grand Test on NEET Pattern</td>
+                                <td>
+                                    <p>The course prepares the students for NEET Exam</p>
+                                </td>
+                                <td>INR 1,50,000<br>(+ GST)</td>
+
+                            </tr>
+
+                        </tbody>
+                    </table>
                 <div class="container">
                     <!-- <h4 class="title" style="color: #EF481B;">Key Features:</h4> -->
                   
@@ -84,21 +165,21 @@
                             <th>Content/Links</th>
                         </tr>
                         <tr>
-                            <td>Mathematics</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?hemh1=0-16" target="_blank">NCERT Math
+                            <td>Physics</td>
+                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Physics.pdf?v=1659079452" target="_blank">NCERT Physics
                                     Textbook</a></td>
                         </tr>
                         <tr>
-                            <td>Science</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?hesc1=0-18" target="_blank">NCERT Science
+                            <td>Chemistry</td>
+                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Chemistry.pdf?v=1659077413" target="_blank">NCERT Chemistry
                                     Textbook</a></td>
                         </tr>
                         <tr>
-                            <td>English</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td>Biology</td>
+                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Biology.pdf?v=1659077413" target="_blank">NCERT Biology
                                     Textbook</a></td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td>Hindi</td>
                             <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
                                     Textbook</a></td>
@@ -107,7 +188,7 @@
                             <td>Social Science</td>
                             <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
                                     Textbook</a></td>
-                        </tr>
+                        </tr> -->
                     </table>
 
                 </div>
