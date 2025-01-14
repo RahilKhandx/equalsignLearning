@@ -40,7 +40,7 @@
             <ul>
                 <li><a href="jee.php">JEE Main & Advanced</a></li>
                 <li><a href="neet.php">NEET UG</a></li>
-                <li><a href="nda.php">NDA</a></li>
+                <!-- <li><a href="nda.php">NDA</a></li> -->
                 <li><a href="cuet.php">CUET UG</a></li>
                 <!-- <li><a href="classes12TH.php">Class 12th</a></li> -->
 
