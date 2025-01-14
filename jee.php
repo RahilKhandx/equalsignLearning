@@ -5,7 +5,7 @@
         <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
     </div>
     <div class="breadcrumbs-text white-color">
-        <h1 class="page-title">JEE Main & Advanced</h1>
+        <h1 class="page-title">JEE Main & Advahhnced</h1>
         <ul>
             <li>
                 <a class="active" href="index.php">Home</a>
