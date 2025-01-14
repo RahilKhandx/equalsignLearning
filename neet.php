@@ -165,17 +165,17 @@
                         </tr>
                         <tr>
                             <td>Physics</td>
-                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Physics.pdf?v=1659079452" target="_blank">NCERT Physics
+                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Physics.pdf?v=1659079452" target="_blank">NEET Physics
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Chemistry</td>
-                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Chemistry.pdf?v=1659077413" target="_blank">NCERT Chemistry
+                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Chemistry.pdf?v=1659077413" target="_blank">NEET Chemistry
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Biology</td>
-                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Biology.pdf?v=1659077413" target="_blank">NCERT Biology
+                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Biology.pdf?v=1659077413" target="_blank">NEET Biology
                                     Textbook</a></td>
                         </tr>
                         <!-- <tr>

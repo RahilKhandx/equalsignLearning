@@ -43,121 +43,124 @@
                     </p>
                 </div>
                 <div class="container pt-5 pb-5">
-                    <h2 style="color:#EF481B">IIT JEE COURSES</h2>
+                    <h2 style="color:#EF481B">
+                        <h3>IIT JEE Courses FOR <a href="jee.php" style="color:#1B6CCE">JEE Main & Advanced Coaching
+                        </h3>
 
-                    <h3>IIT JEE Courses FOR <a href="jee.php" style="color:#1B6CCE">JEE Main & Advanced Coaching</h3>
+                        <table class="table p=5">
+                            <thead>
+                                <tr>
+                                    <th scope="col">PROGRAM</th>
+                                    <th scope="col">CLASS SCHEDULE</th>
+                                    <th scope="col">TEST SCHEDULE</th>
+                                    <th scope="col">COURSE DESCRIPTION</th>
+                                    <th scope="col">COURSE FEE</th>
 
-                    <table class="table p=5">
-                        <thead>
-                            <tr>
-                                <th scope="col">PROGRAM</th>
-                                <th scope="col">CLASS SCHEDULE</th>
-                                <th scope="col">TEST SCHEDULE</th>
-                                <th scope="col">COURSE DESCRIPTION</th>
-                                <th scope="col">COURSE FEE</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">One Year Integrated Program <br>(for XIth)</th>
+                                    <td>3-4 Days a week<br>3 hrs.each Day</td>
+                                    <td>Weekly Test & Monthly Grand Test on JEE Pattern</td>
+                                    <td>
+                                        <p>The course prepares the students for class XIth as well as (JEE Main &
+                                            Advanced
+                                            Exam) as well as (olympiads) Exam</p>
+                                    </td>
+                                    <td>INR 1,25,000<br>(+ GST)</td>
 
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th scope="row">One Year Integrated Program <br>(for XIth)</th>
-                                <td>3-4 Days a week<br>3 hrs.each Day</td>
-                                <td>Weekly Test & Monthly Grand Test on JEE Pattern</td>
-                                <td>
-                                    <p>The course prepares the students for class XIth as well as (JEE Main & Advanced
-                                        Exam) as well as (olympiads) Exam</p>
-                                </td>
-                                <td>INR 1,25,000<br>(+ GST)</td>
+                                </tr>
 
-                            </tr>
+                            </tbody>
+                        </table>
+                        <table class="table p=5">
+                            <thead>
+                                <tr>
+                                    <th scope="col">PROGRAM</th>
+                                    <th scope="col">CLASS SCHEDULE</th>
+                                    <th scope="col">TEST SCHEDULE</th>
+                                    <th scope="col">COURSE DESCRIPTION</th>
+                                    <th scope="col">COURSE FEE</th>
 
-                        </tbody>
-                    </table>
-                    <table class="table p=5">
-                        <thead>
-                            <tr>
-                                <th scope="col">PROGRAM</th>
-                                <th scope="col">CLASS SCHEDULE</th>
-                                <th scope="col">TEST SCHEDULE</th>
-                                <th scope="col">COURSE DESCRIPTION</th>
-                                <th scope="col">COURSE FEE</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">One Year Integrated Program <br>(for XIIth)</th>
+                                    <td>3-4 Days a week<br>3 hrs.each Day</td>
+                                    <td>Weekly Test & Monthly Grand Test on JEE Pattern</td>
+                                    <td>
+                                        <p>The course prepares the students for class XIth as well as (JEE Main &
+                                            Advanced
+                                            Exam) as well as (olympiads) Exam </p>
+                                    </td>
+                                    <td>INR 1,25,000<br>(+ GST)</td>
 
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th scope="row">One Year Integrated Program <br>(for XIIth)</th>
-                                <td>3-4 Days a week<br>3 hrs.each Day</td>
-                                <td>Weekly Test & Monthly Grand Test on JEE Pattern</td>
-                                <td>
-                                    <p>The course prepares the students for class XIth as well as (JEE Main & Advanced
-                                        Exam) as well as (olympiads) Exam</p>
-                                </td>
-                                <td>INR 1,25,000<br>(+ GST)</td>
+                                </tr>
 
-                            </tr>
+                            </tbody>
+                        </table>
+                        <table class="table p=5">
+                            <thead>
+                                <tr>
+                                    <th scope="col">PROGRAM</th>
+                                    <th scope="col">CLASS SCHEDULE</th>
+                                    <th scope="col">TEST SCHEDULE</th>
+                                    <th scope="col">COURSE DESCRIPTION</th>
+                                    <th scope="col">COURSE FEE</th>
 
-                        </tbody>
-                    </table>
-                    <table class="table p=5">
-                        <thead>
-                            <tr>
-                                <th scope="col">PROGRAM</th>
-                                <th scope="col">CLASS SCHEDULE</th>
-                                <th scope="col">TEST SCHEDULE</th>
-                                <th scope="col">COURSE DESCRIPTION</th>
-                                <th scope="col">COURSE FEE</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">One Year Integrated Program <br>(for XIIth pass)</th>
+                                    <td>4-5 Days a week<br>4 hrs.each Day</td>
+                                    <td>Weekly Test & Monthly Grand Test on JEE Pattern</td>
+                                    <td>
+                                        <p>The course prepares the students for JEE Main & Advanced Exam</p>
+                                    </td>
+                                    <td>INR 1,25,000<br>(+ GST)</td>
 
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th scope="row">One Year Integrated Program <br>(for XIIth pass)</th>
-                                <td>4-5 Days a week<br>4 hrs.each Day</td>
-                                <td>Weekly Test & Monthly Grand Test on JEE Pattern</td>
-                                <td>
-                                    <p>The course prepares the students for JEE Main & Advanced Exam</p>
-                                </td>
-                                <td>INR 1,25,000<br>(+ GST)</td>
+                                </tr>
 
-                            </tr>
+                            </tbody>
+                        </table>
+                        <div class="container">
+                            <!-- <h4 class="title" style="color: #EF481B;">Key Features:</h4> -->
 
-                        </tbody>
-                    </table>
-                    <div class="container">
-                        <!-- <h4 class="title" style="color: #EF481B;">Key Features:</h4> -->
+                            <div class="row wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+                                <div class="col-md-6">
+                                    <section class="name-list-section">
+                                        <h4 class="title" style="color: #EF481B;">Key Features:</h4>
 
-                        <div class="row wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
-                            <div class="col-md-6">
-                                <section class="name-list-section">
-                                    <h4 class="title" style="color: #EF481B;">Key Features:</h4>
-
-                                    <ul class="name-list">
-                                        <li><span class="checkmark">&#10003;</span> Subject Mastery:Comprehensive
-                                            coverage
-                                            of Physics, Chemistry, and Mathematics, ensuring a deep understanding of
-                                            fundamental concepts.</li>
-                                        <li><span class="checkmark">&#10003;</span> Strategic Exam Preparation: Rigorous
+                                        <ul class="name-list">
+                                            <li><span class="checkmark">&#10003;</span> Subject Mastery:Comprehensive
+                                                coverage
+                                                of Physics, Chemistry, and Mathematics, ensuring a deep understanding of
+                                                fundamental concepts.</li>
+                                            <li><span class="checkmark">&#10003;</span> Strategic Exam Preparation: Rigorous
                                             coaching designed to align with the specific exam patterns, providing
                                             insights
                                             and strategies to tackle complex problems efficiently.</li>
-                                        <li><span class="checkmark">&#10003;</span> Regular Mock Tests: Evaluate
+                                            <li><span class="checkmark">&#10003;</span> Regular Mock Tests:
+                                            Evaluate
                                             progress
                                             and boost exam readiness through regular mock tests that simulate real exam
                                             conditions.</li>
-                                        <li><span class="checkmark">&#10003;</span> Experienced Faculty: Learn from a
+                                            <li><span class="checkmark">&#10003;</span>Experienced Faculty: Learn from a
                                             team
                                             of experienced and qualified educators with a proven track record in guiding
                                             students to success in JEE Main and Advanced.</li>
-                                        <li><span class="checkmark">&#10003;</span> Advanced Problem Solving: Sharpen
+                                            <li><span class="checkmark">&#10003;</span> Advanced Problem Solving: Sharpen
                                             problem-solving skills with a focus on advanced problem-solving techniques
                                             required for success in JEE Advanced.</li>
-                                    </ul>
-                                </section>
-                            </div>
-                            <div class="col-md-6 ">
-                                <section class="name-list-section">
-                                    <ul class="name-list" style="margin-top:50px">
+                                        </ul>
+                                    </section>
+                                </div>
+                                <div class="col-md-6 ">
+                                    <section class="name-list-section">
+                                        <ul class="name-list" style="margin-top:50px">
                                         <li><span class="checkmark">&#10003;</span> Technology-Enhanced Learning:
                                             Utilize
                                             modern teaching tools and technology to enhance understanding and engage
@@ -179,58 +182,63 @@
                                             and
                                             Advanced syllabus, aiding effective revision.</li>
                                     </ul>
-                                </section>
+
+                                    </section>
+                                </div>
                             </div>
+
                         </div>
 
-                    </div>
-
-                    <!-- <h2 class="title">How to Prepare?</h2>
+                        <!-- <h2 class="title">How to Prepare?</h2>
                 <h4 class="title" style="color: #1B6CCE;">-Understand the Syllabus</h4> -->
 
-                    <div class="blog-desc">
-                        <p>
-                            The JEE Main 2024 syllabus is the same as the previous years. The JEE Main syllabus for 2024
-                            is released by the National Testing Agency (NTA) on their website, along with the new
-                            information brochure covering all the exam details. JEE aspirants are recommended to
-                            download the JEE Main 2024 syllabus PDF to be aware of the topics to learn.
-<br>
-                            Students can go through the official JEE Main 2024 syllabus below.
-                        </p>
-                        <h2 style="text-align: center;">JEE MAINS Subjects and Resources</h2>
-                        <table>
-                            <tr>
-                                <th>Subject</th>
-                                <th>Content/Links</th>
-                            </tr>
-                            <tr>
-                                <td>Mathematics</td>
-                                <td><a href="https://allen.in/jee-main/mathematics-syllabus" target="_blank">NCERT Math
-                                        Textbook</a></td>
-                            </tr>
-                            <tr>
-                                <td>Physics</td>
-                                <td><a href="https://allen.in/jee-main/physics-syllabus"target="_blank">NCERT Physics
-                                        Textbook</a></td>
-                            </tr>
-                            <tr>
-                                <td>Chemistry</td>
-                                <td><a href="https://allen.in/jee-main/chemistry-syllabus" target="_blank">NCERT Chemistry
-                                        Textbook</a></td>
-                            </tr>
-                            <!-- <tr>
-                                <td>Hindi</td>
-                                <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
-                                        Textbook</a></td>
-                            </tr>
-                            <tr>
-                                <td>Social Science</td>
-                                <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
-                                        Textbook</a></td>
-                            </tr> -->
-                        </table>
+                        <div class="blog-desc">
+                            <p>
+                                NCERT has prescribed the syllabus of major subjects for the JEE-MAIN class viz.
+                                English, Mathematics, Science, Hindi, Social Science, Sanskrit and Urdu.
+                                <a href="https://school.careers360.com/ncert/ncert-syllabus-for-jee-main">Syllabus
+                                    of NCERT Class NEET</a>
+                                is available to download in the pdf file for all the subjects.
+                                The syllabus comprises the introduction about the subject, guidelines to study,
+                                and topics and units required to study while preparing for the exams.
+                            </p>
+                            <h2 style="text-align: center;">JEE Subjects and Resources</h2>
+                            <table>
+                                <tr>
+                                    <th>Subject</th>
+                                    <th>Content/Links</th>
+                                </tr>
+                                <tr>
+                                    <td>Physics</td>
+                                    <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Physics.pdf?v=1659079452"
+                                            target="_blank">JEE Physics
+                                            Textbook</a></td>
+                                </tr>
+                                <tr>
+                                    <td>Chemistry</td>
+                                    <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Chemistry.pdf?v=1659077413"
+                                            target="_blank">JEE Chemistry
+                                            Textbook</a></td>
+                                </tr>
+                                <tr>
+                                    <td>Biology</td>
+                                    <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Biology.pdf?v=1659077413"
+                                            target="_blank">JEE Biology
+                                            Textbook</a></td>
+                                </tr>
+                                <!-- <tr>
+                            <td>Hindi</td>
+                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                                    Textbook</a></td>
+                        </tr>
+                        <tr>
+                            <td>Social Science</td>
+                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                                    Textbook</a></td>
+                        </tr> -->
+                            </table>
 
-                    </div>
+                        </div>
                 </div>
             </div>
         </div>

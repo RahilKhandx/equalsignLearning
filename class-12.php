@@ -117,7 +117,7 @@
                         </tr>
                         <tr>
                             <td>Hindi</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT Hindi
                                     Textbook</a></td>
                         </tr>
                         <tr>
