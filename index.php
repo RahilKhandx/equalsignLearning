@@ -155,7 +155,7 @@
                     <div class="course-wrap">
                         <div class="front-part">
                             <div class="img-part">
-                                <img src="assets/images/JEE-MAIN.png" alt="">
+                                <img src="assets\images\jee.jpeg" alt="">
                             </div>
                             <div class="content-part">
                                 <a class="categorie" href="#">JEE-MAIN</a>
@@ -190,7 +190,7 @@
                     <div class="course-wrap">
                         <div class="front-part">
                             <div class="img-part">
-                                <img src="assets/images/NEET-UG.png" alt="">
+                                <img src="assets\images\neet.jpeg" alt="">
                             </div>
                             <div class="content-part">
                                 <a class="categorie" href="#">NEET-UG</a>
@@ -224,7 +224,7 @@
                     <div class="course-wrap">
                         <div class="front-part">
                             <div class="img-part">
-                                <img src="assets/images/cuet.png" alt="">
+                                <img src="assets\images\found.jpeg" alt="">
                             </div>
                             <div class="content-part">
                                 <a class="categorie" href="#"> Foundation</a>

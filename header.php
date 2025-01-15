@@ -55,7 +55,7 @@
     <div id="loader" class="loader">
         <div class="loader-container">
             <div class='loader-icon'>
-                <img src="assets/new/favicon.png" alt="">
+                <img src="assets\images\logo-01.png" alt="">
             </div>
         </div>
     </div>
@@ -85,7 +85,7 @@
                             <ul class="topbar-right">
                                 <li class="login-register">
                                     <i class="fa fa-sign-in"></i>
-                                    <a href="login.php">Login</a>/<a href="register.html">Register</a>
+                                    <a href="login.php">Login</a>/<a href="register.php">Register</a>
                                 </li>
                                 <li class="btn-part">
                                     <a class="apply-btn" href="#">Apply Now</a>
@@ -105,7 +105,7 @@
                             <div class="logo-cat-wrap">
                                 <div class="logo-part">
                                     <a href="index.html">
-                                        <img src="assets/images/logo-01.png" alt="Logo">
+                                        <img src="assets/new/logo.png" alt="Logo">
                                     </a>
                                 </div>
                             </div>
