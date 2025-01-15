@@ -4713,13 +4713,13 @@ body .modal-backdrop {
   margin-left: -5px;
 }
 .rs-slider.style1 .slider-content.slide1 {
-  background: url(assets/images/slider/h2-1.jpg);
+  background: url("assets/images/slid.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .rs-slider.style1 .slider-content.slide2 {
-  background: url(assets/images/slider/h2-2.jpg);
+  background: url(assets/images/slid2.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
