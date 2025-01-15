@@ -55,7 +55,7 @@
     <div id="loader" class="loader">
         <div class="loader-container">
             <div class='loader-icon'>
-                <img src="assets\images\logo-01.png" alt="">
+                <img src="assets\images\logo-01.png" alt="" class="w-75">
             </div>
         </div>
     </div>
