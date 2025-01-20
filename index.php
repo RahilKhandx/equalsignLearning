@@ -401,10 +401,10 @@
                 <div class="col-lg-6 pr-65 pt-24 md-pt-0 md-pr-15 md-mb-30">
                     <div class="sec-title mb-42">
                         <div class="sub-title primary">Latest Events</div>
-                        <h2 class="title mb-0">Educavo Events</h2>
+                        <h2 class="title mb-0">Equalsign</h2>
                     </div>
                     <div class="single-img wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
-                        <img src="assets/images/event/single.jpg" alt="Event Image">
+                        <img src="assets\images\Equalsign Imaes\530x546.png"alt="Event Image">
                     </div>
                 </div>
                 <div class="col-lg-6 lg-pl-0">
@@ -596,7 +596,7 @@
                     data-md-device="3" data-md-device-nav="false" data-md-device-dots="false">
                     <div class="blog-item">
                         <div class="image-part">
-                            <img src="assets/images/blog/style2/1.jpg" alt="">
+                            <img src="assets\images\Equalsign Imaes\Team Work 1.png" alt="">
                         </div>
                         <div class="blog-content new-style">
                             <ul class="blog-meta">
@@ -615,7 +615,7 @@
                     </div>
                     <div class="blog-item">
                         <div class="image-part">
-                            <img src="assets/images/blog/style2/2.jpg" alt="">
+                            <img src="assets\images\Equalsign Imaes\Team Work 2.png" alt="">
                         </div>
                         <div class="blog-content new-style">
                             <ul class="blog-meta">
@@ -633,7 +633,7 @@
                     </div>
                     <div class="blog-item">
                         <div class="image-part">
-                            <img src="assets/images/blog/style2/3.jpg" alt="">
+                            <img src="assets\images\Equalsign Imaes\Team Work 3.png" alt="">
                         </div>
                         <div class="blog-content new-style">
                             <ul class="blog-meta">
@@ -652,7 +652,7 @@
                     </div>
                     <div class="blog-item">
                         <div class="image-part">
-                            <img src="assets/images/blog/style2/2.jpg" alt="">
+                            <img src="assets\images\Equalsign Imaes\High School rogram.png" alt="">
                         </div>
                         <div class="blog-content new-style">
                             <ul class="blog-meta">

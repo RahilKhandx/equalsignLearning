@@ -15665,88 +15665,208 @@ a:hover {
       font-size: 18px; /* Adjust tick size for smaller screens */
   }
 }
-.timeline {
+.accordion {
+  --bs-accordion-border-width: 0;
+  --bs-accordion-border-radius: 0;
+}
+
+.bs-timeline {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.accordion-item {
+  border-radius: 0;
+  border-left: 1.5px solid DimGrey;
+  padding-left: 25px;
+  padding-bottom: 20px;
+}
+
+.accordion-button::before {
+  content: "";
+  display: block;
   position: relative;
-  max-width: 1200px;
-  margin: 40px auto;
-  padding: 20px;
-}
-
-.timeline::after {
-  content: '';
-  position: absolute;
-  width: 6px;
-  background-color: #007bff;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  margin-left: -3px;
-}
-
-.timeline-item {
-  padding: 20px;
-  position: relative;
-  background-color: #fff;
-  border-radius: 8px;
-  width: 45%;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.timeline-item.left {
-  left: 0;
-}
-
-.timeline-item.right {
-  left: 55%;
-}
-
-.timeline-item::before {
-  content: '';
-  position: absolute;
-  width: 20px;
-  height: 20px;
-  background-color: #007bff;
+  width: 22px;
+  height: 22px;
+  border: 3px solid White;
+  outline: 1px solid DimGrey;
+  right: 58px;
+  background-color: DimGrey;
   border-radius: 50%;
-  top: 20px;
-  z-index: 1;
+  transition: all 0.25s ease;
 }
 
-.timeline-item.left::before {
-  right: -10px;
-}
+/* Bootstrap Timeline Thin Style */
 
-.timeline-item.right::before {
-  left: -10px;
-}
+/* Item 1 */
 
-.timeline-item .year {
-  font-size: 1.2rem;
-  font-weight: bold;
-  color: #007bff;
-}
-
-.timeline-item .content {
-  margin-top: 10px;
-  font-size: 1rem;
-  color: #555;
-  line-height: 1.6;
-}
-
-@media (max-width: 768px) {
-  .timeline-item {
-    width: 100%;
-    left: 0;
+#tl-btn-1:not(.collapsed) {
+  color: DodgerBlue;
+  background-color: White !important;
+  border: 1px solid DodgerBlue;
+  border-top-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  &::before {
+    background-color: DodgerBlue;
+    outline-color: DodgerBlue;
   }
-
-  .timeline-item.right {
-    left: 0;
-  }
-
-  .timeline::after {
-    left: 10px;
-  }
-
-  .timeline-item::before {
-    left: -10px;
+  &::after {
+    filter: invert(48%) sepia(32%) saturate(5795%) hue-rotate(192deg)
+      brightness(101%) contrast(102%);
   }
 }
+
+/* Item 2 */
+
+#tl-btn-2:not(.collapsed) {
+  color: dodgerblue;
+  background-color: White !important;
+  border: 1px solid dodgerblue;
+  border-top-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  &::before {
+    background-color: dodgerblue;
+    outline-color: dodgerblue;
+  }
+  &::after {
+    filter: invert(55%) sepia(61%) saturate(2557%) hue-rotate(2deg)
+      brightness(105%) contrast(106%);
+  }
+}
+
+/* Item 3 */
+
+#tl-btn-3:not(.collapsed) {
+  color: dodgerblue;
+  background-color: White !important;
+  border: 1px solid dodgerblue;
+  border-top-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  &::before {
+    background-color: dodgerblue;
+    outline-color: dodgerblue;
+  }
+  &::after {
+    filter: invert(64%) sepia(35%) saturate(3888%) hue-rotate(296deg)
+      brightness(102%) contrast(101%);
+  }
+}
+#tl-btn-3:not(.collapsed) {
+  color: dodgerblue;
+  background-color: White !important;
+  border: 1px solid dodgerblue;
+  border-top-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  &::before {
+    background-color: dodgerblue;
+    outline-color: dodgerblue;
+  }
+  &::after {
+    filter: invert(64%) sepia(35%) saturate(3888%) hue-rotate(296deg)
+      brightness(102%) contrast(101%);
+  }
+}
+
+#tl-btn-1.collapsed,
+#tl-btn-2.collapsed,
+#tl-btn-3.collapsed {
+  border: 1px solid DimGrey;
+  border-top-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+
+/* Bootstrap Timeline Solid Style */
+
+#tl-btn-4:not(.collapsed) {
+  color: White;
+  background-color: DodgerBlue;
+  border: none;
+  border-radius: 0;
+  &::before {
+    background-color: DodgerBlue;
+    outline-color: DodgerBlue;
+  }
+  &::after {
+    filter: invert(100%) brightness(200%);
+  }
+}
+
+/* Item 2 */
+
+#tl-btn-5:not(.collapsed) {
+  color: White;
+  background-color: dodgerblue;
+  border: none;
+  border-radius: 0;
+  &::before {
+    background-color: dodgerblue;
+    outline-color: dodgerblue;
+  }
+  &::after {
+    filter: invert(100%) brightness(200%);
+  }
+}
+
+/* Item 3 */
+
+#tl-btn-6:not(.collapsed) {
+  color: White;
+  background-color: dodgerblue;
+  border: none;
+  border-radius: 0;
+  &::before {
+    background-color: dodgerblue;
+    outline-color: dodgerblue;
+  }
+  &::after {
+    filter: invert(100%) brightness(200%);
+  }
+}
+
+#tl-btn-4.collapsed,
+#tl-btn-5.collapsed,
+#tl-btn-6.collapsed {
+  border: none;
+  border-radius: 0;
+  background-color: #eaeaea;
+}
+
+/* Prevents sticky hover on portable devices */
+
+@media (hover: hover) {
+  #tl-btn-1:hover::before {
+    background-color: Dodgerblue;
+    outline-color: Dodgerblue;
+  }
+  #tl-btn-2:hover::before {
+    background-color: dodgerblue;
+    outline-color: dodgerblue;
+  }
+  #tl-btn-3:hover::before {
+    background-color: dodgerblue;
+    outline-color: dodgerblue;
+  }
+  #tl-btn-4:hover::before {
+    background-color: Dodgerblue;
+    outline-color: Dodgerblue;
+  }
+  #tl-btn-5:hover::before {
+    background-color: dodgerblue;
+    outline-color: dodgerblue;
+  }
+  #tl-btn-6:hover::before {
+    background-color: dodgerblue;
+    outline-color: dodgerblue;
+  }
+}
+
