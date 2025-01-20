@@ -14192,11 +14192,11 @@ div{
   background-size: cover;
 }
 .rs-footer .footer-top {
-  padding: 20px 20px;
+  padding: 218px 0 1px;
 }
 .rs-footer .footer-top .widget-title {
   color: #ffffff;
-  font-size: 18px;
+  font-size: 26px;
   line-height: 26px;
   font-weight: 700;
   text-transform: uppercase;
@@ -14209,6 +14209,7 @@ div{
 }
 .rs-footer .footer-top .site-map li a {
   color: #e8e8e8;
+  font-size: 16px;
 }
 .rs-footer .footer-top .site-map li a:hover {
   color: #21a7d0;
