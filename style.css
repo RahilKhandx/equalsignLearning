@@ -11936,8 +11936,8 @@ div{
   content: '+';
 }
 .rs-counter .counter-item .rs-count.kplus:before {
-  content: 'k+';
-  right: -25px;
+  content: '+';
+  /*right: -25px;*/
 }
 .rs-counter .counter-item .rs-count.percent:before {
   content: '%';

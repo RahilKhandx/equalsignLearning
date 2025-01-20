@@ -69,17 +69,17 @@
                         <div class="col-md-4 sm-mb-30">
                             <div class="counter-item two">
                                 <img class="count-img" src="assets/images/about/style3/icons/2.png" alt="">
-                                <h2 class="number rs-count">4000</h2>
+                                <h2 class="number rs-count kplus">4000</h2>
                                 <h4 class="title mb-0">IIT-JEE & NEET Qualified Students</h4>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="counter-item three">
                                 <img class="count-img" src="assets/images/about/style3/icons/3.png" alt="">
-                                <h2 class="number rs-count">50</h2>
+                                <h2 class="number rs-count kplus">50</h2>
                                 <h4 class="title mb-0">Experienced Faculty</h4>
                             </div>
-                        </div>
+                        </div> 
                     </div>
                 </div>
             </div>
@@ -340,8 +340,8 @@
     <!-- CTA Section Start -->
     <div class="rs-cta style2">
         <div class="partition-bg-wrap home2">
-            <div class="container-fluid" >
-                <div class="row align-items-start justify-content-start" >
+            <div class="container-fluid">
+                <div class="row align-items-start justify-content-start">
                     <div class="col-md-6 col-lg-6 ">
                         <div class="notice-board container">
                             <h2 style="color: white;">Equalsign - Notices</h2>
@@ -404,7 +404,7 @@
                         <h2 class="title mb-0">Educavo Events</h2>
                     </div>
                     <div class="single-img wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
-                        <img src="assets/images/event/single.jpg" alt="Event Image">
+                        <img src="assets\images\gallery\eq-5.jpg" alt="Event Image">
                     </div>
                 </div>
                 <div class="col-lg-6 lg-pl-0">
@@ -462,119 +462,167 @@
 
 
     <!-- Testimonial Section Start -->
-    <div class="rs-testimonial home-style1 pt-100 pb-100 md-pt-70 md-pb-70">
+    <div class="rs-testimonial style6 pt-100 md-pt-70">
         <div class="container">
-            <div class="sec-title mb-50 md-mb-30 text-center">
-                <div class="sub-title primary">Testimonial</div>
-                <h2 class="title mb-0">Hear from Our Students</h2>
+            <div class="sec-title text-center mb-70 md-mb-45">
+                <div class="sub-title">Testimonials</div>
+                <h2 class="title title-color">What Our Students Say</h2>
             </div>
-            <div class="rs-carousel owl-carousel" data-loop="true" data-items="2" data-margin="30" data-autoplay="true"
-                data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="true"
-                data-nav="false" data-nav-speed="false" data-md-device="2" data-md-device-nav="false"
-                data-md-device-dots="true" data-center-mode="false" data-ipad-device2="1" data-ipad-device-nav2="false"
-                data-ipad-device-dots2="true" data-ipad-device="2" data-ipad-device-nav="false"
-                data-ipad-device-dots="true" data-mobile-device="1" data-mobile-device-nav="false"
-                data-mobile-device-dots="false">
-                <div class="testi-item">
-                    <div class="author-desc">
-                        <div class="desc"><img class="quote" src="assets/images/testimonial/style5/quote2.png"
-                                alt="">Professional, responsive, and able to keep up with ever-changing demand and tight
-                            deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum Company. When
-                            it comes to content marketing, you’ll definitely get the 5-star treatment from the Lorem
-                            Ipsum Company.</div>
-                        <div class="author-img">
-                            <img src="assets/images/testimonial/style5/1.png" alt="">
+            <div class="rs-carousel owl-carousel nav" data-loop="false" data-items="1" data-margin="30"
+                data-autoplay="false" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800"
+                data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false"
+                data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false"
+                data-ipad-device="1" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="1"
+                data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="1"
+                data-md-device-nav="false" data-md-device-dots="false">
+                <div class="testimonial-item">
+                    <div class="row">
+                        <div class="offset-lg-1"></div>
+                        <div class="col-lg-4">
+                            <div class="img-part">
+                                <img src="assets\images\gallery\testtimonial-1.jpg" alt="">
+                            </div>
                         </div>
-                    </div>
-                    <div class="author-part">
-                        <a class="name" href="#">Mahadi Monsura</a>
-                        <span class="designation">Student</span>
+                        <div class="col-lg-7">
+                            <div class="content-part">
+                                <div class="content-wrap">
+                                    <div class="text">
+                                        <p>
+                                            I
+                                            studied at Equalsign from 2017 to 2020. Enrolling at Equalsign was a
+                                            game-changer for me.
+                                            The expert guidance, tailored teaching methods and ample study materials
+                                            provided by them
+                                            was very helpful, The supportive environment and interactive classes not
+                                            only made learning
+                                            enjoyable but also enhanced my understanding of complex topics. Thanks to
+                                            the mentorship and
+                                            resources offered by them, I was among the toppers in Maths,
+                                            Biology and Chemistry.
+                                        </p>
+                                    </div>
+                                    <div class="info">
+                                        <div class="cite">
+                                            <h3 class="name">P Kanyaa</h3>
+                                        </div>
+                                        <span class="position">Student</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="testi-item">
-                    <div class="author-desc">
-                        <div class="desc"><img class="quote" src="assets/images/testimonial/style5/quote2.png" alt="">I
-                            was skeptical of SEO and content marketing at first, but the Lorem Ipsum Company not only
-                            proved itself financially speaking, but the response I have received from customers is
-                            incredible. The work is top-notch and I consistently outrank all my competitors on Google.
+                <div class="testimonial-item">
+                    <div class="row">
+                        <div class="offset-lg-1"></div>
+                        <div class="col-lg-4">
+                            <div class="img-part">
+                                <img src="assets\images\gallery\testtimonial-4.jpg" alt="">
+                            </div>
                         </div>
-                        <div class="author-img">
-                            <img src="assets/images/testimonial/style5/2.png" alt="">
+                        <div class="col-lg-7">
+                            <div class="content-part">
+                                <div class="content-wrap">
+                                    <div class="text">
+                                        <p>
+                                            It
+                                            was EqualSign inaugural year in our locality, and during my 10th-grade CBSE
+                                            board exams, I
+                                            achieved one of the top scores among EqualSign students. Seeing my photo on
+                                            a hoarding board
+                                            in our locality was a truly special moment. Repeating that success in my
+                                            12th-grade exams
+                                            held equal significance for me.
+                                        </p>
+                                    </div>
+                                    <div class="info">
+                                        <div class="cite">
+                                            <h3 class="name">Abhishek Singh</h3>
+                                        </div>
+                                        <span class="position">Student</span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="author-part">
-                        <a class="name" href="#">Alex Fenando</a>
-                        <span class="designation">English Teacher</span>
                     </div>
                 </div>
-                <div class="testi-item">
-                    <div class="author-desc">
-                        <div class="desc"><img class="quote" src="assets/images/testimonial/style5/quote2.png"
-                                alt="">After being forced to move twice within five years, our customers had a hard time
-                            finding us and our sales plummeted. The Lorem Ipsum Co. not only revitalized our brand, but
-                            saved our nearly 100-year-old family business from the brink of ruin by optimizing our
-                            website for SEO
-                            Our Clients.</div>
-                        <div class="author-img">
-                            <img src="assets/images/testimonial/style5/3.png" alt="">
+                <div class="testimonial-item">
+                    <div class="row">
+                        <div class="offset-lg-1"></div>
+                        <div class="col-lg-4">
+                            <div class="img-part">
+                                <img src="assets\images\gallery\testtimonial-3.jpg" alt="">
+                            </div>
                         </div>
-                    </div>
-                    <div class="author-part">
-                        <a class="name" href="#">Losis Dcosta</a>
-                        <span class="designation">Math Teacher</span>
+                        <div class="col-lg-7">
+                            <div class="content-part">
+                                <div class="content-wrap">
+                                    <div class="text">
+                                        <p>
+                                            I
+                                            want to thank GOD for all the opportunities and blessings he has given me,
+                                            studying in
+                                            Equalsign is definitely one of them. I am T Jemi Teena currently studying in
+                                            class 12. I
+                                            have studied in Equalsign for 3 years. Equalsign is definitely the best for
+                                            every student
+                                            who want to turn their dreams into reality. Very truly I say teachers here
+                                            are just like our
+                                            parents. They want nothing but our best and us to reach a good position.
+                                            They are so
+                                            experienced and wonderful.
+                                        </p>
+                                    </div>
+                                    <div class="info">
+                                        <div class="cite">
+                                            <h3 class="name">T Jemi Teena</h3>
+                                        </div>
+                                        <span class="position">CSE Student</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="testi-item">
-                    <div class="author-desc">
-                        <div class="desc"><img class="quote" src="assets/images/testimonial/style5/quote2.png"
-                                alt="">Professional, responsive, and able to keep up with ever-changing demand and tight
-                            deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum Company. When
-                            it comes to content marketing, you’ll definitely get the 5-star treatment from the Lorem
-                            Ipsum Company.</div>
-                        <div class="author-img">
-                            <img src="assets/images/testimonial/style5/1.png" alt="">
+                <div class="testimonial-item">
+                    <div class="row">
+                        <div class="offset-lg-1"></div>
+                        <div class="col-lg-4">
+                            <div class="img-part">
+                                <img src="assets\images\gallery\testtimonial-2.jpg" alt="">
+                            </div>
                         </div>
-                    </div>
-                    <div class="author-part">
-                        <a class="name" href="#">Mahadi Monsura</a>
-                        <span class="designation">Student</span>
-                    </div>
-                </div>
-                <div class="testi-item">
-                    <div class="author-desc">
-                        <div class="desc"><img class="quote" src="assets/images/testimonial/style5/quote2.png" alt="">I
-                            was skeptical of SEO and content marketing at first, but the Lorem Ipsum Company not only
-                            proved itself financially speaking, but the response I have received from customers is
-                            incredible. The work is top-notch and I consistently outrank all my competitors on Google.
+                        <div class="col-lg-7">
+                            <div class="content-part">
+                                <div class="content-wrap">
+                                    <div class="text">
+                                        <p>
+                                            Enrolling myself in Equalsign Coaching Institute has been a transformative
+                                            experience. The coaching classes also provided a competitive environment,
+                                            which helped me to
+                                            push myself to do better I was surrounded by friends who are equally
+                                            dedicated and motivated
+                                            and this helped us to create a healthy competition among us. I highly
+                                            recommend Equalsign
+                                            for anyone/everyone who are seeking quality education & guidance for
+                                            a bright future.
+                                        </p>
+                                    </div>
+                                    <div class="info">
+                                        <div class="cite">
+                                            <h3 class="name">M Anita</h3>
+                                        </div>
+                                        <span class="position">CSE Student</span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="author-img">
-                            <img src="assets/images/testimonial/style5/2.png" alt="">
-                        </div>
-                    </div>
-                    <div class="author-part">
-                        <a class="name" href="#">Alex Fenando</a>
-                        <span class="designation">English Teacher</span>
-                    </div>
-                </div>
-                <div class="testi-item">
-                    <div class="author-desc">
-                        <div class="desc"><img class="quote" src="assets/images/testimonial/style5/quote2.png"
-                                alt="">After being forced to move twice within five years, our customers had a hard time
-                            finding us and our sales plummeted. The Lorem Ipsum Co. not only revitalized our brand, but
-                            saved our nearly 100-year-old family business from the brink of ruin by optimizing our
-                            website for SEO Our Clients.</div>
-                        <div class="author-img">
-                            <img src="assets/images/testimonial/style5/3.png" alt="">
-                        </div>
-                    </div>
-                    <div class="author-part">
-                        <a class="name" href="#">Losis Dcosta</a>
-                        <span class="designation">Math Teacher</span>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+  
     <!-- Testimonial Section End -->
 
 
