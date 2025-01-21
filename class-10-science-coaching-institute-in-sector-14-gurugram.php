@@ -1,5 +1,20 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Class 10 Science Coaching Institute in Sector 14 Gurugram | Gurgaon </title>
+    <meta name="description" content="Start enrolling in our best Class 10th Science Coaching Institute in Sector 14 Gurugram and get interactive sessions and doubt-solving sessions.">
+	<meta name="keywords" content="10 Science Coaching in sector 14 Gurugram, 10 Science Coaching in sector 14 Gurugram, class 10 Science coaching center sector 14, class 10 Science tuition center sector 14 gurgaon, class 10 Science classes in sector 14 Gurgaon, 10 Science coaching in sector 14 Gurugram, 10 Science tuition center sector 14 Gurugram, class 10 Science coaching institute sector 14 Gurugram, class 10 Science tuition center sector 14 Gurugram, 10 Science Coaching in Port Blair, class 10 Science coaching center Port Blair, Best Science coaching institute in sector 14 Gurugram, Top class 10 Science coaching in sector 14 Gurgaon, 10 Science tuition center Port Blair, 10 Science coaching in Gurugram sector 14, Science Coaching center in sector 14 Gurgaon, Best tuition center in Gurugram sector 14, Science classes in sector 14 Gurugram Gurgaon, port blair">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

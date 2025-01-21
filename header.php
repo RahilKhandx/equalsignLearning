@@ -127,6 +127,7 @@
                                                     <li><a href="about.php">About Us</a></li>
                                                     <li><a href="https://equalsign.org/">CSR (Equal Sign Foundation)</a></li>
                                                     <!-- <li><a href="about3.html">Join Us</a></li> -->
+                                                </li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
@@ -136,7 +137,6 @@
                                                     <li><a href="sip.php">School Integrated Program</a></li>
                                                     <li><a href="learning.php">Online Learning</a></li>
                                                 </ul>
-                                            </li>
                                             <!-- <li class="menu-item-has-children">
                                                 <a href="#">Classes</a>
                                                 <ul class="sub-menu">
@@ -153,24 +153,15 @@
                                                     <!-- <li><a href="blog.html">CBSE (Class 8 to 12)</a></li> -->
                                                     <!-- <li><a href="#">FOUNDATION</a> -->
                                                     <li class="menu-item-has-children">
-                                                        <a href="foundation.php">Foundation (8th-10th)</a>
-                                                        <!-- <ul class="sub-menu">
+                                                <a href="foundation.php">Foundation (8th-10th)</a>
+                                                <!-- <ul class="sub-menu">
                                                     <li><a href="class-8.php">Class 8th</a></li>
                                                     <li><a href="class-9.php">Class 9th</a></li>
                                                     <li><a href="class-10.php">Class 10th</a></li>
                                                     <li><a href="class-11.php">Class 11th</a></li>
                                                     <li><a href="class-12.php">Class 12th</a></li>
                                                 </ul> -->
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">CBSE (11th-12)</a>
-                                                        <ul>
-                                                            <li style="background-color:#EF481B"><a href="class-11.php">Class 11</a></li>
-                                                            <li style="background-color:#EF481B"><a href="class-12.php">Class 12</a></li>
-                                                        </ul>
-                                                    </li>
                                             </li>
-
                                             <li>
                                                 <a href="#">CBSE (11th-12)</a>
                                                 <ul>
@@ -198,34 +189,13 @@
                                             <li class="menu-item-has-children">
                                                 <a href="equalmerit.php">EqualMerit</a>
                                                 <!-- <ul class="sub-menu">
-
-                                            <li><a href="jee.php">JEE Main & Advanced</a></li>
-                                            <li><a href="neet.php">NEET UG</a></li>
-                                            <!-- <li><a href="nda.php">NDA</a></li> -->
-                                            <!-- <li><a href="#">FOUNDATION</a></li> -->
-                                        </ul>
-                                        </li>
-                                        <li class="menu-item-has-children">
-                                            <a href="#">Centers</a>
-                                            <ul class="sub-menu">
-                                                <!-- <li><a href="blog.html">CBSE (Class 8 to 12)</a></li> -->
-                                                <li><a href="gurugram-centers.php">Gurugram</a></li>
-                                                <li><a href="neet.php"> Port Blair</a></li>
-                                                <li><a href="nda.php"> Bambooflat</a></li>
-                                                <li><a href="#"> Jamia Nagar</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item-has-children">
-                                            <a href="equalmerit.php">EqualMerit</a>
-                                            <!-- <ul class="sub-menu">
-
                                                     <li><a href="jee.php">JEE Main & Advanced</a></li>
                                                     <li><a href="neet.php">NEET UG</a></li>
                                                     <li><a href="nda.php">NDA</a></li>
                                                     <li><a href="#">CUET UG</a></li>
                                                 </ul> -->
-                                        </li>
-                                        <li><a href="contact.php">Contact</a></li>
+                                            </li>
+                                            <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>

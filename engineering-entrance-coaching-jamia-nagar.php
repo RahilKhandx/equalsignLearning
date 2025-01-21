@@ -1,6 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
 
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Best Engineering Entrance Coaching in Okhla | Jamia Nagar </title>
+    <meta name="description" content="Engineering Entrance  Coaching in Jamia Nagar and Okhla offers excellent coaching to students and motivates every graduate to achieve their dream.">
+	<meta name="keywords" content="Engineering Entrance Coaching Jamia Nagar, Engineering Entrance Coaching Center Okhla, Engineering Entrance Coaching Classes Jamia Nagar Okhla, Engineering Entrance Coaching in Okhla, Best Engineering Entrance Coaching Jamia Nagar, Engineering Entrance Classes Jamia Nagar, Best Engineering Entrance Coaching in Okhla, Best Entrance Coaching institute Jamia Nagar, Entrance Coaching institute Okhla, Engineering Coaching in Jamia Nagar Okhla">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 <!-- Main content Start -->
 <div class="main-content">

@@ -1,5 +1,21 @@
 <!-- header -->
-<?php include "header.php" ?>
+<!-- header -->
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>NEET Coaching in Port Blair with Fees Structure | Equalsign</title>
+    <meta name="description" content="Equalsign comes up with the best NEET coaching in Port Blair for students. We offer well-equipped facilities, expert instructors and professionals.">
+	<meta name="keywords" content="NEET Coaching in Port Blair, Best NEET Coaching in Port Blair, Top NEET Coaching Institute in Port Blair, NEET Coaching Port Blair, Best NEET Coaching Center in Port Blair, Best Coaching Institute in Port Blair, Coaching Center in Port Blair, Online NEET Classes in Port Blair, NEET Coaching Classes in Port Blair">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

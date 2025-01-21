@@ -1,5 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Economics Coaching Center for 11th And 12th in Sector 14 Gurugram</title>
+    <meta name="description" content="Equalsign is designed to make learning quick and easy. We have the best coaching Center in Sector 14 Gurugram, Port Blair offering the best Economics classes.">
+	<meta name="keywords" content="Economics Coaching Center in Sector 14 Gurugram, Economics Coaching Center in Sector 14 Gurgaon, Economics Tuition Center  in Sector 14 Gurgaon, Economics tuition Center in Sector 14 Gurugram, Best Economics Coaching Center in Sector 14 Gurgaon, Economics Classes in Sector 14, Economics Classes in Sector 14 Gurugram, Economics Coaching in Port Blair, Economics tuition in Port Blair, Best Economics Coaching in Port Blair, Economics Classes in Port Blair, Economics Coaching Institute in Port Blair, Economics Coaching Institute in Gurugram, Economics Coaching Institute in Sector 14 Gurgaon, Economics Tuition in Port Blair, Class 11 Economics coaching Center in Gurugram, Class 11 Economics coaching Center in Gurgaon sector 14, Class 11 Economics coaching Center in Gurugram, Class 11 Economics coaching in Port Blair, Class 12 Economics coaching in Port Blair, Class 12 Economics coaching Center in Gurugram sector 14, Class 12 Economics coaching Center in Gurgaon sector 14, Class 12 Economics coaching  Center in Sector 14 Gurugram, Best Coaching Institute in Sector 14 Gurugram">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

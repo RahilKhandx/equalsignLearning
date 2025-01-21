@@ -1,6 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
 
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Best Engineering Entrance Coaching in Gurugram | Sector 14 </title>
+    <meta name="description" content="Equalsign offers the best Engineering Entrance Coaching in Gurugram for NEET and IIT-JEE. We have professional teachers and facilities.">
+	<meta name="keywords" content="Engineering Entrance Coaching in Gurugram, Engineering Entrance Coaching Center in Sector 14 Gurugram, Engineering Entrance Coaching Classes in Gurugram, Engineering Entrance Coaching in Sector 14 Gurgaon, Best JEE Coaching Center in Sector 14, Best Engineering Entrance Coaching in Sector 14 Gurugram, Engineering Entrance Coaching Center in Gurugram, Best Engineering Entrance Coaching in Sector 14 Gurgaon, Best Entrance Coaching in Gurugram">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 <!-- Main content Start -->
 <div class="main-content">

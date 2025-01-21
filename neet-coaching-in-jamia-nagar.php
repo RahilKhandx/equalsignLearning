@@ -1,5 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Best NEET Coaching Center Jamia Nagar |Okhla | 7669911100 </title>
+    <meta name="description" content="Joining our NEET coaching center Jamia, students can get guidance from highly qualified mentors. They can achieve better scores in the exams.">
+	<meta name="keywords" content="NEET Coaching in Jamia Nagar Okhla, Best NEET coaching Jamia Nagar, Best NEET coaching Center Jamia Nagar, Top NEET coaching Classes Jamia Nagar Okhla, NEET coaching institute in Jamia Nagar, NEET Classes Jamia Nagar, Okhla, NEET Coaching institute in Jamia Nagar, Top 5 NEET coaching institute in Jamia Nagar, NEET Classes in Jamia Nagar Okhla, NEET Coaching Classes in Jamia Nagar, Best NEET Coaching Center Jamia Nagar, Okhla, NEET Classes Jamia Nagar, NEET Coaching Center in Jamia Nagar.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

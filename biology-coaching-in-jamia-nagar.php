@@ -1,6 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
 
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Top Biology Coaching in Jamia Nagar Okhla | Equalsign Learning </title>
+    <meta name="description" content="We offer personalized Biology coaching in Jamia Nagar Okhla for all levels, from foundational concepts to exam preparation.">
+	<meta name="keywords" content="Biology Coaching Center Jamia Nagar Okhla, Biology Coaching in Jamia Nagar, Biology Tuition Jamia Nagar Okhla, Biology Tuition Center Jamia Nagar, Biology Classes in Jamia Nagar Okhla, Biology Classes in Jamia nagar, Biology Coaching in Jamia Nagar Okhla, Biology Tuition in Jamia nagar, Biology Coaching Institute Jamia Nagar Okhla, Class 11 Biology Coaching Jamia Nagar Okhla, Class 12 Biology Coaching Jamia Nagar Okhla, Class 12 Biology coaching in Jamia Nagar, Bioloty Class in Jamia Nagar Okhla">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 <!-- Main content Start -->
 <div class="main-content">

@@ -1,5 +1,20 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> IIT JEE Main Coaching in Jamia Nagar and Okhla | 7669911100 </title>
+    <meta name="description" content="Equalsign is a leading IIT JEE Main Coaching Center in Jamia Nagar Okhla. Our institute is very promising for their future.">
+	<meta name="keywords" content="Best IIT JEE Main Coaching Jamia Nagar Okhla, JEE Main Coaching Jamia Nagar, JEE Main Coaching Okhla, Best IIT JEE Main Coaching Jamia Nagar, JEE Main Coaching Okhla, JEE Main Coaching Jamia Nagar, Mains Coaching Jamia Nagar, IIT JEE Main Coaching Classes Jamia Nagar, Okhla, IIT JEE mains Coaching Jamia Nagar Okhla, IIT JEE Main Classes Jamia Nagar Okhla, Top JEE Main Coaching in Jamia Nagar Okhla, IIT JEE Main Coaching Institutes in Jamia Nagar, JEE Main Coaching Institutes in  
+Okhla, Best JEE Main Coaching Institutes in Jamia Nagar, Best IIT JEE Main Coaching Center in Jamia Nagar, IIT JEE Main Coaching Center in Jamia Nagar, Okhla">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

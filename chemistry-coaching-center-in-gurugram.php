@@ -1,5 +1,20 @@
 <!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Chemistry Coaching Center in Sector 14 Gurugram and Port Blair</title>
+    <meta name="description" content="Get in touch with us if you are around Gurugram. Equalsign, Chemistry Coaching Center in Sector 14 Gurugram gives access to expert teachers and study materials.">
+	<meta name="keywords" content="Chemistry Coaching Center in Sector 14 Gurugram, Chemistry Coaching Center in Sector 14 Gurgaon, Chemistry Tuition in Sector 14 Gurgaon, Chemistry Tuition Center in Sector 14 Gurugram, Best Chemistry Coaching in Sector 14 Gurgaon, Chemistry Classes in Sector 14 Gurugram, Chemistry Classes in Sector 14 Gurugram, Chemistry Coaching in Port Blair, Chemistry Tuition in Port Blair, Best Chemistry Coaching in Port Blair, Chemistry Classes in Port Blair, Chemistry Coaching Institute in Port Blair, Chemistry Coaching Institute in Gurugram, Chemistry Coaching Institute in Sector 14 Gurgaon, Chemistry Tuition in Port Blair, Class 11 Chemistry Coaching Center in Gurugram sector 14, Class 11 Chemistry Coaching Center in Gurgaon sector 14, Class 11 Chemistry Coaching Center in Gurugram, Class 11 Chemistry Coaching Center in Port Blair, Class 12 Chemistry Coaching in Port Blair, Class 12 Chemistry Coaching Center in Sector 14 Gurugram sector 14, Class 12 Chemistry Coaching Center in Gurgaon sector 14, Class 12 Chemistry Coaching Center in Sector 14 Gurugram, Best Coaching Institute in Gurugram sector 14">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

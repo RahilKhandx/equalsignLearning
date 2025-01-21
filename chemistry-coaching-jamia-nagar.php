@@ -1,5 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Chemistry Coaching in Jamia Nagar Okhla | Equalsign Learning </title>
+    <meta name="description" content="Improve Your Grades with our result-oriented Chemistry coaching in Jamia Nagar Okhla. Enroll now and get details.">
+	<meta name="keywords" content="Chemistry Coaching Center Jamia Nagar Okhla, Chemistry Coaching Center Jamia Nagar, Chemistry Tuition Jamia Nagar Okhla, Chemistry Tuition Center in Jamia Nagar, Chemistry Coaching in Okhla, Chemistry Classes in Jamia Nagar Okhla, Chemistry Classes Jamia Nagar, Chemistry Coaching Institute in Jamia Nagar, Class 11 Chemistry Coaching Jamia Nagar, Class 12 Chemistry Coaching in Jamia Nagar, Class 12 Chemistry Coaching Jamia Nagar Okhla, PCM Coaching in Jamia Nagar Okhla, PCM Coaching in Jamia Nagar, PCM Classes in Jamia Nagar Okhla, Best coaching institute Jamia Nagar Okhla, Equalsign Coaching institute jamia Nagar.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

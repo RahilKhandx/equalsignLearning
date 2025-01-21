@@ -1,5 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Maths Coaching in Jamia Nagar Okhla | Equalsign 7669911100 </title>
+    <meta name="description" content="Equalsign is a place where you get the best Maths coaching in Jamia Nagar Okhla. Our teachers are well-trained and qualified.">
+	<meta name="keywords" content="Maths Coaching Center Jamia Nagar Okhla, Maths Coaching Center Jamia Nagar, Maths Tuition Jamia Nagar Okhla, Maths Tuition Center in Jamia Nagar, Maths Coaching in Okhla, Maths Classes in Jamia Nagar Okhla, Maths Classes Jamia Nagar, Maths Coaching Institute in Jamia Nagar, Class 11 Maths Coaching Center Jamia Nagar, Class 12 Maths Coaching in Jamia Nagar, Class 12 Maths Coaching Jamia Nagar Okhla, Mathematics Coaching in Jamia Nagar Okhla, Mathematics Coaching in Jamia Nagar, Mathematics Classes in Jamia Nagar Okhla, Best coaching institute Jamia Nagar Okhla, Equalsign Coaching institute. Mathematics Classes Jamia Nagar Okhla, Mathematics Tuition Center in Jamia Nagar">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

@@ -1,5 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Best Physics Coaching Center in Sector 14 Gurugram | Port Blair </title>
+    <meta name="description" content="Equalsign Physics coaching Center in Sector 14 Gurugram, where learning becomes a joyful experience with a comprehensive and interactive online coaching program.">
+	<meta name="keywords" content="Physics Coaching Center in Sector 14 Gurugram, Physics Coaching Center in Sector 14 Gurgaon, Physics Tuition in Sector 14 Gurgaon, Physics Tuition Center in Gurugram, Best Physics Coaching Center in Sector 14 Gurgaon, Physics Classes in Sector 14 Gurugram, Physics Classes in Gurugram, Physics Coaching in Port Blair, Physics Tuition in Port Blair, Best Physics Coaching in Port Blair, Physics Classes in Port Blair, Physics Coaching Institute in Port Blair, Physics Coaching Institute in Gurugram, Physics Coaching Institute in Sector 14 Gurgaon, Physics Tuition in Port Blair, Class 11 Physics Coaching Center in Gurugram sector 14, Class 11 Physics Coaching Center in Gurgaon sector 14, Class 11 Physics Coaching Center in Gurugram, Class 11 Physics Coaching in Port Blair, Class 12 Physics Coaching in Port Blair, Class 12 Physics Coaching Center in Gurugram sector 14, Class 12 Physics Coaching Center in Sector 14 Gurgaon, Class 12 Physics Coaching Center in Sector 14 Gurugram, Best Coaching Institute in Sector 14 Gurugram, Best Coaching Institute in Port Blair">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

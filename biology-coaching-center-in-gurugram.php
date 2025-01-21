@@ -1,6 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
 
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Top Biology Coaching Center in Sector 14 Gurugram | Port Blair</title>
+    <meta name="description" content="Equalsign is the best coaching institute in Sector 14 Gurugram, offering Biology courses and classes for better preparation. Visit our website now.">
+	<meta name="keywords" content="Biology Coaching Center in Sector 14 Gurugram, Biology Coaching in Sector 14 Gurgaon, Biology Tuition Center in Sector 14 Gurgaon, Biology Tuition Center in Sector 14 Gurugram, Best Biology Coaching in Sector 14 Gurgaon, Biology Classes in Sector 14 Gurugram, Biology Classes in Sector 14 Gurugram, Biology Coaching in Port Blair, Biology Tuition in Port Blair, Best Biology Coaching in Port Blair, Biology Classes in Port Blair, Biology Coaching Institute in Port Blair, Biology Coaching Institute in Gurugram, Biology Coaching Institute in Sector 14 Gurgaon, Biology Tuition in Port Blair, Class 11 Biology Coaching in Gurugram sector 14, Class 11 Biology Coaching in Gurgaon sector 14, Class 11 Biology Coaching in Gurugram, Class 11 Biology Coaching in Port Blair, Class 12 Biology Coaching in Port Blair, Class 12 Biology coaching in Gurugram sector 14, Class 12 Biology Coaching in Sector 14 Gurgaon, Class 12 Biology Coaching in Sector 14 Gurugram, Best Coaching Institute in Sector 14 Gurugram">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 <!-- Main content Start -->
 <div class="main-content">

@@ -1,6 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
 
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Science Coaching in Jamia Nager Okhla | Equalsign 7669911100 </title>
+    <meta name="description" content="Our Science coaching classes in Jamia Nagar and Okhla offer complete training for appearing in competitive exams such as IIT JEE.">
+	<meta name="keywords" content="Science Coaching in Jamia Nager Okhla, Science Classes Jamia Nager Okhla, 8 Science Coaching in Jamia Nagar Okhla, 9 Science Coaching Jamia Nagar Okhla, class 10 Science coaching Jamia Nagar Okhla, class 8 Science tuition center sector Jamia Nagar, class 9 Science tuition center sector Jamia Nagar, class 10 Science tuition center Jamia Nagar, class 8 Science classes jamia Nagar, class 9 Science tuition center Jamia Nagar, Science coaching in Jamia Nagar, Science tuition center Jamia nager okhla, class 8 Science coaching institute Jamia Nagar Okhla, class 10 Science tuition center Jamia Nagar Okhla, 9 Science Coaching Jamia Nagar Okhla, class 10 Science coaching Jamia Nagar Okhla, Best Science coaching institute in Jamia Nagar Okhla, Science tuition for class 8-9-10 Jamia Nagar Okhla.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 <!-- Main content Start -->
 <div class="main-content">

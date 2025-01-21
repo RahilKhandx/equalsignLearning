@@ -100,21 +100,21 @@
                         <img src="assets/images/subject/icons/1.png" alt="">
                         <h4 class="title"><a href="#">Coaching Institute</a></h4>
 
-                        <span class="course-qnty">04 Courses</span>
+                        <!-- <span class="course-qnty">04 Courses</span> -->
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-30">
                     <div class="subject-wrap bgc2 text-light">
                         <img src="assets/images/subject/icons/2.png" alt="">
                         <h4 class="title"><a href="#"> School Integrated Program</a></h4>
-                        <span class="course-qnty">04 Courses</span>
+                        <!-- <span class="course-qnty">04 Courses</span> -->
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-30">
                     <div class="subject-wrap bgc3">
                         <img src="assets/images/subject/icons/3.png" alt="">
                         <h4 class="title"><a href="#">Online Learning</a></h4>
-                        <span class="course-qnty">04 Courses</span>
+                        <!-- <span class="course-qnty">04 Courses</span> -->
                     </div>
                 </div>
                 <!-- <div class="col-lg-4 col-md-6 mb-30">
@@ -182,7 +182,7 @@
                             </div>
                         </div>
                         <div class="price-btn">
-                            <a href="#">$55.00 <i class="flaticon-next"></i></a>
+                            <!-- <a href="#">$55.00 <i class="flaticon-next"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                             </div>
                         </div>
                         <div class="price-btn">
-                            <a href="#">$55.00 <i class="flaticon-next"></i></a>
+                            <!-- <a href="#">$55.00 <i class="flaticon-next"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -250,16 +250,16 @@
                         </div>
 
                         <div class="price-btn">
-                            <a href="#">$55.00 <i class="flaticon-next"></i></a>
+                            <!-- <a href="#">$55.00 <i class="flaticon-next"></i></a> -->
                         </div>
                     </div>
                 </div>
 
 
             </div>
-            <div class="btn-part text-center mt-30">
+            <!-- <div class="btn-part text-center mt-30">
                 <a class="readon3 " href="#">View All Courses</a>
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- Popular Course Section End -->
@@ -629,7 +629,7 @@
     <!-- Section Gray bg Wrap start -->
     <div class="gray-bg">
         <!-- Blog Section Start -->
-        <div id="rs-blog" class="rs-blog style2 pt-94 pb-100 md-pt-64 md-pb-70">
+        <!-- <div id="rs-blog" class="rs-blog style2 pt-94 pb-100 md-pt-64 md-pb-70">
             <div class="container">
                 <div class="sec-title mb-60 text-center">
                     <div class="sub-title primary">News Update </div>
@@ -718,7 +718,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Blog Section End -->
 
         <!-- Newsletter section start -->

@@ -1,5 +1,20 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Best Accounts Coaching Center in Sector 14 Gurugram | Port Blair </title>
+    <meta name="description" content="Equalsign offers class 11 accounting coaching Center in Sector 14 Gurugram with good study materials and a well-structured curriculum to assist students.">
+	<meta name="keywords" content="Accounts Coaching Center in Sector 14 Gurugram, Accounts Coaching Center in Sector 14 Gurgaon, Accounts Tuition Center in Sector 14 Gurgaon, Accounts tuition Center in Sector 14 Gurugram, Best Accounts Coaching Center in Sector 14 Gurgaon, Accounts Classes in Sector 14, Accounts Classes in Gurugram, Accounts Coaching Center in Port Blair, Accounts tuition Center in Port Blair, Best Accounts Coaching Center in Port Blair, Accounts Classes in Port Blair, Accounts Coaching Center in Port Blair, Accounts Coaching Center in Gurugram, Accounts Coaching Center in Sector 14 Gurgaon, Class 11 Accounts coaching Center in Gurugram sector 14, Class 11 Accounts coaching Center in Gurgaon sector 14, Class 11 Accounts coaching Center in Gurugram, Class 11 Accounts coaching Center in Port Blair, Class 12 Accounts coaching Center in Port Blair, Class 12 Accounts coaching Center in Sector 14 Gurugram, Class 12 Accounts coaching Center in Sector 14 Gurugram, Class 12 Accounts coaching Center in Sector 14 Gurugram">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

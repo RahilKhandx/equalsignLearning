@@ -1,5 +1,20 @@
 <!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>IIT JEE Advance Coaching in Gurugram | Sector 14</title>
+    <meta name="description" content="Equalsign has earned a good place in providing IIT JEE Advance Coaching in Gurugram. We offer a structured atmosphere and quality study materials.">
+	<meta name="keywords" content="Best IIT JEE Advance Coaching in Gurugram, IIT JEE Advance Coaching in Gurugram, IIT JEE Advance Coaching Sector 14, Best IIT JEE Advance Coaching in Gurgaon, IIT JEE Advance Coaching in Sector 14 Gurgaon, JEE Advance Coaching in Sector 14 Gurugram, JEE Advance Coaching in Gurgaon, JEE Advance Coaching in Sector 14, JEE Advance Coaching  Center in Sector 14 Gurugram, Best coaching Institute in Sector 14 Gurugram, IIT JEE Coaching in Sector 14 Gurugram, IIT JEE Coaching in Sector 14 Gurugram, IIT JEE Coaching Center in Gurugram">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

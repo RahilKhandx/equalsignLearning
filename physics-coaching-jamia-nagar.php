@@ -1,5 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Best Physics Coaching Jamia Nagar Okhla | Equalsign 7669911100 </title>
+    <meta name="description" content="Get Expert Physics Coaching Jamia Nagar Okhla. Our Classes Help Students of All Levels Ace Their Exams. Enroll Today!">
+	<meta name="keywords" content="Physics Coaching Center Jamia Nagar Okhla, Physics Coaching Center Jamia Nagar, Physics Tuition Jamia Nagar Okhla, Physics Tuition Center in Jamia Nagar, Physics Coaching in Okhla, Physics Classes in Jamia Nagar Okhla, Physics Classes Jamia Nagar, Physics Coaching Institute in Jamia Nagar, Class 11 Physics Coaching Center Jamia Nagar, Class 12 Physics Coaching in Jamia Nagar, Class 12 Physics Coaching Jamia Nagar Okhla, Physics Coaching in Jamia Nagar.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

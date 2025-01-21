@@ -1,5 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Class 9 Science Coaching Institute in Sector 14 Gurugram | Gurgaon </title>
+    <meta name="description" content="Our Class 9th Science Coaching Institute in Sector 14 Gurugram clears all Science concepts with ease and ace your exams with expert guidance.">
+	<meta name="keywords" content="9 Science Coaching in sector 14 Gurugram, 9 Science Coaching in sector 14 Gurugram, class 9 Science coaching center sector 14, class 9 Science tuition center sector 14 gurgaon, class 9 Science classes in sector 14 Gurgaon, 9 Science coaching in sector 14 Gurugram, 9 Science tuition center sector 14 Gurugram, class 9 Science coaching institute sector 14 Gurugram, class 9 Science tuition center sector 14 Gurugram, 9 Science Coaching in Port Blair, class 9 Science coaching center Port Blair, Best Science coaching institute in sector 14 Gurugram, top class 9 Science coaching in sector 14 Gurgaon, 9 Science tuition center Port Blair, 9 Science coaching in Gurugram sector 14, Science Coaching center in sector 14 Gurgaon, Best tuition center in Gurugram sector 14, Science classes in sector 14 Gurugram Gurgaon, port blair">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

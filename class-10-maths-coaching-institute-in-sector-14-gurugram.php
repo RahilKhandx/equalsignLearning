@@ -1,5 +1,20 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Class 10 Maths Coaching Institute in Sector 14 Gurugram | Gurgaon </title>
+    <meta name="description" content="Enroll in the best Class 10th Maths Coaching Institute Sector 14 Gurugram. Join our trial classes to know what is best for you.">
+	<meta name="keywords" content="10 Maths Coaching in sector 14 Gurugram, 10 Maths Coaching in sector 14 Gurugram, class 10 maths coaching center sector 14, class 10 maths tuition center sector 14 gurgaon, class 10 maths classes in sector 14 Gurgaon, maths coaching in sector 14 Gurugram, maths tuition center sector 14 Gurugram, class 10 maths coaching institute sector 14 Gurugram, class 10 mathematics tuition center sector 14 Gurugram, 10 Maths Coaching in Port Blair, class 10 math coaching center Port Blair, Best maths coaching institute in sector 14 Gurugram, top class 10 maths coaching in sector 14 gurgaon, class 10 maths tuition center Port Blair, 10 maths coaching in gurgaon sector 14, gurugram, port blair">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

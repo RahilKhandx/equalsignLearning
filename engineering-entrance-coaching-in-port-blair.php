@@ -1,5 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Top Engineering Entrance Coaching in Port Blair | NDA Classes </title>
+    <meta name="description" content="Enroll in our Engineering Entrance Coaching in Port Blair to crack competitive exams like IIT JEE, JEE Advance, and Mains.">
+	<meta name="keywords" content="Engineering Entrance Coaching in Port Blair, Entrance Coaching in Port Blair, Engineering Entrance Coaching Port Blair, Coaching Center in Port Blair, Best Entrance Coaching in Port Blair, Coaching Institute in Port Blair, NDA Coaching in Port Blair, NDA tutoring in Port Blair">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

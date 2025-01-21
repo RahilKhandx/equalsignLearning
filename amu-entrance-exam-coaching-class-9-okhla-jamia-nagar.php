@@ -1,5 +1,21 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> AMU Entrance Exam coaching class 9 Okhla, Jamia Nagar | Delhi </title>
+    <meta name="description" content="Prepare for the Jamia entrance exams Coaching Class 9 in Okhla Jamia Nagar. Join our expert coaching program for targeted and comprehensive exam.">
+	<meta name="keywords" content="AMU Entrance exam coaching class 9 Jamia Nagar Okhla, AMU Entrance exam Coaching class 9 Okhla, AMU Entrance exam coaching Classes Okhla, 
+AMU Entrance coaching Jamia Nagar Okhla, AMU Entrance coaching Class 9 Okhla, Best AMU Entrance coaching Class 9 Okhla, Best AMU Entrance coaching 
+Jamia Nagar Okhla, AMU Entrance exam coaching institute Okhla.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

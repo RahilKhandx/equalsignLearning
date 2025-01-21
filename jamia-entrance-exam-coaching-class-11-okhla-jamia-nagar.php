@@ -1,5 +1,21 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Jamia Entrance Exam Coaching Class 11 Okhla Jamia Nagar Delhi </title>
+    <meta name="description" content="Prepare for the Jamia entrance exam coaching for Class 11 in Jamia Nagar Okhla. Join our expert coaching program for targeted and comprehensive exam preparation.">
+	<meta name="keywords" content="Jamia Entrance exam class 11 Okhla, Jamia Entrance exam class 11 Okhla Jamia Nagar, Jamia Entrance exam Coaching Institute Okhla, 
+ Jamia Entrance exam Coaching class 11 Jamia Nagar, Best Jamia Entrance exam Coaching Institute 2025, Jamia Entrance exam Coaching classes okhla, 
+ Jamia Entrance exam Coaching 11 okhla, Best Jamia Entrance exam class 11 Okhla, Best Jamia Entrance exam Coaching institute Okhla Delhi, Jamia Entrance exam 
+ Coaching class 11 Okhla Jamia Nagar Delhi.">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->

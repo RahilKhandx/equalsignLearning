@@ -1,6 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
 
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Best Institute for NEET Coaching in Gurugram | Sector 14</title>
+    <meta name="description" content="Get the best NEET Coaching in Gurugram with our verified and reliable list of professional teachers and mock tests.">
+	<meta name="keywords" content="NEET coaching in Gurugram, Best NEET coaching in Sector 14 Gurugram, Best NEET coaching Center Gurugram, Top NEET coaching Classes in Gurugram, NEET coaching institute in Sector 14 Gurugram, NEET classes in Sector 14 Gurugram, NEET coaching institute in Gurugram, Top 5 NEET coaching institute in sector 14 Gurugram, Top 10 NEET coaching institute in Gurugram, NEET Classes in Gurgugram, NEET Coaching Classes in Gurgugram, Best NEET coaching center in Gurugram">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 <!-- Main content Start -->
 <div class="main-content">

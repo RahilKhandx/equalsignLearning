@@ -1,6 +1,20 @@
 <!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
 
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Maths Coaching for Classes 8-9-10 Jamia Nagar Okhla | 7669911100 </title>
+    <meta name="description" content="Our highly qualified and skilled faculty teachers have extensive backgrounds in providing classroom guidance in Maths Coaching for Classes 8, 9, and 10.">
+	<meta name="keywords" content="8 Maths Coaching in Jamia Nagar Okhla, 9 Maths Coaching Jamia Nagar Okhla, class 10 math coaching Jamia Nagar Okhla, class 8 maths tuition center sector Jamia Nagar, class 9 maths tuition center sector Jamia Nagar, class 10 maths tuition center sector Jamia Nagar, class 8 maths classes jamia Nagar, class 9 maths tuition center sector Jamia Nagar, maths coaching in Jamia Nagar, maths tuition center Jamia nager okhla, class 8 maths coaching institute Jamia Nagar Okhla, class 10 mathematics tuition center Jamia Nagar Okhla, 9 Maths Coaching Jamia Nagar Okhla, class 10 math coaching Jamia Nagar Okhla, Best maths coaching institute in Jamia Nagar Okhla, mathematics tuition for class 8-9-10 Jamia Nagar Okhla.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 <!-- Main content Start -->
 <div class="main-content">

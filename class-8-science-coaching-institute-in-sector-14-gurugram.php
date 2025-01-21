@@ -1,5 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Class 8 Science Coaching Institute in Sector 14 Gurugram | Gurgaon </title>
+    <meta name="description" content="Equalsign is the top-notch Class 8th Science Coaching Institute in Sector 14 Gurugram that caters to students from all corners of the country.">
+	<meta name="keywords" content="8 Science Coaching in sector 14 Gurugram, 8 Science Coaching in sector 14 Gurugram, class 8 Science coaching center sector 14, class 8 Science tuition center sector 14 gurgaon, class 8 Science classes in sector 14 Gurgaon, 8 Science coaching in sector 14 Gurugram, 8 Science tuition center sector 14 Gurugram, class 8 Science coaching institute sector 14 Gurugram, class 10 mathematics tuition center sector 14 Gurugram, 8 Science Coaching in Port Blair, class 8 Science coaching center Port Blair, Best Science coaching institute in sector 14 Gurugram, top class 8 Science coaching in sector 14 Gurgaon, 8 Science Science tuition center Port Blair, 8 Science coaching in Gurugram sector 14, Science Coaching center in sector 14 Gurgaon, Best tuition center in Gurugram sector 14, Science classes in sector 14 Gurugram Gurgaon, port blair">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+    <?php include "menu.php" ?>
 
 
 <!-- Main content Start -->
