@@ -144,7 +144,7 @@
                             <div class="course-item" >
                                 <div class="course-image">
                                   <a href="#">
-                                      <img src="assets/images/courses/home6/style1/1.png"  alt="images">
+                                      <img src="assets\images\Seamless learning Experience.png"  alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -182,7 +182,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="coachinginstitute.php">
-                                      <img src="assets/images/courses/home6/style1/2.png" alt="images">
+                                      <img src="assets\images\Convenience for Students.png" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -205,7 +205,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="#">
-                                      <img src="assets/images/courses/home6/style1/3.png" alt="images">
+                                      <img src="assets\images\Lightening the Load for Schools.png" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -235,7 +235,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="#">
-                                      <img src="assets/images/courses/home6/style1/4.png" alt="images">
+                                      <img src="assets\images\Customized Foundation and Exam Preparation.png" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
