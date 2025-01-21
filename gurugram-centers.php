@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 <div class="rs-breadcrumbs breadcrumbs-overlay">
     <div class="breadcrumbs-img">
-        <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+        <img src="assets\images\About Us.png" alt="Breadcrumbs Image">
     </div>
     <div class="breadcrumbs-text white-color">
         <h1 class="page-title">Gurugram Center</h1>
@@ -13,18 +13,16 @@
         </ul>
     </div>
 </div>
-<div id="rs-about" class="rs-about style1 pt-100 pb-100 md-pt-70 md-pb-70">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6 order-last padding-0 md-pl-15 md-pr-15 md-mb-30">
-                    <div class="img-part">
-                        <img class="wow fadeInUp" src="assets/images/about/about2orange.png" alt="About Image">
-                    </div>
-                </div>
-                <div class="col-lg-6 pr-70 md-pr-15">
-                    <div class="sec-title">
-                        <div class="sub-title orange">About Equalsign</div>
-                        <h2 class="title mb-17">Welcome to The Equalsign Gurugram Center</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="assets\images\Equalsign Imaes\683 x 529.png" alt="">
+        </div>
+        <div class="col-md-6">
+        <div class="sec-title pt-5">
+                        <div class="sub-title orange">About</div>
+                        <h2 class="title mb-17">Equalsign Gurugram</h2>
                         <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
                         <div class="desc">
                             <p>Equalsign Learning is your compass for academic success. As a premier coaching
@@ -38,233 +36,58 @@
                             </p>
                         </div>
                     </div>
-                </div>
-            </div>
         </div>
     </div>
-<div class="rs-inner-blog orange-color pt-100 pb-100 md-pt-70 md-pb-70">
+</div>
+<div class="contact-page-section pt-100 pb-100 md-pt-70 md-pb-70">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-4 col-md-12 pr-50 md-pr-15">
-                <div class="widget-area">
-                    <div class="search-widget mb-50">
-                        <div class="search-wrap">
-                            <input type="search" placeholder="Searching..." name="s" class="search-input" value="">
-                            <button type="submit" value="Search"><i class=" flaticon-search"></i></button>
-                        </div>
+        <div class="row rs-contact-box mb-90 md-mb-50">
+            <div class="col-lg-3 col-md-12-4 lg-pl-0 sm-mb-30 md-mb-30">
+                <div class="address-item">
+                    <div class="icon-part">
+                        <img src="assets/images/contact/icon/1.png" alt="">
                     </div>
-                    <div class="recent-posts-widget mb-50">
-                        <h3 class="widget-title">Recent Posts</h3>
-                        <div class="show-featured ">
-                            <div class="post-img">
-                                <a href="#"><img src="assets/images/blog/style2/1.jpg" alt=""></a>
-                            </div>
-                            <div class="post-desc">
-                                <a href="#">Covid-19 threats the generation</a>
-                                <span class="date">
-                                    <i class="fa fa-calendar"></i>
-                                    April 6, 2020
-                                </span>
-                            </div>
-                        </div>
-                        <div class="show-featured ">
-                            <div class="post-img">
-                                <a href="#"><img src="assets/images/blog/style2/2.jpg" alt=""></a>
-                            </div>
-                            <div class="post-desc">
-                                <a href="#">Soundtrack filma Exclusive Music</a>
-                                <span class="date">
-                                    <i class="fa fa-calendar"></i>
-                                    November 19, 2018
-                                </span>
-                            </div>
-                        </div>
-                        <div class="show-featured ">
-                            <div class="post-img">
-                                <a href="#"><img src="assets/images/blog/style2/3.jpg" alt=""></a>
-                            </div>
-                            <div class="post-desc">
-                                <a href="#">Soundtrack filma Exclusive Music</a>
-                                <span class="date">
-                                    <i class="fa fa-calendar"></i>
-                                    September 6, 2020
-                                </span>
-                            </div>
-                        </div>
-                        <div class="show-featured ">
-                            <div class="post-img">
-                                <a href="#"><img src="assets/images/blog/style2/4.jpg" alt=""></a>
-                            </div>
-                            <div class="post-desc">
-                                <a href="#">Given void great you’re good</a>
-                                <span class="date">
-                                    <i class="fa fa-calendar"></i>
-                                    September 6, 2020
-                                </span>
-                            </div>
-                        </div>
-                        <div class="show-featured ">
-                            <div class="post-img">
-                                <a href="#"><img src="assets/images/blog/style2/5.jpg" alt=""></a>
-                            </div>
-                            <div class="post-desc">
-                                <a href="#">Lights winged seasons fish</a>
-                                <span class="date">
-                                    <i class="fa fa-calendar"></i>
-                                    September 6, 2020
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="widget-archives mb-50">
-                        <h3 class="widget-title">Archives</h3>
-                        <ul>
-                            <li><a href="#">September 2020</a></li>
-                            <li><a href="#">September 2020</a></li>
-                        </ul>
-                    </div>
-                    <div class="widget-archives mb-50">
-                        <h3 class="widget-title">Categories</h3>
-                        <ul>
-                            <li><a href="#">College</a></li>
-                            <li><a href="#">High School</a></li>
-                            <li><a href="#">Primary</a></li>
-                            <li><a href="#">School</a></li>
-                            <li><a href="#">University</a></li>
-                        </ul>
-                    </div>
-                    <div class="recent-posts mb-50">
-                        <h3 class="widget-title">Meta</h3>
-                        <ul>
-                            <li><a href="#">Log in</a></li>
-                            <li><a href="#">Entries feed</a></li>
-                            <li><a href="#">Comments feed</a></li>
-                            <li><a href="#">WordPress.org</a></li>
-                        </ul>
+                    <div class="address-text">
+                        <span class="label">Address</span>
+                        <span class="des">M30 2nd Floor, Old DLF Colony, Sector 14, Gurugram (HR) -
+                        </span>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-8">
-                <div class="row">
-                    <div class="col-lg-12 mb-70">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
-                            </div>
-                            <div class="blog-content">
-                                <h3 class="blog-title"><a href="#">University while the lovely valley team work</a></h3>
-                                <div class="blog-meta">
-                                    <ul class="btm-cate">
-                                        <li>
-                                            <div class="blog-date">
-                                                <i class="fa fa-calendar-check-o"></i> September 14, 2020
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="author">
-                                                <i class="fa fa-user-o"></i> admin
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="tag-line">
-                                                <i class="fa fa-book"></i>
-                                                <a href="#">University</a>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="blog-desc">
-                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-                                    dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-                                    nascetur ridiculus mus. Donec quam...
-                                </div>
-                                <div class="blog-button">
-                                    <a class="blog-btn" href="#">Continue Reading</a>
-                                </div>
-                            </div>
-                        </div>
+            <div class="col-lg-3 col-md-12 lg-pl-0 sm-mb-30 md-mb-30">
+                <div class="address-item">
+                    <div class="icon-part">
+                        <img src="assets/images/contact/icon/2.png" alt="">
                     </div>
-                    <div class="col-lg-12 mb-70">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <a href="#"><img src="assets/images/blog/inner/2.jpg" alt=""></a>
-                            </div>
-                            <div class="blog-content">
-                                <h3 class="blog-title"><a href="#">High school program starting soon 2021</a></h3>
-                                <div class="blog-meta">
-                                    <ul class="btm-cate">
-                                        <li>
-                                            <div class="blog-date">
-                                                <i class="fa fa-calendar-check-o"></i> September 14, 2020
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="author">
-                                                <i class="fa fa-user-o"></i> admin
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="tag-line">
-                                                <i class="fa fa-book"></i>
-                                                <a href="#">High School</a>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="blog-desc">
-                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-                                    dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-                                    nascetur ridiculus mus. Donec quam...
-                                </div>
-                                <div class="blog-button">
-                                    <a class="blog-btn" href="#">Continue Reading</a>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="address-text">
+                        <span class="label">Email Address</span>
+                        <span class="des"><a href="mailto:info@rstheme.com">info@equalsign.in</a></span>
                     </div>
-                    <div class="col-lg-12 mb-70">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <a href="#"><img src="assets/images/blog/inner/3.jpg" alt=""></a>
-                            </div>
-                            <div class="blog-content">
-                                <h3 class="blog-title"><a href="#">Modern School the lovely valley team work</a></h3>
-                                <div class="blog-meta">
-                                    <ul class="btm-cate">
-                                        <li>
-                                            <div class="blog-date">
-                                                <i class="fa fa-calendar-check-o"></i> September 14, 2020
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="author">
-                                                <i class="fa fa-user-o"></i> admin
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="tag-line">
-                                                <i class="fa fa-book"></i>
-                                                <a href="#">Primary</a>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="blog-desc">
-                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-                                    dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-                                    nascetur ridiculus mus. Donec quam...
-                                </div>
-                                <div class="blog-button">
-                                    <a class="blog-btn" href="#">Continue Reading</a>
-                                </div>
-                            </div>
-                        </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-12 lg-pl-0 sm-mb-30">
+                <div class="address-item">
+                    <div class="icon-part">
+                        <img src="assets/images/contact/icon/3.png" alt="">
+                    </div>
+                    <div class="address-text">
+                        <span class="label">Phone Number</span>
+                        <span class="des"><a href="tel%2b0885898745.html">+91 7669911100</a></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-12 lg-pl-0 sm-mb-30">
+                <div class="address-item">
+                    <div class="icon-part">
+                        <img src= "assets\images\tim.jpg"alt="">
+                    </div>
+                    <div class="address-text">
+                        <span class="label">Timing</span>
+                        <span class="des"><a href="tel%2b0885898745.html">9:00 am -5:00 pm</a></span>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-</div>
 </div>
 <?php include "footer.php" ?>

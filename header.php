@@ -181,9 +181,9 @@
                                                 <ul class="sub-menu">
                                                     <!-- <li><a href="blog.html">CBSE (Class 8 to 12)</a></li> -->
                                                     <li><a href="gurugram-centers.php">Gurugram</a></li>
-                                                    <li><a href="neet.php"> Port Blair</a></li>
-                                                    <li><a href="nda.php"> Bambooflat</a></li>
-                                                    <li><a href="#"> Jamia Nagar</a></li>
+                                                    <li><a href="portblair.php"> Port Blair</a></li>
+                                                    <li><a href="bambooflat.php"> Bambooflat</a></li>
+                                                    <li><a href="jamia.php"> Jamia Nagar</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
