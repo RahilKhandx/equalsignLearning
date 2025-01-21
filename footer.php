@@ -32,7 +32,7 @@
                         <li><a href="https://equalsign.org/" target="_blank">CSR (Equalsign Foundation)</a></li>
                         <li><a href="/equalsignLearning/contact.php">Careers</a></li>
                         <li><a href="/equalsignLearning/contact.php">Offline Centers</a></li>
-                        <li><a href="terms">Terms and Conditions</a></li>
+                        <li><a href="/equalsignLearning/terms.php">Terms and Conditions</a></li>
                         <li><a href="privacy-policy">Privacy Policy </a></li>
                         <li><a href="https://equalsign.in/expand-with-us/index"> Expand With Us </a></li>
                     </ul>
