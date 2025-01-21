@@ -2,7 +2,7 @@
 <!-- Main content Start -->
 <div class="rs-breadcrumbs breadcrumbs-overlay">
     <div class="breadcrumbs-img">
-        <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+        <img src="assets\images\About Us.png" alt="Breadcrumbs Image">
     </div>
     <div class="breadcrumbs-text white-color">
         <h1 class="page-title">Class 11th</h1>
@@ -26,7 +26,7 @@
             <div class="col-lg-8 pr-50 md-pr-15">
                 <div class="blog-deatails">
                     <div class="bs-img">
-                        <a href="#"><img src="assets/images/blog/inner/1.jpg" alt="" class="wow fadeInUp"></a>
+                        <a href="#"><img src="assets\images\11.png" alt="" class="wow fadeInUp"></a>
                     </div>
                   
                     <h2 class="title">Class 11th Course Details</h2>

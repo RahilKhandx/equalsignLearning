@@ -170,6 +170,35 @@
                                                         </ul>
                                                     </li>
                                             </li>
+
+                                            <li>
+                                                <a href="#">CBSE (11th-12)</a>
+                                                <ul>
+                                                    <li style="background-color:#EF481B"><a href="class-11.php">Class 11</a></li>
+                                                    <li style="background-color:#EF481B"><a href="class-12.php">Class 12</a></li>
+                                                </ul>
+                                            </li>
+                                                </li>
+                                                    <li><a href="jee.php">JEE Main & Advanced</a></li>
+                                                    <li><a href="neet.php">NEET UG</a></li>
+                                                    <!-- <li><a href="nda.php">NDA</a></li> -->
+                                                    <!-- <li><a href="#">FOUNDATION</a></li> -->
+                                                </ul>
+                                            </li>
+                                            <li class="menu-item-has-children">
+                                                <a href="#">Centers</a>
+                                                <ul class="sub-menu">
+                                                    <!-- <li><a href="blog.html">CBSE (Class 8 to 12)</a></li> -->
+                                                    <li><a href="gurugram-centers.php">Gurugram</a></li>
+                                                    <li><a href="portblair.php"> Port Blair</a></li>
+                                                    <li><a href="bambooflat.php"> Bambooflat</a></li>
+                                                    <li><a href="jamia.php"> Jamia Nagar</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="menu-item-has-children">
+                                                <a href="equalmerit.php">EqualMerit</a>
+                                                <!-- <ul class="sub-menu">
+
                                             <li><a href="jee.php">JEE Main & Advanced</a></li>
                                             <li><a href="neet.php">NEET UG</a></li>
                                             <!-- <li><a href="nda.php">NDA</a></li> -->
@@ -189,6 +218,7 @@
                                         <li class="menu-item-has-children">
                                             <a href="equalmerit.php">EqualMerit</a>
                                             <!-- <ul class="sub-menu">
+
                                                     <li><a href="jee.php">JEE Main & Advanced</a></li>
                                                     <li><a href="neet.php">NEET UG</a></li>
                                                     <li><a href="nda.php">NDA</a></li>

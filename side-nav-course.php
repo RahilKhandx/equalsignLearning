@@ -2,7 +2,7 @@
     <div class="widget-area">
         <div class="widget-archives mb-50 p-0">
             <div class="breadcrumbs-img">
-            <a href="#"><img src="assets/images/blog/inner/1.jpg" alt="" class="wow fadeInUp"></a>
+            <a href="#"><img src="assets\images\JEE.png" alt="" class="wow fadeInUp"></a>
             </div>
         </div>
         <div class="widget-archives mb-50">

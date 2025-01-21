@@ -2,7 +2,7 @@
 <!-- Main content Start -->
 <div class="rs-breadcrumbs breadcrumbs-overlay">
     <div class="breadcrumbs-img">
-        <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+        <img src="assets\images\About Us.png" alt="Breadcrumbs Image">
     </div>
     <div class="breadcrumbs-text white-color">
         <h1 class="page-title">Contact Us</h1>

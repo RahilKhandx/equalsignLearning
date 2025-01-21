@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 <div class="rs-breadcrumbs breadcrumbs-overlay">
         <div class="breadcrumbs-img">
-            <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+            <img src="assets\images\About Us.png" alt="Breadcrumbs Image">
         </div>
         <div class="breadcrumbs-text white-color">
             <h1 class="page-title">Equalsign-Coaching</h1>
@@ -55,7 +55,7 @@
                             <div class="course-item" >
                                 <div class="course-image">
                                   <a href="#">
-                                      <img src="assets/images/courses/home6/style1/1.png"  alt="images">
+                                      <img src="assets\images\Personalized Coaching.png"  alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -93,7 +93,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="coachinginstitute.php">
-                                      <img src="assets/images/courses/home6/style1/2.png" alt="images">
+                                      <img src="assets\images\Comprehensive Courses.png" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -116,7 +116,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="#">
-                                      <img src="assets/images/courses/home6/style1/3.png" alt="images">
+                                      <img src="assets\images\Experienced Faculties.png" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -146,7 +146,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="#">
-                                      <img src="assets/images/courses/home6/style1/4.png" alt="images">
+                                      <img src="assets\images\Holistic Exam Preparation.png" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
