@@ -20,7 +20,9 @@
             <img src="assets\images\Equalsign Imaes\683 x 529.png" alt="">
         </div>
         <div class="col-md-6">
+
         <div class="sec-title pt-5">
+
                         <div class="sub-title orange">About</div>
                         <h2 class="title mb-17">Equalsign Gurugram</h2>
                         <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
@@ -39,6 +41,7 @@
         </div>
     </div>
 </div>
+
 <div class="contact-page-section pt-100 pb-100 md-pt-70 md-pb-70">
     <div class="container">
         <div class="row rs-contact-box mb-90 md-mb-50">
@@ -90,4 +93,5 @@
         </div>
     </div>
 </div>
+
 <?php include "footer.php" ?>

@@ -14192,15 +14192,15 @@ div{
   background-size: cover;
 }
 .rs-footer .footer-top {
-  padding: 218px 0 1px;
+  padding: 50px 0 1px;
 }
 .rs-footer .footer-top .widget-title {
   color: #ffffff;
-  font-size: 26px;
+  font-size: 25px;
   line-height: 26px;
   font-weight: 700;
   text-transform: uppercase;
-  margin-bottom: 35px;
+  margin-bottom: 30px;
 }
 .rs-footer .footer-top .site-map li {
   padding-left: 15px;

@@ -2506,7 +2506,7 @@
         padding-bottom: 35px;
     }
     .rs-footer .footer-top .widget-title {
-        font-size: 16px;
+        font-size: 10px;
         line-height: 24px;
     }
     .rs-banner.style7 {
@@ -3615,7 +3615,7 @@
         padding: 30px 0;
     }
     .rs-about.video-img .media-icon .popup-videos::before{
-        width: 80px;
+        width: 1000px;
         height: 80px;
     }
     .rs-blog.style2 .blog-item .blog-content .blog-bottom {

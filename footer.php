@@ -3,54 +3,60 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <h4 class="widget-title">Explore</h4>
+                    <div class="footer-logo md-text-center">
+                        <a href="index-2.html"><img src="assets/new/logo.png" alt=""></a>
+                    </div>
+
                     <ul class="site-map">
-                        <li><a href="#">eLearning School</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Courses</a></li>
-                        <li><a href="#">Become A Teacher</a></li>
-                        <li><a href="#">Blog</a></li>
+                        <p class="text-white">
+                            Equalsign Learning is your compass for academic success. As a premier coaching institution, we empower students through tailored courses for CBSE (Class 8 to 12), JEE Main, NEET UG, CUET, and NDA. From mastering core subjects to excelling in competitive exams, Equalsign is your partner in educational excellence.
+                        </p>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <h4 class="widget-title">Categories</h4>
+                    <h4 class="widget-title">Courses</h4>
                     <ul class="site-map">
-                        <li><a href="#">All Courses</a></li>
-                        <li><a href="#">Web Development</a></li>
-                        <li><a href="#">Genarel Education</a></li>
-                        <li><a href="#">Digital Marketing</a></li>
-                        <li><a href="#">Web Design</a></li>
+
+                        <li><a href="/equalsignLearning/foundation.php">CBSE (Class 8 to 12)</a></li>
+                        <li><a href="/equalsignLearning/jee.php">JEE Main &amp; Advanced</a></li>
+                        <li><a href="/equalsignLearning/neet.php">NEET UG</a></li>
+                        <!-- <li><a href="nda">NDA</a></li>
+                                <li><a href="cuet">CUET UG</a></li> -->
+
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <h4 class="widget-title">Resources</h4>
+                    <h4 class="widget-title">More About Equalsign</h4>
                     <ul class="site-map">
-                        <li><a href="#">Become A Teacher</a></li>
-                        <li><a href="#">Instructor/Student Profile</a></li>
-                        <li><a href="#">Courses</a></li>
-                        <li><a href="#">Checkout</a></li>
-                        <li><a href="#">Terms & Conditions</a></li>
+                        <li><a href="/equalsignLearning/about.php">About Us</a></li>
+                        <li><a href="https://equalsign.org/" target="_blank">CSR (Equalsign Foundation)</a></li>
+                        <li><a href="/equalsignLearning/contact.php">Careers</a></li>
+                        <li><a href="/equalsignLearning/contact.php">Offline Centers</a></li>
+                        <li><a href="/equalsignLearning/terms.php">Terms and Conditions</a></li>
+                        <li><a href="privacy-policy">Privacy Policy </a></li>
+                        <li><a href="https://equalsign.in/expand-with-us/index"> Expand With Us </a></li>
                     </ul>
+                    
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
                     <h4 class="widget-title">Address</h4>
                     <ul class="address-widget">
                         <li>
                             <i class="flaticon-location"></i>
-                            <div class="desc">503 Old Buffalo Street Northwest #205 New York-3087</div>
+                            <div class="desc">U 79/17, DLF Phase 3, Gurugram - 122002, Haryana (India)</div>
                         </li>
                         <li>
                             <i class="flaticon-call"></i>
                             <div class="desc">
-                                <a href="tel:(123)-456-7890">(123)-456-7890</a> ,
-                                <a href="tel:(123)-456-7890">(123)-456-7890</a>
+                                <a href="tel:+91 7669911100">+91 7669911100</a> 
+                                <!-- <a href="tel:(123)-456-7890">(123)-456-7890</a> -->
                             </div>
                         </li>
                         <li>
                             <i class="flaticon-email"></i>
                             <div class="desc">
-                                <a href="mailto:infoname@gmail.com">infoname@gmail.com</a> ,
-                                <a href="#">www.yourname.com</a>
+                                <a href="mailto:info@equalsign.in">info@equalsign.in</a> 
+                                <!-- <a href="#">www.yourname.com</a> -->
                             </div>
                         </li>
                     </ul>
@@ -88,20 +94,20 @@
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
                     <!-- <h4 class="widget-title">Resources</h4> -->
                     <ul class="site-map">
-                    <li><a href="engineering-entrance-coaching-jamia-nagar.php">Engineering Entrance Coaching Jamia
-                    Nagar | Okhla</a></li>
+                        <li><a href="engineering-entrance-coaching-jamia-nagar.php">Engineering Entrance Coaching Jamia
+                                Nagar | Okhla</a></li>
                         <li><a href="biology-coaching-in-jamia-nagar.php">Biology Coaching Center in Jamia Nagar | Okhla
                             </a></li>
                         <li><a href="biology-coaching-center-in-gurugram.php">Biology Coaching Center in Sector 14
                                 Gurugram | Port Blair</a></li>
                         <li><a href="chemistry-coaching-jamia-nagar.php">Chemistry Coaching Jamia Nagar | Okhla</a></li>
-                       
+
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
                     <!-- <h4 class="widget-title">Resources</h4> -->
                     <ul class="site-map">
-                    <li><a href="chemistry-coaching-center-in-gurugram.php">Chemistry Coaching Center in Sector 14
+                        <li><a href="chemistry-coaching-center-in-gurugram.php">Chemistry Coaching Center in Sector 14
                                 Gurugram | Port Blair
                             </a></li>
                         <li><a href="mathematics-coaching-center-in-gurugram.php">Mathematics Coaching Center in Sector
@@ -130,7 +136,7 @@
                         <li><a href="jamia-entrance-exam-coaching-class-9-okhla-jamia-nagar.php">Jamia Entrance Exam
                                 Coaching Class 9 in Jamia Nagar Okhla | Delhi
                             </a></li>
-                            <li><a href="jamia-entrance-exam-coaching-class-11-okhla-jamia-nagar.php">Jamia Entrance Exam Coaching Class 11 in Jamia Nagar Okhla | Delhi
+                        <li><a href="jamia-entrance-exam-coaching-class-11-okhla-jamia-nagar.php">Jamia Entrance Exam Coaching Class 11 in Jamia Nagar Okhla | Delhi
                             </a></li>
                     </ul>
                 </div>
@@ -139,27 +145,27 @@
                     <ul class="site-map">
                         <li><a href="amu-entrance-exam-coaching-class-9-okhla-jamia-nagar.php">AMU Entrance Exam coaching class 9 Okhla, Jamia Nagar | Delhi
                             </a></li>
-                            <li><a href="amu-entrance-exam-coaching-class-11-okhla-jamia-nagar.php">AMU Entrance Exam Coaching Class 11 in Jamia Nagar Okhla Delhi
+                        <li><a href="amu-entrance-exam-coaching-class-11-okhla-jamia-nagar.php">AMU Entrance Exam Coaching Class 11 in Jamia Nagar Okhla Delhi
                             </a></li>
-                            <li><a href="class-8-maths-coaching-institute-in-sector-14-gurugram.php">Class 8 Maths Coaching Institute in Sector 14 Gurugram
+                        <li><a href="class-8-maths-coaching-institute-in-sector-14-gurugram.php">Class 8 Maths Coaching Institute in Sector 14 Gurugram
                             </a></li>
-                            <li><a href="class-9-maths-coaching-institute-in-sector-14-gurugram.php">Class 9 Maths Coaching Institute in Sector 14 Gurugram | Gurgaon
+                        <li><a href="class-9-maths-coaching-institute-in-sector-14-gurugram.php">Class 9 Maths Coaching Institute in Sector 14 Gurugram | Gurgaon
                             </a></li>
-                            <li><a href="class-10-maths-coaching-institute-in-sector-14-gurugram.php">Class 10 Maths Coaching Institute in Sector 14 Gurugram | Gurgaon
+                        <li><a href="class-10-maths-coaching-institute-in-sector-14-gurugram.php">Class 10 Maths Coaching Institute in Sector 14 Gurugram | Gurgaon
                             </a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
                     <!-- <h4 class="widget-title">Resources</h4> -->
                     <ul class="site-map">
-                    <li><a href="class-8-science-coaching-institute-in-sector-14-gurugram.php">Class 8 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
-                    </a></li>
-                    <li><a href="class-9-science-coaching-institute-in-sector-14-gurugram.php">Class 9 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
-                    </a></li>
-                    <li><a href="class-10-science-coaching-institute-in-sector-14-gurugram.php">Class 10 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
-                    </a></li>
-                    <li><a href="accounts-coaching-center-in-gurugram.php">Accounts Coaching in Sector 14 Gurugram | Port Blair
-                    </a></li>
+                        <li><a href="class-8-science-coaching-institute-in-sector-14-gurugram.php">Class 8 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
+                            </a></li>
+                        <li><a href="class-9-science-coaching-institute-in-sector-14-gurugram.php">Class 9 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
+                            </a></li>
+                        <li><a href="class-10-science-coaching-institute-in-sector-14-gurugram.php">Class 10 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
+                            </a></li>
+                        <li><a href="accounts-coaching-center-in-gurugram.php">Accounts Coaching in Sector 14 Gurugram | Port Blair
+                            </a></li>
                     </ul>
                 </div>
                 <!-- <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
@@ -191,15 +197,11 @@
             <div class="footer-bottom">
                 <div class="container">
                     <div class="row y-middle">
-                        <div class="col-lg-4 md-mb-20">
-                            <div class="footer-logo md-text-center">
-                                <a href="index-2.html"><img src="assets/new/logo.png" alt=""></a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 md-mb-20">
+                        
+                        <div class="col-lg-6 md-mb-20">
                             <div class="copyright text-center md-text-left">
-                                <p>&copy; 2020 All Rights Reserved. Developed By <a
-                                        href="http://rstheme.com/">RSTheme</a>
+                                <p>&copy; 2025 All Rights Reserved.  Managed By <a
+                                        href="https://zeabro.com/">Zeabros India Pvt. Ltd.</a>
                                 </p>
                             </div>
                         </div>
@@ -283,7 +285,7 @@
 <!-- Include Magnific Popup JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
         $('.popup-videos').magnificPopup({
             type: 'iframe',
             iframe: {
