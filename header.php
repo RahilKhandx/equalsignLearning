@@ -124,7 +124,7 @@
                                             <li class="menu-item-has-children">
                                                 <a href="#">Who we are</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="about-us.php">About Us</a></li>
+                                                    <li><a href="about.php">About Us</a></li>
                                                     <li><a href="https://equalsign.org/">CSR (Equal Sign Foundation)</a></li>
                                                 </ul>
                                             </li>
@@ -134,7 +134,7 @@
                                                 <ul class="sub-menu">
                                                     <li><a href="equalsign-coaching.php">Coaching Institute</a></li>
                                                     <li><a href="sip.php">School Integrated Program</a></li>
-                                                    <li><a href="learning.php">Online Learning</a></li>
+                                                    <li><a href="https://onlinemaths.in/">Online Learning</a></li>
                                                 </ul>
 											</li>
 											

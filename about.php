@@ -17,7 +17,7 @@
             </ul>
         </div>
     </div>
-
+	
     <div id="rs-about" class="rs-about style1 pt-100 pb-100 md-pt-70 md-pb-70">
         <div class="container">
             <div class="row align-items-center">
@@ -32,13 +32,13 @@
                         <h2 class="title mb-17">About Our Institution</h2>
                         <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
                         <div class="desc">
-                            <p><a href="https://equalsign.in">Equalsign Learning </a> is your compass for academic success. As a premier coaching institution,
-                                we empower students through tailored courses for CBSE (Class 8 to 12), JEE Main, NEET UG, CUET, and NDA. Our expert faculty and
-                                personalized approach ensure a holistic learning experience. From mastering core subjects to excelling in competitive exams,
-                                Equalsign is your partner in educational excellence. With a commitment to fostering growth and shaping bright futures, we offer a
-                                School Integrated Program for seamless learning within campuses. Choose Equalsign for a transformative education that goes beyond
-                                classrooms, equipping you with the skills to conquer your academic goals.</p>
-
+                            <p><a href="https://equalsign.in">Equalsign Learning </a>  is your compass for academic success. As a premier coaching institution, 
+							we empower students through tailored courses for CBSE (Class 8 to 12), JEE Main, NEET UG, CUET, and NDA. Our expert faculty and 
+							personalized approach ensure a holistic learning experience. From mastering core subjects to excelling in competitive exams, 
+							Equalsign is your partner in educational excellence. With a commitment to fostering growth and shaping bright futures, we offer a 
+							School Integrated Program for seamless learning within campuses. Choose Equalsign for a transformative education that goes beyond 
+							classrooms, equipping you with the skills to conquer your academic goals.</p>
+                        
                         </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
 
 
 
-
+    
     <!-- About Section Start -->
     <div class="rs-about style1 pt-100 md-pt-70 md-pb-70">
         <div class="container">
@@ -113,7 +113,7 @@
                                 </div>
                             </div>
                             <div class="tab-img">
-                                <img class="" src="assets\images\Equalsign Imaes\Our Vission.png" alt="Tab Image">
+                                <img class="" src= "assets\images\Equalsign Imaes\Our Vission.png"alt="Tab Image">
                             </div>
                         </div>
                         <div class="tab-pane fade" id="about-admin" role="tabpanel" aria-labelledby="about-admin-tab">
@@ -131,7 +131,7 @@
                                 </div>
                             </div>
                             <div class="tab-img">
-                                <img class="" src="assets\images\Equalsign Imaes\Our Values.png" alt="Tab Image">
+                                <img class="" src= "assets\images\Equalsign Imaes\Our Values.png" alt="Tab Image">
                             </div>
                         </div>
                     </div>
@@ -142,133 +142,113 @@
             </div>
         </div>
     </div>
-
+    
 </div>
 </div>
 
 <div class="rs-about style1 pt-100 md-pt-70 md-pb-70">
-    <div class="container">
-        <div class="col-lg-8 pr-50 md-pr-15">
-            <div class="about-part">
-                <div class="sec-title mb-40">
-                    <div class="sub-title primary wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms"> EQUALSIGN
-                    </div>
-                    <h2 class="title wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">Founder's Message </h2>
-                    <div class="desc wow fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
-                        <div class="row">
-                            <p>Welcome to Equalsign Learning, a vision realized through unwavering dedication and a passion for transformative education.
-                                As the founder, I envisioned an institution that goes beyond conventional teaching, nurturing intellectual curiosity, and
-                                fostering critical thinking. Our commitment to personalized learning, coupled with a stellar faculty and innovative methods,
-                                sets Equalsign apart. Here, we don't just prepare students for exams; we shape future leaders, instilling a love for learning
-                                that lasts a lifetime. Join us on this journey of empowerment, where every student's potential is not just recognized but fully realized.
-                            </p>
-                        </div>
-
-                    </div>
+<div class="container">
+    <div class="col-lg-8 pr-50 md-pr-15">
+        <div class="about-part">
+            <div class="sec-title mb-40">
+                <div class="sub-title primary wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms"> EQUALSIGN
                 </div>
-                <div class="sign-part wow fadeInUp" data-wow-delay="600ms" data-wow-duration="2000ms">
-                    <div class="img-part">
-                        <img src="assets/images/ceo.png" alt="CEO Image" style="border-radius: 50%;">
+                <h2 class="title wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">Founder's Message </h2>
+                <div class="desc wow fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
+                    <div class="row">
+                        <p>Welcome to Equalsign Learning, a vision realized through unwavering dedication and a passion for transformative education. 
+						As the founder, I envisioned an institution that goes beyond conventional teaching, nurturing intellectual curiosity, and 
+						fostering critical thinking. Our commitment to personalized learning, coupled with a stellar faculty and innovative methods, 
+						sets Equalsign apart. Here, we don't just prepare students for exams; we shape future leaders, instilling a love for learning 
+						that lasts a lifetime. Join us on this journey of empowerment, where every student's potential is not just recognized but fully realized.
+                        </p>
                     </div>
-                    <div class="author-part">
-                        <!-- <span class="sign mb-10"><img src="assets/images/about/sign.png" alt="Sign"></span> -->
-                        <span class="post"><strong> Vishwajeet Kumar <br> Founder & MD </strong></span>
-                    </div>
+
+                </div>
+            </div>
+            <div class="sign-part wow fadeInUp" data-wow-delay="600ms" data-wow-duration="2000ms">
+                <div class="img-part">
+                    <img src="assets/images/ceo.png" alt="CEO Image" style="border-radius: 50%;">
+                </div>
+                <div class="author-part">
+                    <!-- <span class="sign mb-10"><img src="assets/images/about/sign.png" alt="Sign"></span> -->
+                    <span class="post"><strong> Vishwajeet Kumar <br> Founder & MD </strong></span>
                 </div>
             </div>
         </div>
     </div>
 </div>
+</div>
 
 
 
 <div class="rs-about style1 pt-100 md-pt-70 md-pb-70">
-    <div class="container">
-        <div class="sec-title mb-60 text-center md-mb-30">
-            <div class="sub-title primary"> EQUALSIGN </div>
-            <h2 class="title mb-0"> Success Journey </h2>
-        </div>
-        <div class="timeline wow fadeInUp" data-wow-delay="300ms"
-            data-wow-duration="2000ms">
-            <!-- 2015 -->
-            <!-- 2024 -->
-            <div class="timeline-item right">
-                <div class="year">2024</div>
-                <div class="content">
-                    <p>Equalsign further expanded it wings to <b>Okhla, Delhi </b>on FOCO Model. It caters IIT-JEE, NEET & Foundation students with <b>profitabilty in 1st Year.</b></p>
-                </div>
-            </div>
-            <!-- 2023 -->
-            <div class="timeline-item left">
-                <div class="year">2023</div>
-                <div class="content">
-                    <p>Set up a <b>corporate office</b> cum classroom in <b>Sector 14 Gurugram</b> and establish <b>R&D team</b> to make study materials, DLP, DPP and online learning materials.</p>
-                </div>
-            </div>
-            <!-- 2022 -->
-            <div class="timeline-item right">
-                <div class="year">2022</div>
-                <div class="content">
-                    <p><b>34 students got MBBS seats</b> from EQUALSIGN.</p>
-                </div>
-            </div>
-            <!-- 2021 -->
-            <div class="timeline-item left">
-                <div class="year">2021</div>
-                <div class="content">
-                    <p>A digital learning app <b>ONLINEMATHS</b> launched for<b> class 8 to class 12</b> students with the objective to help students learn mathematics with ease.</p>
-                </div>
-            </div>
-            <!-- 2020 -->
-            <div class="timeline-item right">
-                <div class="year">2020</div>
-                <div class="content">
-                    <p><b>7 students got 100 out of 100 in their CBSE Board</b> examination.</p>
-                </div>
-            </div>
-            <!-- 2019 -->
-            <div class="timeline-item left">
-                <div class="year">2019</div>
-                <div class="content">
-                    <p>Set up another offline <b>centre in Bambooflat (A&N Islands)</b> and now we have 3 centres.</p>
-                </div>
-            </div>
-            <!-- 2018 -->
-            <div class="timeline-item right">
-                <div class="year">2018</div>
-                <div class="content">
-                    <p>Port Blair centre produced <b>Islands best results in CBSE Board, NEET and IIT JEE </b> in very 1st year.</p>
-                </div>
-            </div>
-            <!-- 2017 -->
-            <div class="timeline-item left">
-                <div class="year">2017</div>
-                <div class="content">
-                    <p>Equalsign established <b>new centre in Port Blair (A & N Islands) </b> for CBSE board, NEET IIT JEE and NDA examination.</p>
-                </div>
-            </div>
-            <!-- 2016 -->
-            <div class="timeline-item right">
-                <div class="year">2016</div>
-                <div class="content">
-                    <p>Registered <b> Equalsign Foundation</b> with the objective to provide quality <b> education to under-privileged children.</b></p>
-                </div>
-            </div>
-            <!-- 2015 -->
-            <div class="timeline-item left">
-                <div class="year">2015</div>
-                <div class="content">
-                    <p><b>Vishwajeet Sir registered Equalsign</b> Learning Pvt. Ltd. in DLF Phase-3, Gurugram with a vision to empower students to next level.</p>
-                </div>
-            </div>
+				<div class="container">
+				<div class="sec-title mb-60 text-center md-mb-30">
+				<div class="sub-title primary"> EQUALSIGN </div>
+				<h2 class="title mb-0"> Success Journey </h2>
+				</div>
+				<div class="timeline wow fadeInUp" data-wow-delay="300ms"
+				data-wow-duration="2000ms">
+				<!-- 2015 -->
+				<!-- 2024 -->
+				<div class="timeline-item right">
+				<div class="year">2024</div>
+				<div class="content"><p>Equalsign further expanded it wings to <b>Okhla, Delhi </b>on FOCO Model. It caters IIT-JEE, NEET & Foundation students with <b>profitabilty in 1st Year.</b></p></div>
+				</div>
+				<!-- 2023 -->
+				<div class="timeline-item left">
+				<div class="year">2023</div>
+				<div class="content"><p>Set up a <b>corporate office</b> cum classroom in <b>Sector 14 Gurugram</b> and establish <b>R&D team</b> to make study materials, DLP, DPP and online learning materials.</p></div>
+				</div>
+				<!-- 2022 -->
+				<div class="timeline-item right">
+				<div class="year">2022</div>
+				<div class="content"><p><b>34 students got MBBS seats</b> from EQUALSIGN.</p></div>
+				</div>
+				<!-- 2021 -->
+				<div class="timeline-item left">
+				<div class="year">2021</div>
+				<div class="content"><p>A digital learning app <b>ONLINEMATHS</b> launched for<b> class 8 to class 12</b> students with the objective to help students learn mathematics with ease.</p></div>
+				</div>
+				<!-- 2020 -->
+				<div class="timeline-item right">
+				<div class="year">2020</div>
+				<div class="content"><p><b>7 students got 100 out of 100 in their CBSE Board</b> examination.</p></div>
+				</div>
+				<!-- 2019 -->
+				<div class="timeline-item left">
+				<div class="year">2019</div>
+				<div class="content"><p>Set up another offline <b>centre in Bambooflat (A&N Islands)</b> and now we have 3 centres.</p></div>
+				</div>
+				<!-- 2018 -->
+				<div class="timeline-item right">
+				<div class="year">2018</div>
+				<div class="content"><p>Port Blair centre produced <b>Islands best results in CBSE Board, NEET and IIT JEE </b> in very 1st year.</p></div>
+				</div>
+				<!-- 2017 -->
+				<div class="timeline-item left">
+				<div class="year">2017</div>
+				<div class="content"><p>Equalsign established <b>new centre in Port Blair (A & N Islands) </b> for CBSE board, NEET IIT JEE and NDA examination.</p></div>
+				</div>
+				<!-- 2016 -->
+				<div class="timeline-item right">
+				<div class="year">2016</div>
+				<div class="content"><p>Registered <b> Equalsign Foundation</b> with the objective to provide quality <b> education to under-privileged children.</b></p></div>
+				</div>
+				<!-- 2015 -->
+				<div class="timeline-item left">
+				<div class="year">2015</div>
+				<div class="content"><p><b>Vishwajeet Sir registered Equalsign</b> Learning Pvt. Ltd. in DLF Phase-3, Gurugram with a vision to empower students to next level.</p></div>
+				</div>
 
-        </div>
-    </div>
-
-
+				</div>
+				</div>
+				
+				
 </div>
 </div>
-
+                
 
 
 <!-- Main content End -->
