@@ -1,40 +1,6 @@
 <?php include "header.php" ?>
 <!-- Main content Start -->
 <div class="main-content">
-
-    <!-- Slider Section Start -->
-    <!-- <div class="rs-slider style1">
-        <div class="rs-carousel owl-carousel" data-loop="true" data-items="1" data-margin="0" data-autoplay="true"
-            data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false"
-            data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1"
-            data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="1"
-            data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="1"
-            data-ipad-device-nav2="true" data-ipad-device-dots2="false" data-md-device="1" data-md-device-nav="true"
-            data-md-device-dots="false">
-            <div class="slider-content slide1">
-                <div class="container">
-                    <div class="sl-sub-title white-color wow bounceInLeft" data-wow-delay="300ms"
-                        data-wow-duration="2000ms"> Nationwide TOP Results </div>
-                    <h1 class="sl-title white-color wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">
-                        NEET, IIT-JEE & Boards</h1>
-                    <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                        <a class="readon2 banner-style" href="#">START A COURSE</a>
-                    </div>
-                </div>
-            </div>
-            <div class="slider-content slide2">
-                <div class="container">
-                    <div class="sl-sub-title white-color wow bounceInLeft" data-wow-delay="300ms"
-                        data-wow-duration="2000ms">A Pool of Experienced </div>
-                    <h1 class="sl-title white-color wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">
-                        Dedicated Faculties</h1>
-                    <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                        <a class="readon2 banner-style" href="#">START A COURSE</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
     <div class="rs-slider main-home">
         <div class="rs-carousel owl-carousel" data-loop="true" data-items="1" data-margin="0" data-autoplay="true"
             data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false"
@@ -47,13 +13,15 @@
                 <div class="container">
                     <div class="content-part">
                         <div class="container text-cont float-end " style="margin-top:200px">
-                            <div class="sl-sub-title wow bounceInLeft" 
-                                data-wow-delay="300ms" data-wow-duration="2000ms" style="color:white">Nationwide Top Results</div>
+                            <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms"
+                                style="color:white">Nationwide Top Results</div>
                             <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms"
                                 data-wow-duration="2000ms">
                             </div>
-                            <h1 class="sl-title wow fadeInRight " data-wow-delay="600ms" data-wow-duration="2000ms"> NEET, IIT-JEE & Boards</h1>
-                            <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms" style="margin-top:-50px">
+                            <h1 class="sl-title wow fadeInRight " data-wow-delay="600ms" data-wow-duration="2000ms">
+                                NEET, IIT-JEE & Boards</h1>
+                            <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms"
+                                style="margin-top:-50px">
                                 <a class="readon orange-btn main-home" href="jee.php">START A COURSE</a>
                             </div>
                         </div>
@@ -61,29 +29,31 @@
                     </div>
                 </div>
             </div>
-			
-			<div class="slider-content slide2">
-                <div class="container">
-                    <div class="content-part">
-                        <div class="container text-cont float-end " style="margin-top:200px">
-                            <div class="sl-sub-title wow bounceInLeft" 
-                                data-wow-delay="300ms" data-wow-duration="2000ms" style="color:white"> A Pool of Experienced </div>
-                            <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms"
-                                data-wow-duration="2000ms">
-                            </div>
-                            <h1 class="sl-title wow fadeInRight " data-wow-delay="600ms" data-wow-duration="2000ms"> Dedicated Faculties </h1>
-                            <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms" style="margin-top:-50px">
-                                <a class="readon orange-btn main-home" href="about.php">START A COURSE</a>
-                            </div>
-                        </div>
 
-                    </div>
-                </div>
-            </div>
             <div class="slider-content slide2">
                 <div class="container">
                     <div class="content-part">
                         <div class="container text-cont float-end " style="margin-top:200px">
+                            <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms"
+                                style="color:white"> A Pool of Experienced </div>
+                            <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms"
+                                data-wow-duration="2000ms">
+                            </div>
+                            <h1 class="sl-title wow fadeInRight " data-wow-delay="600ms" data-wow-duration="2000ms">
+                                Dedicated Faculties </h1>
+                            <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms"
+                                style="margin-top:-50px">
+                                <a class="readon blue-btn main-home" href="about.php">START A COURSE</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="slider-content slide2">
+                <div class="container">
+                    <div class="content-part">
+                        <div class="container text-cont float-end " style="margin-top:200px">
                             <div class="sl-sub-title wow bounceInLeft" 
                                 data-wow-delay="300ms" data-wow-duration="2000ms" style="color:white"> A Pool of Experienced </div>
                             <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms"
@@ -97,8 +67,8 @@
 
                     </div>
                 </div>
-            </div>
-			
+            </div> -->
+
             <!-- <div class="slider-content slide2">
                         <div class="container">
                             <div class="content-part">

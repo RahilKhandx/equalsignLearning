@@ -83,12 +83,9 @@
                 <div class="course-wrap">
                     <div class="front-part">
                         <div class="img-part">
-                            <img src="assets/give-wings-to-your-dream.png" alt="">
+                            <img src="assets/images/give-wings-to-your-dream.png" alt="">
                         </div>
-                        <div class="content-part">
-                            <a class="categorie" href="#"> ***HURRY NOW*** </a>
-                            <h4 class="title"> Valid for Limited Period Fill your details below to enroll </h4>
-                        </div>
+                        <!-- - -->
                     </div>
 
                     <div class="inner-part">
@@ -104,13 +101,13 @@
             </div>
 
 
-            <div class="col-lg-8 col-md-8 mb-30">
+            <div class="col-lg-8 col-md-8 pt-5 d-flex align-items-center flex-column">
                 <h4 class="text-center mb-4"> EqualMerit: Equalsign National Scholarship Examination
                     <hr>
                 </h4>
 
 
-                <form class="row g-3 needs-validation" novalidate method="post" action="registration-form-submit.php">
+                <form class="row g-3 needs-validation  " novalidate method="post" action="registration-form-submit.php">
                     <!-- Name -->
                     <div class="col-md-6 pt-1">
                         <label for="name" class="form-label">Name</label>
@@ -186,7 +183,62 @@
 </div>
 <!-- Popular Course Section End -->
 
+<div class="container my-5" style="  box-shadow:0 6px 25px rgba(0, 0, 0, 0.07);">
+    <header class="text-center mb-5">
+        <h3>EqualMerit Exam Details</h3>
+        <!-- <p class="lead">Complete Information About The Exam</p> -->
+    </header>
 
+    <!-- First Row: 2 Columns -->
+    <div class="row">
+        <!-- Exam Fee Section -->
+        <div class="col-12 col-md-6 text-center mb-4">
+            <div class="icon-style">
+                <i class="fas fa-money-bill-wave"></i>
+            </div>
+            <h3 class="section-titles text-center">Exam Fee</h3>
+            <p class="section-contents text-center">Completely Free! There is no registration or exam fee.</p>
+        </div>
+
+        <!-- Exam Time Section -->
+        <div class="col-12 col-md-6 text-center mb-4">
+            <div class="icon-style">
+                <i class="fas fa-clock"></i>
+            </div>
+            <h3 class="section-titles text-center">Exam Time</h3>
+            <ul class="section-contents text-center">
+                The exam duration is 60 minutes.
+                The time slot will be shared by our team based on availability.
+            </ul>
+        </div>
+    </div>
+
+    <!-- Second Row: 2 Columns -->
+    <div class="row">
+        <!-- Exam Mode Section -->
+        <div class="col-12 col-md-6 text-center mb-4">
+            <div class="icon-style">
+                <i class="fas fa-laptop-house"></i>
+            </div>
+            <h3 class="section-titles text-center">Exam Mode (Offline only)</h3>
+            <p class="section-contents text-center">Conducted in schools and Equalsign learning centers.</p>
+        </div>
+
+        <!-- Eligibility Section -->
+        <div class="col-12 col-md-6 text-center mb-4">
+            <div class="icon-style">
+                <i class="fas fa-graduation-cap"></i>
+            </div>
+            <h3 class="section-titles text-center">Eligibility</h3>
+            <ul class="section-contents text-center">
+                <p>Students studying in Class 7 to Class 11 can apply.
+                    Students from any school can register for the test.
+                    No minimum marks required – every student gets an opportunity to qualify for a scholarship.</p>
+            </ul>
+        </div>
+    </div>
+
+</div>
 
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
@@ -210,7 +262,6 @@
     })();
 </script>
 <div class="content-containers pl-40 pr-40">
-    <!--<p>This is some introductory text that is always visible. It provides a summary or teaser for the additional content.</p>-->
     <div class="hidden-content container" id="extraContent">
         <p>The EqualMerit examination is meticulously crafted to challenge and inspire students from various educational
             backgrounds. Our comprehensive assessment covers multiple domains, ensuring a holistic evaluation of
@@ -240,6 +291,47 @@
         </p>
     </div>
     <!-- <button class="read-more-btn" onclick="toggleContent()">Read More</button> -->
+    <section class="eligibility-section">
+
+        <h2 style="color:white">How to Register</h2>
+        <div class="eligibility-container">
+            <div class="eligibility-column">
+                <!-- <img src="assets\images\duration.png" class="dr"> -->
+
+
+                <h3 class="tion">Click on the</h3>
+                <p class="enter"><b>Register </b>button</p>
+                <img src="assets/images/reg.svg" class="merit-icon">
+            </div>
+            <div class="eligibility-column">
+                <!-- <img src="assets\images\book-svgrepo-com.svg" class="dr"> -->
+
+
+                <h3 class="tion">Fill in your basic details</h3>
+                <p class="enter">Including name, class, school, and contact details</p>
+                <img src="assets/images/dtls.svg" class="merit-icon">
+            </div>
+            <div class="eligibility-column">
+
+                <!-- 
+                <img src="assets/images/one.svg" class="dr"> -->
+                <h3 class="tion">Submit the form </h3>
+                <p class="enter">Wait for a call from our team</p>
+                <img src="assets/images/sbmit.svg" class="merit-icon">
+            </div>
+            <div class="eligibility-column">
+                <!-- <img src="assets\images\book-svgrepo-com.svg" class="dr"> -->
+
+
+                <h3 class="tion">Our team will contact you </h3>
+                <p class="enter">to confirm the date and time of your test</p>
+                <img src="assets/images/tm.svg" class="merit-icon">
+            </div>
+        </div>
+    </section>
+
+
 </div>
+
 
 <?php include "footer.php" ?>

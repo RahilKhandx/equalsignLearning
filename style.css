@@ -571,6 +571,38 @@ div{
   font-weight: 500;
   text-transform: uppercase;
 }
+
+.readon.blue-btn {
+  color: #ffffff;
+  background: #1B6CCE;
+  border-color:#1B6CCE;
+  border-radius: 5px 5px 5px 5px;
+  outline: none;
+  padding: 12px 35px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.readon.blue-btn.main-home {
+  padding: 10px 20px 10px 20px !important;
+}
+.readon.blue-btn.main-home:hover {
+  color: #ffffff;
+  background: #171F32;
+  border-color: #171F32;
+}
+.readon.blue-btn:hover {
+  color: #ffffff;
+  background: #ed3600;
+  border-color: #ed3600;
+}
+.readon.blue-btn.transparent:hover {
+  color: #101010;
+  background: #ffffff;
+  border-color: #ffffff;
+}
 .readon.orange-btn.main-home {
   padding: 10px 20px 10px 20px !important;
 }
@@ -4916,7 +4948,7 @@ body .modal-backdrop {
   background-repeat: no-repeat;
 } */
 .rs-slider.main-home .slider-content.slide1 {
-  background: url("assets/images/Web Banner 100-100-1.jpg");
+  background: url("assets/images/Web-Banner-NEET-New.jpg");
   background-size: cover; /* Ensures the entire image is visible */
   background-position: center;
   background-repeat: no-repeat;
@@ -4968,7 +5000,7 @@ body .modal-backdrop {
 
 
 .rs-slider.main-home .slider-content.slide2 {
-  background: url("assets/images/Web Banner 100-100-1.jpg");
+  background: url("assets/images/WebBanner-JEE-New.jpg");
   background-size: cover; /* Ensures the entire image is visible */
   background-position: center;
   background-repeat: no-repeat;
@@ -5161,33 +5193,29 @@ body .modal-backdrop {
     07. About Section CSS
 ---------------------------------------*/
 .rs-about .histort-part {
-  /* position: absolute; */
-  width: 100%;
+  position: absolute;
   top: 50%;
   right: 0;
   transform: translateY(-50%);
   border: none;
-  display: flex !important;
-  justify-content: space-between;
+  display: block;
 }
 .rs-about .histort-part .single-history {
-  width: 30%;
   display: block;
   margin-bottom: 30px;
 }
 .rs-about .histort-part .single-history a {
-  /* padding: 28px 20px 22px; */
+  padding: 28px 20px 22px;
   box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.1);
   border: none;
   border-radius: 5px;
-  width: 100%;
+  width: 230px;
   font-size: 20px;
   font-weight: 500;
   text-align: center;
   color: #ffffff;
   background: #171F32;
   transition: all 0.3s ease;
-
 }
 .rs-about .histort-part .single-history a .icon-part {
   display: block;
@@ -15666,6 +15694,7 @@ a:hover {
   text-align: center;
   margin-left: auto; /* Center-align */
   margin-right: auto; /* Center-align */
+  margin-bottom: 20px;
 }
 
 .eligibility-section h2 {
@@ -15700,7 +15729,7 @@ a:hover {
 }
 
 .eligibility-column p {
-  font-size: 14px;
+  font-size: 17px;
   color: #777;
 }
 
@@ -15718,7 +15747,7 @@ a:hover {
 
 .one {
   margin-left: 85px;
-  margin-top: -15px;
+  margin-top: -11px;
 }
 
 .tion {
@@ -16050,6 +16079,9 @@ a:hover {
   background-color: #f9f9f9;
   padding: 40px 20px;
 }
+.merit-icon{
+  width: 40px;
+}
 .benefits .icons {
   font-size: 3rem;
   color: #6a11cb;
@@ -16080,4 +16112,82 @@ a:hover {
 @keyframes fadeIn {
   from { opacity: 0; }
   to { opacity: 1; }
+}
+.drr {
+  width: 30px;
+  position: absolute;
+  margin-left: -19px;
+  margin-top: 85px;
+}
+.drr {
+  max-width: 100%;
+  height: auto;
+}
+@media (max-width: 768px) {
+  .drr {
+  height: auto;/* Adjust width on smaller screens */
+  }
+}
+/* For screens smaller than 768px */
+@media (max-width: 768px) {
+  .drr {
+    max-width: 80%; /* Adjust width on smaller screens */
+  }
+}
+
+/* For screens smaller than 480px */
+@media (max-width: 480px) {
+  .drr {
+    max-width: 60%; /* Adjust width on extra small screens */
+    margin-top: 130px;
+  }
+}
+.drrr {
+  width: 30px;
+  position: absolute;
+  margin-left: -19px;
+  margin-top: 85px;
+}
+.drrr {
+  max-width: 100%;
+  height: auto;
+}
+@media (max-width: 768px) {
+  .drrr {
+  height: auto;/* Adjust width on smaller screens */
+  }
+}
+/* For screens smaller than 768px */
+@media (max-width: 768px) {
+  .drrr {
+    max-width: 80%; /* Adjust width on smaller screens */
+  }
+}
+
+/* For screens smaller than 480px */
+@media (max-width: 480px) {
+  .drrr {
+    max-width: 60%; /* Adjust width on extra small screens */
+    margin-top: 110px;
+  }
+}
+
+.enter {
+  font-size: 14px;
+  color: #777;
+  text-align: center;
+}
+.icon-style {
+  font-size: 40px;
+  color: #007bff;
+  margin-bottom: 15px;
+}
+.section-titles {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.section-contents {
+  font-size: 15px;
+  color: #6c757d;
 }
