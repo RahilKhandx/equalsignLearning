@@ -29,12 +29,12 @@
                 </div>
                 <div class="blog-desc ">
                     <p>
-                    Equalsign Learning is your trusted partner in preparing for the NEET UG examination, the gateway to a successful medical career. Our coaching program is meticulously designed to provide students with the knowledge, skills, and confidence required to excel in this highly competitive medical entrance exam.<br>Join Equalsign Learning's NEET UG coaching program and embark on a transformative journey toward realizing your dream of a successful career in medicine. Our program is designed to equip you with the skills and confidence needed to excel in one of the most competitive medical entrance exams in the country.
+                    <a href="index.php">Equalsign Learning</a> is your trusted partner in preparing for the NEET UG examination, the gateway to a successful medical career. Our coaching program is meticulously designed to provide students with the knowledge, skills, and confidence required to excel in this highly competitive medical entrance exam.<br>Join Equalsign Learning's NEET UG coaching program and embark on a transformative journey toward realizing your dream of a successful career in medicine. Our program is designed to equip you with the skills and confidence needed to excel in one of the most competitive medical entrance exams in the country.
                     </p>
                 </div>
                 <div class="container pt-5 pb-5">
-                    <h2 style="color:#EF481B">
-                    <h3> <a href="jee.php" style="color:#1B6CCE">NEET UG COURSES</h3>
+                  
+                    <h3 style="color:#EF481B"> <a href="jee.php" style="color:#1B6CCE">NEET UG COURSES </a> </h3> 
 
                     <table class="table p=5">
                         <thead>
@@ -147,47 +147,28 @@
                 <!-- <h2 class="title">How to Prepare?</h2>
                 <h4 class="title" style="color: #1B6CCE;">-Understand the Syllabus</h4> -->
 
-                <div class="blog-desc">
-                    <p>
-                        NCERT has prescribed the syllabus of major subjects for the JEE-MAIN class viz.
-                        English, Mathematics, Science, Hindi, Social Science, Sanskrit and Urdu.
-                        <a href="https://school.careers360.com/ncert/ncert-syllabus-for-jee-main">Syllabus
-                            of NCERT Class NEET</a>
-                        is available to download in the pdf file for all the subjects.
-                        The syllabus comprises the introduction about the subject, guidelines to study,
-                        and topics and units required to study while preparing for the exams.
-                    </p>
+               
                     <h2 style="text-align: center;">NEET Subjects and Resources</h2>
                     <table>
                         <tr>
                             <th>Subject</th>
                             <th>Content/Links</th>
                         </tr>
-                        <tr>
-                            <td>Physics</td>
-                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Physics.pdf?v=1659079452" target="_blank">NEET Physics
-                                    Textbook</a></td>
-                        </tr>
-                        <tr>
-                            <td>Chemistry</td>
-                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Chemistry.pdf?v=1659077413" target="_blank">NEET Chemistry
-                                    Textbook</a></td>
-                        </tr>
-                        <tr>
-                            <td>Biology</td>
-                            <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Biology.pdf?v=1659077413" target="_blank">NEET Biology
-                                    Textbook</a></td>
-                        </tr>
-                        <!-- <tr>
-                            <td>Hindi</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
-                                    Textbook</a></td>
-                        </tr>
-                        <tr>
-                            <td>Social Science</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
-                                    Textbook</a></td>
-                        </tr> -->
+						
+						<tr>
+						<td>Physics</td>
+						<td><a href="https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2024/12/2024123021.pdf" target="_blank">NEET Physics </a></td>
+						</tr>
+						<tr>
+						<td>Chemistry</td>
+						<td><a href="https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2024/12/2024123021.pdf" target="_blank">NEET Chemistry </a></td>
+						</tr>
+						<tr>
+						<td>Biology</td>
+						<td><a href="https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2024/12/2024123021.pdf" target="_blank">NEET Biology </a></td>
+						</tr>
+
+                        
                     </table>
 
                 </div>
@@ -196,7 +177,7 @@
     </div>
 </div>
 
-<div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
+<!-- <div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 padding-0">
@@ -270,7 +251,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 </div>
 <!-- Main content End -->
 

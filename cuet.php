@@ -29,7 +29,7 @@
                 </div>
                 <div class="blog-desc ">
                     <p>
-                    Equalsign Learning is your trusted partner in preparing for the Central Universities Common Entrance Test (CUET) for undergraduate programs. Our coaching program is meticulously crafted to provide aspiring candidates with the knowledge, skills, and confidence needed to excel in this esteemed entrance examination.<br>Join Equalsign Learning's CUET UG entrance exam coaching program and embark on a transformative journey toward securing admission to prestigious undergraduate programs offered by central universities. Our program is designed to equip you with the skills and knowledge needed to excel in this competitive entrance examination and secure your place in the academic program of your choice.                    </p>
+                    <a href="index.php">Equalsign Learning</a> is your trusted partner in preparing for the Central Universities Common Entrance Test (CUET) for undergraduate programs. Our coaching program is meticulously crafted to provide aspiring candidates with the knowledge, skills, and confidence needed to excel in this esteemed entrance examination.<br>Join Equalsign Learning's CUET UG entrance exam coaching program and embark on a transformative journey toward securing admission to prestigious undergraduate programs offered by central universities. Our program is designed to equip you with the skills and knowledge needed to excel in this competitive entrance examination and secure your place in the academic program of your choice.                    </p>
                 </div>
                 <div class="container">
                     <!-- <h4 class="title" style="color: #EF481B;">Key Features:</h4> -->
@@ -64,16 +64,7 @@
                 <!-- <h2 class="title">How to Prepare?</h2>
                 <h4 class="title" style="color: #1B6CCE;">-Understand the Syllabus</h4> -->
 
-                <div class="blog-desc">
-                    <p>
-                        NCERT has prescribed the syllabus of major subjects for the CUET-UG class viz.
-                        English, Mathematics, Science, Hindi, Social Science, Sanskrit and Urdu.
-                        <a href="https://school.careers360.com/ncert/ncert-syllabus-for-jee-main">Syllabus
-                            of NCERT Class NEET</a>
-                        is available to download in the pdf file for all the subjects.
-                        The syllabus comprises the introduction about the subject, guidelines to study,
-                        and topics and units required to study while preparing for the exams.
-                    </p>
+             
                     <h2 style="text-align: center;">CUET Subjects and Resources</h2>
                     <table>
                         <tr>
@@ -82,29 +73,25 @@
                         </tr>
                         <tr>
                             <td>Mathematics</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?hemh1=0-16" target="_blank">NCERT Math
+                            <td><a href="https://exams.nta.ac.in/CUET-UG/images/mathematics.pdf" target="_blank">CUET Math
                                     Textbook</a></td>
                         </tr>
                         <tr>
-                            <td>Science</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?hesc1=0-18" target="_blank">NCERT Science
+                            <td>Physics</td>
+                            <td><a href="https://exams.nta.ac.in/CUET-UG/images/physics.pdf" target="_blank">CUET Physics
                                     Textbook</a></td>
                         </tr>
                         <tr>
-                            <td>English</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td>Chemistry</td>
+                            <td><a href="https://exams.nta.ac.in/CUET-UG/images/chemistry.pdf" target="_blank">CUET Chemistry
                                     Textbook</a></td>
                         </tr>
                         <tr>
-                            <td>Hindi</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td>Biology</td>
+                            <td><a href="https://exams.nta.ac.in/CUET-UG/images/BIOLOGY.pdf" target="_blank">CUET Biology
                                     Textbook</a></td>
                         </tr>
-                        <tr>
-                            <td>Social Science</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
-                                    Textbook</a></td>
-                        </tr>
+                       
                     </table>
 
                 </div>
@@ -113,7 +100,7 @@
     </div>
 </div>
 
-<div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
+<!-- <div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 padding-0">
@@ -187,7 +174,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 </div>
 <!-- Main content End -->
 

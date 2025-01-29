@@ -21,23 +21,23 @@
         </div>
         <div class="col-md-6">
 
-        <div class="sec-title pt-5">
+            <div class="sec-title pt-5">
 
-                        <div class="sub-title orange">About</div>
-                        <h2 class="title mb-17">Equalsign Gurugram</h2>
-                        <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
-                        <div class="desc">
-                            <p>Equalsign Learning is your compass for academic success. As a premier coaching
-                                institution, we empower students through tailored courses for CBSE (Class 8 to 12), JEE
-                                Main, NEET UG, CUET, and NDA. Our expert faculty and personalized approach ensure a
-                                holistic learning experience. From mastering core subjects to excelling in competitive
-                                exams, Equalsign is your partner in educational excellence. With a commitment to
-                                fostering growth and shaping bright futures, we offer a School Integrated Program for
-                                seamless learning within campuses. Choose Equalsign for a transformative education that
-                                goes beyond classrooms, equipping you with the skills to conquer your academic goals.
-                            </p>
-                        </div>
-                    </div>
+                <div class="sub-title orange">About</div>
+                <h2 class="title mb-17">Equalsign Gurugram</h2>
+                <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
+                <div class="desc">
+                    <p><a href="index.php">Equalsign Learning</a> transforms Gurugram's educational landscape from its state-of-the-art facility
+                        in Sector 14. Catering to the city's ambitious, tech-savvy population, our programs seamlessly
+                        blend traditional CBSE curriculum with modern competitive exam preparation. Our strategic
+                        location makes us accessible to students from both corporate households and neighboring
+                        residential sectors. With a dedicated focus on JEE Main and NEET UG, we understand Gurugram's
+                        competitive spirit and professional aspirations. Our School Integrated Program has partnered
+                        with leading institutions across the Millennium City, making quality education accessible within
+                        school premises.
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -52,7 +52,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Address</span>
-                        <span class="des">M30 2nd Floor, Old DLF Colony, Sector 14, Gurugram (HR) -
+                        <span class="des">M30 2nd Floor, Old DLF Colony, Sector 14, Gurugram (HR) - 122001
                         </span>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Email Address</span>
-                        <span class="des"><a href="mailto:info@rstheme.com">info@equalsign.in</a></span>
+                        <span class="des"><a href="mailto:info@equalsign.in">info@equalsign.in</a></span>
                     </div>
                 </div>
             </div>
@@ -75,18 +75,18 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Phone Number</span>
-                        <span class="des"><a href="tel%2b0885898745.html">+91 7669911100</a></span>
+                        <span class="des"><a href="tel:+91 97739 87276">+91 97739 87276</a></span>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-12 lg-pl-0 sm-mb-30">
                 <div class="address-item">
                     <div class="icon-part">
-                        <img src= "assets\images\tim.jpg"alt="">
+                        <img src="assets\images\tim.jpg" alt="">
                     </div>
                     <div class="address-text">
                         <span class="label">Timing</span>
-                        <span class="des"><a href="tel%2b0885898745.html">9:00 am -5:00 pm</a></span>
+                        <span class="des"><a href="9:00 am - 5:00 pm">9:00 AM - 6:00 PM</a></span>
                     </div>
                 </div>
             </div>

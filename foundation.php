@@ -13,6 +13,14 @@
         </ul>
     </div>
 </div>
+
+<style>
+.nextclassbtn{
+	background: #ef481b;
+	padding: 1px 12px;
+	color: #fff;
+}
+</style>
 <div class="container pt-5 pb-5">
     <h2 style="color:#EF481B">FOUNDATION PROGRAM</h2>
     <div class="desc">
@@ -26,7 +34,7 @@
                                 goes beyond classrooms, equipping you with the skills to conquer your academic goals.
                             </p>
                         </div>
-    <h3 style="color:#1B6CCE">FOUNDATION COURSES FOR <a href="class-8.php">Class-8th</h3>
+    <h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-8th <a href="class-8.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a> </h3>
 
 <table class="table p=5">
   <thead>
@@ -51,7 +59,7 @@
     
   </tbody>
 </table>
-<h3 style="color:#1B6CCE">FOUNDATION COURSES FOR <a href="class-9.php">Class-9th</h3>
+<h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-9th <a href="class-9.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a> </h3>
 
 <table class="table">
   <thead>
@@ -76,7 +84,7 @@
     
   </tbody>
 </table>
-<h3 style="color:#1B6CCE">FOUNDATION COURSES FOR <a href="class-10.php">Class-10th</h3>
+<h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-10th <a href="class-10.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a></h3>
 
 <table class="table">
   <thead>

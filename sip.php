@@ -104,37 +104,34 @@
     </div>
 </div> -->
 <div class="rs-cta style2">
-        <div class="partition-bg-wrap inner-page">
-            <div class="container">
-                <div class="row y-bottom">
-                    <div class="col-lg-6 pb-50 md-pt-70 md-pb-70">
+    <div class="partition-bg-wrap inner-page">
+        <div class="container">
+            <div class="row y-bottom">
+                <!-- Left Column with Image and Video -->
+                <div class="col-lg-6 pb-50 md-pt-70 md-pb-70">
+                    <div class="media-wrap">
+                        <div class="image-wrap">
+                            <img src="assets/images/cta/style2/left-bg2.png" alt="Descriptive Alt Text" class="img-fluid">
+                        </div>
                         <!-- <div class="video-wrap">
-                                    <a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
-                                            <i class="fa fa-play"></i>
-                                            <h4 class="title mb-0">Take a Video  Tour at Equalsign</h4>
-                                        </a>
-                                </div> -->
-                        <!-- <div class="video-wrap">
-                            <a class="popup-videos"
-                                href="https://www.youtube.com/watch?v=F6Sw-f9oJAU?si=Nvgu3VjJDqhE7OwZ">
+                            <a class="popup-videos" href="https://www.youtube.com/watch?v=F6Sw-f9oJAU?si=Nvgu3VjJDqhE7OwZ">
                                 <i class="fa fa-play"></i>
                                 <h4 class="title">Take a Video Tour at Equalsign</h4>
                             </a>
                         </div> -->
                     </div>
-                    <div class="col-lg-6 pl-62 pt-134 pb-150 md-pt-50 md-pb-50 md-pl-15">
+                </div>
+                <!-- Right Column with Text -->
+                <div class="col-lg-6 pl-62 pt-134 pb-150 md-pt-50 md-pb-50 md-pl-15">
                         <div class="sec-title mb-40 md-mb-20">
                             <h2 class="title mb-16">Welcome to Our School Integrated Program <br><h4>Learning Reimagined on Campus!</h4></h2>
-                            <div class="desc"><p>At Equalsign Learning , we understand the challenges students face in commuting to multiple learning centers. Our School Integrated Program is designed to address these concerns, offering on-campus coaching classes for Foundation (Class 8, 9, and 10) and specialized coaching for JEE and NEET entrance exams in Class 11 and 12.</p></div>
+                            <div class="desc"><p>At <a href="index.php">Equalsign Learning</a> , we understand the challenges students face in commuting to multiple learning centers. Our School Integrated Program is designed to address these concerns, offering on-campus coaching classes for Foundation (Class 8, 9, and 10) and specialized coaching for JEE and NEET entrance exams in Class 11 and 12.</p></div>
                         </div>
-                        <!-- <div class="btn-part">
-                            <a class="readon2 orange" href="#">Apply Now</a>
-                        </div> -->
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
+</div>
   <!-- Popular Courses Section Start -->
    
   <div class="rs-latest-couses orange-color pt-100 pb-100 md-pt-70 md-pb-70">
@@ -143,7 +140,7 @@
                         <div class="col-lg-6 mb-40">
                             <div class="course-item" >
                                 <div class="course-image">
-                                  <a href="#">
+                                  <a href="sip.php">
                                       <img src="assets\images\Seamless learning Experience.png"  alt="images">
                                   </a>
                                 </div>
@@ -153,7 +150,7 @@
                                      <!-- <li class="user"><i class="fa fa-user"></i> 245</li> -->
                                  </ul>
                                     <h3 class="course-title">
-                                        <a href="coachinginstitute.php">
+                                        <a href="sip.php">
                                          Seamless learning  Experience
                                         </a>
                                     </h3>
@@ -181,7 +178,7 @@
                         <div class="col-lg-6 mb-40">
                             <div class="course-item">
                                 <div class="course-image">
-                                  <a href="coachinginstitute.php">
+                                  <a href="sip.php">
                                       <img src="assets\images\Convenience for Students.png" alt="images">
                                   </a>
                                 </div>
@@ -204,13 +201,13 @@
                         <div class="col-lg-6 mb-40">
                             <div class="course-item">
                                 <div class="course-image">
-                                  <a href="#">
+                                  <a href="sip.php">
                                       <img src="assets\images\Lightening the Load for Schools.png" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
                                     <h3 class="course-title">
-                                        <a href="coachinginstitute.php">Lightening the Load for Schools</a>
+                                        <a href="sip.php">Lightening the Load for Schools</a>
                                     </h3>
                                     <div class="bottom-part">
                                         <p>We understand the challenges schools face in managing faculties, course delivery, and assessments. Our program is designed to ease this burden, providing a turnkey solution that ensures quality education without additional administrative complexities.</p>
@@ -234,7 +231,7 @@
                         <div class="col-lg-6 mb-40">
                             <div class="course-item">
                                 <div class="course-image">
-                                  <a href="#">
+                                  <a href="sip.php">
                                       <img src="assets\images\Customized Foundation and Exam Preparation.png" alt="images">
                                   </a>
                                 </div>
@@ -244,7 +241,7 @@
                                      <li class="user"><i class="fa fa-user"></i> 245</li> -->
                                  </ul>
                                     <h3 class="course-title">
-                                        <a href="course-single.html">Customized Foundation and Exam Preparation</a>
+                                        <a href="sip.php">Customized Foundation and Exam Preparation</a>
                                     </h3>
                                     <div class="bottom-part">
                                         <p>Tailored for Foundation classes (8, 9, and 10) and specialized coaching for JEE and NEET in Class 11 and 12, our program offers a comprehensive learning experience, preparing students for academic success and competitive exams.</p>

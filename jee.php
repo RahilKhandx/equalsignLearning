@@ -29,7 +29,7 @@
                 </div>
                 <div class="blog-desc ">
                     <p>
-                        Equalsign Learning is your gateway to conquering the challenges of JEE Main and JEE Advanced.
+                    <a href="index.php">Equalsign Learning</a> is your gateway to conquering the challenges of JEE Main and JEE Advanced.
                         Our coaching program is meticulously crafted to provide students with the strategic guidance and
                         in-depth knowledge needed to excel in these highly competitive examinations. <br>
                         Join Equalsign Learning's JEE Main & Advanced coaching and embark on a journey towards securing
@@ -44,7 +44,7 @@
                 </div>
                 <div class="container pt-5 pb-5">
                     <h2 style="color:#EF481B">
-                        <h3>IIT JEE Courses FOR <a href="jee.php" style="color:#1B6CCE">JEE Main & Advanced Coaching
+                        <h3>IIT JEE Courses FOR <a href="jee.php" style="color:#1B6CCE">JEE Main & Advanced Coaching </a>
                         </h3>
 
                         <table class="table p=5">
@@ -140,48 +140,48 @@
                                                 of Physics, Chemistry, and Mathematics, ensuring a deep understanding of
                                                 fundamental concepts.</li>
                                             <li><span class="checkmark">&#10003;</span> Strategic Exam Preparation: Rigorous
-                                            coaching designed to align with the specific exam patterns, providing
-                                            insights
-                                            and strategies to tackle complex problems efficiently.</li>
+                                                coaching designed to align with the specific exam patterns, providing
+                                                insights
+                                                and strategies to tackle complex problems efficiently.</li>
                                             <li><span class="checkmark">&#10003;</span> Regular Mock Tests:
-                                            Evaluate
-                                            progress
-                                            and boost exam readiness through regular mock tests that simulate real exam
-                                            conditions.</li>
+                                                Evaluate
+                                                progress
+                                                and boost exam readiness through regular mock tests that simulate real exam
+                                                conditions.</li>
                                             <li><span class="checkmark">&#10003;</span>Experienced Faculty: Learn from a
-                                            team
-                                            of experienced and qualified educators with a proven track record in guiding
-                                            students to success in JEE Main and Advanced.</li>
+                                                team
+                                                of experienced and qualified educators with a proven track record in guiding
+                                                students to success in JEE Main and Advanced.</li>
                                             <li><span class="checkmark">&#10003;</span> Advanced Problem Solving: Sharpen
-                                            problem-solving skills with a focus on advanced problem-solving techniques
-                                            required for success in JEE Advanced.</li>
+                                                problem-solving skills with a focus on advanced problem-solving techniques
+                                                required for success in JEE Advanced.</li>
                                         </ul>
                                     </section>
                                 </div>
                                 <div class="col-md-6 ">
                                     <section class="name-list-section">
                                         <ul class="name-list" style="margin-top:50px">
-                                        <li><span class="checkmark">&#10003;</span> Technology-Enhanced Learning:
-                                            Utilize
-                                            modern teaching tools and technology to enhance understanding and engage
-                                            with
-                                            complex topics effectively.</li>
-                                        <li><span class="checkmark">&#10003;</span> Indicidualized Attention: Benefit
-                                            from
-                                            small class sizes, ensuring personalized attention and addressing individual
-                                            learning needs.</li>
-                                        <li><span class="checkmark">&#10003;</span> Doubt Resolution Sessions: Dedicated
-                                            sessions to address doubts and clarify concepts, ensuring students progress
-                                            confidently through the curriculum. </li>
-                                        <li><span class="checkmark">&#10003;</span> Performance Analysis: Receive
-                                            detailed
-                                            performance analysis reports, allowing students to identify strengths,
-                                            weaknesses, and areas for improvement.</li>
-                                        <li><span class="checkmark">&#10003;</span> Comprehensive Study Material: Access
-                                            meticulously curated study materials designed to cover the entire JEE Main
-                                            and
-                                            Advanced syllabus, aiding effective revision.</li>
-                                    </ul>
+                                            <li><span class="checkmark">&#10003;</span> Technology-Enhanced Learning:
+                                                Utilize
+                                                modern teaching tools and technology to enhance understanding and engage
+                                                with
+                                                complex topics effectively.</li>
+                                            <li><span class="checkmark">&#10003;</span> Indicidualized Attention: Benefit
+                                                from
+                                                small class sizes, ensuring personalized attention and addressing individual
+                                                learning needs.</li>
+                                            <li><span class="checkmark">&#10003;</span> Doubt Resolution Sessions: Dedicated
+                                                sessions to address doubts and clarify concepts, ensuring students progress
+                                                confidently through the curriculum. </li>
+                                            <li><span class="checkmark">&#10003;</span> Performance Analysis: Receive
+                                                detailed
+                                                performance analysis reports, allowing students to identify strengths,
+                                                weaknesses, and areas for improvement.</li>
+                                            <li><span class="checkmark">&#10003;</span> Comprehensive Study Material: Access
+                                                meticulously curated study materials designed to cover the entire JEE Main
+                                                and
+                                                Advanced syllabus, aiding effective revision.</li>
+                                        </ul>
 
                                     </section>
                                 </div>
@@ -192,16 +192,7 @@
                         <!-- <h2 class="title">How to Prepare?</h2>
                 <h4 class="title" style="color: #1B6CCE;">-Understand the Syllabus</h4> -->
 
-                        <div class="blog-desc">
-                            <p>
-                                NCERT has prescribed the syllabus of major subjects for the JEE-MAIN class viz.
-                                English, Mathematics, Science, Hindi, Social Science, Sanskrit and Urdu.
-                                <a href="https://school.careers360.com/ncert/ncert-syllabus-for-jee-main">Syllabus
-                                    of NCERT Class NEET</a>
-                                is available to download in the pdf file for all the subjects.
-                                The syllabus comprises the introduction about the subject, guidelines to study,
-                                and topics and units required to study while preparing for the exams.
-                            </p>
+                        <!-- -->
                             <h2 style="text-align: center;">JEE Subjects and Resources</h2>
                             <table>
                                 <tr>
@@ -210,32 +201,17 @@
                                 </tr>
                                 <tr>
                                     <td>Physics</td>
-                                    <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Physics.pdf?v=1659079452"
-                                            target="_blank">JEE Physics
-                                            Textbook</a></td>
+                                    <td><a href="https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2024/10/2024102841.pdf" target="_blank">JEE Physics </a></td>
                                 </tr>
                                 <tr>
                                     <td>Chemistry</td>
-                                    <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Chemistry.pdf?v=1659077413"
-                                            target="_blank">JEE Chemistry
-                                            Textbook</a></td>
+                                    <td><a href="https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2024/10/2024102841.pdf" target="_blank">JEE Chemistry </a></td>
                                 </tr>
                                 <tr>
-                                    <td>Biology</td>
-                                    <td><a href="https://cdn.shopify.com/s/files/1/0572/7299/1924/files/Oswaal_NEET_UG_Syllabus__Biology.pdf?v=1659077413"
-                                            target="_blank">JEE Biology
-                                            Textbook</a></td>
+                                    <td>Mathematics</td>
+                                    <td><a href="https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2024/10/2024102841.pdf" target="_blank">JEE Mathematics </a></td>
                                 </tr>
-                                <!-- <tr>
-                            <td>Hindi</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
-                                    Textbook</a></td>
-                        </tr>
-                        <tr>
-                            <td>Social Science</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
-                                    Textbook</a></td>
-                        </tr> -->
+                              
                             </table>
 
                         </div>
@@ -244,7 +220,7 @@
         </div>
     </div>
 
-    <div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
+    <!-- <div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 padding-0">
@@ -322,7 +298,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 </div>
 <!-- Main content End -->
 

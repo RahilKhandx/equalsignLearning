@@ -33,7 +33,7 @@
                 </div>
                 <div class="blog-desc ">
                     <p>
-                        Embark on a transformative academic journey with Equalsign Learning Class 8 coaching
+                        Embark on a transformative academic journey with <a href="index.php">Equalsign Learning</a> Class 8 coaching
                         program. Our comprehensive curriculum is crafted to instill a strong foundation across
                         subjects, ensuring students not only excel in their current studies but also pave the way
                         for success in higher grades. </p>
@@ -82,11 +82,11 @@
 <p>
                                     NCERT has prescribed the syllabus of major subjects for the 8th class viz.
                                     English, Mathematics, Science, Hindi, Social Science, Sanskrit and Urdu.</p></li>
-                                <li>
-                                    <a href="https://school.careers360.com/ncert/ncert-syllabus-for-class-8"><p>Syllabus
+                                <!-- <li>
+                                    <a href="https://ncert.nic.in/textbook.php?hemh1=0-16"><p>Syllabus
                                         of NCERT Class 8</a>
                                     is available to download in the pdf file for all the subjects.</p>
-                                </li>
+                                </li> -->
                                 <li><p>
                                     The syllabus comprises the introduction about the subject, guidelines to study,
                                     and topics and units required to study while preparing for the exams.</p>
@@ -102,27 +102,27 @@
                         </tr>
                         <tr>
                             <td>Mathematics</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?hemh1=0-16" target="_blank">NCERT Math
+                            <td><a href="https://ncert.nic.in/textbook.php?hemh1=0-13" target="_blank">NCERT Math
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Science</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?hesc1=0-18" target="_blank">NCERT Science
+                            <td><a href="https://ncert.nic.in/textbook.php?hesc1=0-13" target="_blank">NCERT Science
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>English</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td><a href="https://ncert.nic.in/textbook.php?hehd1=0-8" target="_blank">NCERT English
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Hindi</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td><a href="https://ncert.nic.in/textbook.php?hhvs1=0-13" target="_blank">NCERT Hindi
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Social Science</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td><a href="https://ncert.nic.in/textbook.php?hess4=0-5" target="_blank">NCERT Social Science
                                     Textbook</a></td>
                         </tr>
                     </table>
@@ -156,7 +156,7 @@
         </div>
     </div>
 </section>
-<div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
+<!-- <div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 padding-0">
@@ -230,7 +230,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 </div>
 <!-- Main content End -->
 

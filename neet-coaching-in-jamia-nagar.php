@@ -4,9 +4,9 @@
 <head>
 <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Best NEET Coaching Center Jamia Nagar |Okhla | 7669911100 </title>
-    <meta name="description" content="Joining our NEET coaching center Jamia, students can get guidance from highly qualified mentors. They can achieve better scores in the exams.">
-	<meta name="keywords" content="NEET Coaching in Jamia Nagar Okhla, Best NEET coaching Jamia Nagar, Best NEET coaching Center Jamia Nagar, Top NEET coaching Classes Jamia Nagar Okhla, NEET coaching institute in Jamia Nagar, NEET Classes Jamia Nagar, Okhla, NEET Coaching institute in Jamia Nagar, Top 5 NEET coaching institute in Jamia Nagar, NEET Classes in Jamia Nagar Okhla, NEET Coaching Classes in Jamia Nagar, Best NEET Coaching Center Jamia Nagar, Okhla, NEET Classes Jamia Nagar, NEET Coaching Center in Jamia Nagar.">
+    <title>Best Institute for NEET Coaching in Gurugram | Sector 14</title>
+    <meta name="description" content="Get the best NEET Coaching in Gurugram with our verified and reliable list of professional teachers and mock tests.">
+	<meta name="keywords" content="NEET coaching in Gurugram, Best NEET coaching in Sector 14 Gurugram, Best NEET coaching Center Gurugram, Top NEET coaching Classes in Gurugram, NEET coaching institute in Sector 14 Gurugram, NEET classes in Sector 14 Gurugram, NEET coaching institute in Gurugram, Top 5 NEET coaching institute in sector 14 Gurugram, Top 10 NEET coaching institute in Gurugram, NEET Classes in Gurgugram, NEET Coaching Classes in Gurgugram, Best NEET coaching center in Gurugram">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include "head.php" ?>
 </head>
@@ -112,7 +112,7 @@
 <!-- Blog Section End -->
 
 <!-- Newsletter section start -->
-<div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
+<!-- <div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
     <div class="container">
         <div class="newsletter-wrap">
             <div class="row y-middle">
@@ -135,7 +135,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- Newsletter section end -->
 </div>
 <!-- Main content End -->

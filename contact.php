@@ -25,7 +25,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Address</span>
-                        <span class="des">M30 2nd Floor, Old DLF Colony, Sector 14, Gurugram (HR) -
+                        <span class="des">M30 2nd Floor, Old DLF Colony, Sector 14, Gurugram (HR) - 122001
                         </span>
                     </div>
                 </div>
@@ -37,7 +37,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Email Address</span>
-                        <span class="des"><a href="mailto:info@rstheme.com">info@equalsign.in</a></span>
+                        <span class="des"><a href="mailto:info@equalsign.in">info@equalsign.in</a></span>
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Phone Number</span>
-                        <span class="des"><a href="tel%2b0885898745.html">+91 7669911100</a></span>
+                        <span class="des"><a href="tel:+91 97739 87276">+91 97739 87276</a></span>
                     </div>
                 </div>
             </div>
@@ -156,10 +156,7 @@
 <div class="container-fluid">
     <div class="row justify-content-center">
         <div class="col-md-11">
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d112203.87904240428!2d77.092046!3d28.498477!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d193863e7a675%3A0x5a9f330ffb897c63!2sCrossword%2C%20DLF%20Cyberhub%2C%20Gurgaon!5e0!3m2!1sen!2sus!4v1736509514385!5m2!1sen!2sus"
-                width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.302049712852!2d77.04236067437223!3d28.470448891424667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d196d45abe283%3A0x43625e2ec928d37a!2sEqualsign%20Coaching%20Institute!5e0!3m2!1sen!2sin!4v1737520946940!5m2!1sen!2sin" width="95%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
         </div>
     </div>

@@ -23,6 +23,7 @@
                     <input type="text" id="form4Example4" class="form-control" />
                     <label class="form-label" for="form4Example4">Course</label>
                 </div>
+                
 
                 <!-- Submit button -->
                 <button data-mdb-ripple-init type="button" class="btn btn-primary btn-block mb-4 readon2">Send</button>
@@ -145,7 +146,7 @@
             </a></li>
             </ul>
         </div>
-        <div class="recent-posts mb-50">
+        <!-- <div class="recent-posts mb-50">
             <h3 class="widget-title">Meta</h3>
             <ul>
                 <li><a href="#">Log in</a></li>
@@ -153,6 +154,6 @@
                 <li><a href="#">Comments feed</a></li>
                 <li><a href="#">WordPress.org</a></li>
             </ul>
-        </div>
+        </div> -->
     </div>
 </div>

@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
                     <div class="footer-logo md-text-center">
-                        <a href="index-2.html"><img src="assets/new/logo.png" alt=""></a>
+                        <a href="index.php"><img src="assets/new/logo.png" alt=""></a>
                     </div>
 
                     <ul class="site-map">
@@ -14,12 +14,12 @@
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <h4 class="widget-title">Courses</h4>
+                    <h4 class="widget-title">Courses <br> We Offer</h4>
                     <ul class="site-map">
 
-                        <li><a href="/equalsignLearning/foundation.php">CBSE (Class 8 to 12)</a></li>
-                        <li><a href="/equalsignLearning/jee.php">JEE Main &amp; Advanced</a></li>
-                        <li><a href="/equalsignLearning/neet.php">NEET UG</a></li>
+                        <li><a href="foundation.php">CBSE (Class 8 to 12)</a></li>
+                        <li><a href="jee.php">JEE Main &amp; Advanced</a></li>
+                        <li><a href="neet.php">NEET UG</a></li>
                         <!-- <li><a href="nda">NDA</a></li>
                                 <li><a href="cuet">CUET UG</a></li> -->
 
@@ -28,190 +28,62 @@
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
                     <h4 class="widget-title">More About Equalsign</h4>
                     <ul class="site-map">
-                        <li><a href="/equalsignLearning/about.php">About Us</a></li>
+                        <li><a href="about.php">About Us</a></li>
                         <li><a href="https://equalsign.org/" target="_blank">CSR (Equalsign Foundation)</a></li>
-                        <li><a href="/equalsignLearning/contact.php">Careers</a></li>
-                        <li><a href="/equalsignLearning/contact.php">Offline Centers</a></li>
-                        <li><a href="/equalsignLearning/terms.php">Terms and Conditions</a></li>
-                        <li><a href="/equalsignLearning/privacy-policy.php">Privacy Policy </a></li>
+                        <li><a href="contact.php">Careers</a></li>
+                        <li><a href="contact.php">Offline Centers</a></li>
+                        <li><a href="terms.php">Terms and Conditions</a></li>
+                        <li><a href="privacy-policy.php">Privacy Policy </a></li>
                         <li><a href="https://equalsign.in/expand-with-us/index"> Expand With Us </a></li>
+                        <li><a href="sitemap.php"> Sitemap </a></li>
                     </ul>
-                    
+
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
                     <h4 class="widget-title">Address</h4>
                     <ul class="address-widget">
                         <li>
                             <i class="flaticon-location"></i>
-                            <div class="desc">U 79/17, DLF Phase 3, Gurugram - 122002, Haryana (India)</div>
+                            <div class="desc">Equalsign Coaching Institute
+                                M, 30, Block M, Old DLF Colony, Sector 14, Gurugram, Haryana 122001</div>
                         </li>
                         <li>
                             <i class="flaticon-call"></i>
                             <div class="desc">
-                                <a href="tel:+91 7669911100">+91 7669911100</a> 
+                                <a href="tel:+91 7669911100">+91 7669911100</a>
                                 <!-- <a href="tel:(123)-456-7890">(123)-456-7890</a> -->
                             </div>
                         </li>
                         <li>
                             <i class="flaticon-email"></i>
                             <div class="desc">
-                                <a href="mailto:info@equalsign.in">info@equalsign.in</a> 
+                                <a href="mailto:info@equalsign.in">info@equalsign.in</a>
                                 <!-- <a href="#">www.yourname.com</a> -->
                             </div>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div class="row mt-5">
-                <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <!-- <h4 class="widget-title">Explore</h4> -->
-                    <ul class="site-map">
-                        <li><a href="iit-jee-main-coaching-in-port-blair.php">IIT JEE Main Coaching in Port Blair</a>
-                        </li>
-                        <li><a href="iit-jee-advance-coaching-in-port-blair.php">IIT JEE Advance Coaching in Port
-                                Blair</a></li>
-                        <li><a href="iit-jee-main-coaching-in-gurugram.php">IIT JEE Main Coaching in Gurugram</a></li>
-                        <li><a href="iit-jee-advance-coaching-in-gurugram.php">IIT JEE Advance Coaching in Gurugram</a>
-                        </li>
-                        <li><a href="iit-jee-coaching-jamia-nagar.php">IIT JEE Coaching Jamia Nagar | Okhla</a></li>
-                        <li><a href="iit-jee-main-coaching-jamia-nagar.php">IIT JEE Main Coaching Jamia Nagar | Okhla
-                            </a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <!-- <h4 class="widget-title">Categories</h4> -->
-                    <ul class="site-map">
-                        <li><a href="neet-coaching-in-port-blair.php">NEET Coaching in Port Blair</a></li>
-                        <li><a href="neet-coaching-in-gurugram.php">NEET Coaching in Gurugram</a></li>
-                        <li><a href="neet-coaching-in-jamia-nagar.php">NEET Coaching in Jamia Nagar | Okhla</a></li>
-                        <li><a href="engineering-entrance-coaching-in-port-blair.php">Engineering Entrance Coaching in
-                                Port Blair</a></li>
-                        <li><a href="engineering-entrance-coaching-in-gurugram.php">Engineering Entrance Coaching in
-                                Gurugram</a></li>
-                    </ul>
-                </div>
 
-                <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <!-- <h4 class="widget-title">Resources</h4> -->
-                    <ul class="site-map">
-                        <li><a href="engineering-entrance-coaching-jamia-nagar.php">Engineering Entrance Coaching Jamia
-                                Nagar | Okhla</a></li>
-                        <li><a href="biology-coaching-in-jamia-nagar.php">Biology Coaching Center in Jamia Nagar | Okhla
-                            </a></li>
-                        <li><a href="biology-coaching-center-in-gurugram.php">Biology Coaching Center in Sector 14
-                                Gurugram | Port Blair</a></li>
-                        <li><a href="chemistry-coaching-jamia-nagar.php">Chemistry Coaching Jamia Nagar | Okhla</a></li>
-
-                    </ul>
-                </div>
-                <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <!-- <h4 class="widget-title">Resources</h4> -->
-                    <ul class="site-map">
-                        <li><a href="chemistry-coaching-center-in-gurugram.php">Chemistry Coaching Center in Sector 14
-                                Gurugram | Port Blair
-                            </a></li>
-                        <li><a href="mathematics-coaching-center-in-gurugram.php">Mathematics Coaching Center in Sector
-                                14 Gurugram | Port Blair
-                            </a></li>
-                        <li><a href="math-coaching-jamia-nagar.php">Math Coaching Jamia Nagar | Okhla
-                            </a></li>
-                        <li><a href="maths-coaching-classes-8-9-10-jamia-nagar.php">Maths Coaching Classes 8-9-10 Jamia
-                                Nagar | Okhla
-                            </a></li>
-                        <li><a href="science-coaching-in-jamia-nager.php">Science Coaching in Jamia Nager | Okhla
-                            </a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <!-- <h4 class="widget-title">Resources</h4> -->
-                    <ul class="site-map">
-                        <li><a href="physics-coaching-center-in-gurugram.php">Physics Coaching Center in Sector 14
-                                Gurugram | Port Blair
-                            </a></li>
-                        <li><a href="physics-coaching-jamia-nagar.php">Physics Coaching Jamia Nagar | Okhla
-                            </a></li>
-                        <li><a href="economics-coaching-center-in-gurugram.php">Economics Coaching Center in Sector 14
-                                Gurugram | Port Blair
-                            </a></li>
-                        <li><a href="jamia-entrance-exam-coaching-class-9-okhla-jamia-nagar.php">Jamia Entrance Exam
-                                Coaching Class 9 in Jamia Nagar Okhla | Delhi
-                            </a></li>
-                        <li><a href="jamia-entrance-exam-coaching-class-11-okhla-jamia-nagar.php">Jamia Entrance Exam Coaching Class 11 in Jamia Nagar Okhla | Delhi
-                            </a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <!-- <h4 class="widget-title">Resources</h4> -->
-                    <ul class="site-map">
-                        <li><a href="amu-entrance-exam-coaching-class-9-okhla-jamia-nagar.php">AMU Entrance Exam coaching class 9 Okhla, Jamia Nagar | Delhi
-                            </a></li>
-                        <li><a href="amu-entrance-exam-coaching-class-11-okhla-jamia-nagar.php">AMU Entrance Exam Coaching Class 11 in Jamia Nagar Okhla Delhi
-                            </a></li>
-                        <li><a href="class-8-maths-coaching-institute-in-sector-14-gurugram.php">Class 8 Maths Coaching Institute in Sector 14 Gurugram
-                            </a></li>
-                        <li><a href="class-9-maths-coaching-institute-in-sector-14-gurugram.php">Class 9 Maths Coaching Institute in Sector 14 Gurugram | Gurgaon
-                            </a></li>
-                        <li><a href="class-10-maths-coaching-institute-in-sector-14-gurugram.php">Class 10 Maths Coaching Institute in Sector 14 Gurugram | Gurgaon
-                            </a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
-                    <!-- <h4 class="widget-title">Resources</h4> -->
-                    <ul class="site-map">
-                        <li><a href="class-8-science-coaching-institute-in-sector-14-gurugram.php">Class 8 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
-                            </a></li>
-                        <li><a href="class-9-science-coaching-institute-in-sector-14-gurugram.php">Class 9 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
-                            </a></li>
-                        <li><a href="class-10-science-coaching-institute-in-sector-14-gurugram.php">Class 10 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
-                            </a></li>
-                        <li><a href="accounts-coaching-center-in-gurugram.php">Accounts Coaching in Sector 14 Gurugram | Port Blair
-                            </a></li>
-                    </ul>
-                </div>
-                <!-- <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
-                    <h4 class="widget-title">Address</h4>
-                    <ul class="address-widget">
-                        <li>
-                            <i class="flaticon-location"></i>
-                            <div class="desc">503 Old Buffalo Street Northwest #205 New York-3087</div>
-                        </li>
-                        <li>
-                            <i class="flaticon-call"></i>
-                            <div class="desc">
-                                <a href="tel:(123)-456-7890">(123)-456-7890</a> ,
-                                <a href="tel:(123)-456-7890">(123)-456-7890</a>
-                            </div>
-                        </li>
-                        <li>
-                            <i class="flaticon-email"></i>
-                            <div class="desc">
-                                <a href="mailto:infoname@gmail.com">infoname@gmail.com</a> ,
-                                <a href="#">www.yourname.com</a>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div> -->
-            </div>
 
             <div class="footer-bottom">
                 <div class="container">
                     <div class="row y-middle">
-                        
+
                         <div class="col-lg-6 md-mb-20">
                             <div class="copyright text-center md-text-left">
-                                <p>&copy; 2025 All Rights Reserved.  Managed By <a
+                                <p>&copy; 2025 All Rights Reserved. Managed By <a
                                         href="https://zeabro.com/">Zeabros India Pvt. Ltd.</a>
                                 </p>
                             </div>
                         </div>
                         <div class="col-lg-4 text-right md-text-left">
                             <ul class="footer-social">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                                <li><a href="https://www.facebook.com/equalsignlearning"><i class="fa-brands fa-facebook"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/equalsign-learning-pvt.-ltd./"><i class="fa-brands fa-linkedin"></i></a></li>
+                                <li><a href="https://www.instagram.com/equalsigncoachinginstitute?igsh=MWF3MHhjaXo1cTAyMA=="><i class="fa-brands fa-instagram"></i></a></li>
+                                <li><a href="https://www.google.com/search?q=Equalsign+Coaching+Institute&stick=H4sIAAAAAAAA_-NgU1I1qDC2NEhONU0xMDEzMDU3NTG3MqiwsDQwSUlNTDFIM0s0NDY1XMQq41pYmphTnJmep-Ccn5ickZmXruCZV1ySWVJakgoANcoPokgAAAA&hl=en&mat=CYo912KX5M7CElYBqiIDwll55jU7tca4mdiNu_eLT4HIJGSdgDBSwbI5EYH0F6ltXWxABRDp0JccDe_zGaZCstQJG3cUVI7h3LEclVZhHmsTbIkDkuOTbvmw-j5NiWx2ag&authuser=0"><i class="fa-brands fa-google"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li> -->
                             </ul>
                         </div>
                     </div>

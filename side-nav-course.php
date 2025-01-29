@@ -9,26 +9,40 @@
             <form>
                 <!-- Name input -->
                 <div data-mdb-input-init class="form-outline mb-4">
-                    <input type="text" id="form4Example1" class="form-control" />
-                    <label class="form-label" for="form4Example1">Name</label>
+                    <input type="text" id="form4Example1" class="form-control" placeholder="Name" />
+                    <!-- <label class="form-label" for="form4Example1">Name</label> -->
                 </div>
 
                 <!-- Email input -->
                 <div data-mdb-input-init class="form-outline mb-4">
-                    <input type="email" id="form4Example2" class="form-control" />
-                    <label class="form-label" for="form4Example2">Email address</label>
+                    <input type="email" id="form4Example2" class="form-control" placeholder="Email Address" />
+                    <!-- <label class="form-label" for="form4Example2">Email address</label> -->
                 </div>
                 <!-- phone -->
                 <div data-mdb-input-init class="form-outline mb-4">
-                    <input type="tel" id="form4Example3" class="form-control" />
-                    <label class="form-label" for="form4Example3">Phone</label>
+                    <input type="tel" id="form4Example3" class="form-control" placeholder="Phone" />
+                    <!-- <label class="form-label" for="form4Example3">Phone</label> -->
                 </div>
                 <!-- course -->
                 <div data-mdb-input-init class="form-outline mb-4">
-                    <input type="text" id="form4Example4" class="form-control" />
-                    <label class="form-label" for="form4Example4">Course</label>
+                    <input type="text" id="form4Example4" class="form-control" placeholder="Course"/>
+                    <!-- <label class="form-label" for="form4Example4">Course</label> -->
                 </div>
+                  <div data-mdb-input-init class="form-outline mb-4">
+                    <!-- <input type="text" id="form4Example4" class="form-control" placeholder="Select Our Center"/> -->
+                    <select class="form-select" id="center" name="center" required>
+                    <option selected disabled value="">Select Our Center</option>
+                    <option value="center1">Sector 14, Gurugram</option>
+                    <option value="center2">Sri Vijaya Puram</option>
+                    <option value="center3">Bambooflat</option>
+                    <option value="center4">Jamia Nagar</option>
+                    <option value="center4">Bathubasti</option>
+                    <option value="center4">Rohini</option>
 
+
+                </select>
+                    <!-- <label class="form-label" for="form4Example4">Course</label> -->
+                </div>
                 <!-- Submit button -->
                 <button data-mdb-ripple-init type="button" class="btn btn-primary btn-block mb-4 readon2 wow fadeInUp"
                     data-wow-delay="100ms" data-wow-duration="2000ms">Send</button>

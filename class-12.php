@@ -28,41 +28,42 @@
                     <div class="bs-img">
                         <a href="#"><img src="assets\images\12.png" alt="" class="wow fadeInUp"></a>
                     </div>
-                  
+
                     <h2 class="title">Class 12th Course Details</h2>
                 </div>
                 <div class="blog-desc ">
                     <p>
-                        Embark on a transformative academic journey with Equalsign Learning Class 9 coaching
-                        program. Our comprehensive curriculum is crafted to instill a strong foundation across
-                        subjects, ensuring students not only excel in their current studies but also pave the way
-                        for success in higher grades. </p>
+                        <a href="index.php">Equalsign Learning</a> Class 12 program is a comprehensive and strategic
+                        approach to empower students to excel in their board exams and successfully navigate the
+                        competitive landscape of entrance exams. Join us on this journey towards academic excellence and
+                        a promising future.
+                    </p>
                 </div>
                 <div class="container">
                     <h4 class="title" style="color: #EF481B;">Personalized Tuition</h4>
-                    <p>Join Equalsign Learning's Class 12 program to set the foundation for a future of academic
-                        brilliance
-                        and personal growth. Let's inspire a love for learning that lasts a lifetime. </p>
+                    <p>Equalsign Learning welcomes Class 12 students to a transformative educational experience, geared
+                        towards not only excelling in board exams but also triumphing in competitive entrances. Explore
+                        the features of our Class 12 course:</p>
                     <div class="row wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
                         <div class="col-md-6">
                             <section class="name-list-section">
                                 <ul class="name-list">
-                                    <li><span class="checkmark">&#10003;</span> Subject Mastery</li>
-                                    <li><span class="checkmark">&#10003;</span> Interactive Learning</li>
-                                    <li><span class="checkmark">&#10003;</span> Foundation Building</li>
-                                    <li><span class="checkmark">&#10003;</span> Experienced Faculty</li>
-                                    <li><span class="checkmark">&#10003;</span> Regular Assessments</li>
+                                    <li><span class="checkmark">&#10003;</span> Board Exam Mastery</li>
+                                    <li><span class="checkmark">&#10003;</span> Entrance Exam Focus</li>
+                                    <li><span class="checkmark">&#10003;</span> Subject Expertise</li>
+                                    <li><span class="checkmark">&#10003;</span> Mock Exams and Practice</li>
+                                    <li><span class="checkmark">&#10003;</span> Comprehensive Study Materials</li>
                                 </ul>
                             </section>
                         </div>
-                        <div class="col-md-6 " >
+                        <div class="col-md-6 ">
                             <section class="name-list-section">
                                 <ul class="name-list">
+                                    <li><span class="checkmark">&#10003;</span>Technology-Enhanced Learning</li>
+                                    <li><span class="checkmark">&#10003;</span> College Application Assistance</li>
+                                    <li><span class="checkmark">&#10003;</span> Career Guidance</li>
+                                    <li><span class="checkmark">&#10003;</span>Time Management Skills</li>
                                     <li><span class="checkmark">&#10003;</span> Holistic Development</li>
-                                    <li><span class="checkmark">&#10003;</span> Technology Integration</li>
-                                    <li><span class="checkmark">&#10003;</span> Personalized Attention</li>
-                                    <li><span class="checkmark">&#10003;</span> Parent-Teacher Collaboration</li>
-                                    <li><span class="checkmark">&#10003;</span> Life Skills</li>
                                 </ul>
                             </section>
                         </div>
@@ -74,22 +75,23 @@
                 <h4 class="title" style="color: #1B6CCE;">-Understand the Syllabus</h4>
 
                 <div class="blog-desc">
-                   
+
                     <ul>
                         <li>
                             <ul>
                                 <li>
-<p>
-                                    NCERT has prescribed the syllabus of major subjects for the 11th class viz.
-                                    English, Mathematics, Science, Hindi, Social Science, Sanskrit and Urdu.</p></li>
-                                <li>
+                                  <p> NCERT has prescribed the syllabus of major subjects for the 12th class viz.
+                                  English, Mathematics, Chemistry, Physics, Hindi,Biology.</p>
+                                </li>
+                                <!-- <li>
                                     <a href="https://school.careers360.com/ncert/ncert-syllabus-for-class-11">Syllabus
                                         of NCERT Class 12</a>
                                     is available to download in the pdf file for all the subjects.
-                                </li>
-                                <li><p>
-                                    The syllabus comprises the introduction about the subject, guidelines to study,
-                                    and topics and units required to study while preparing for the exams.</p>
+                                </li> -->
+                                <li>
+                                    <p>
+                                        The syllabus comprises the introduction about the subject, guidelines to study,
+                                        and topics and units required to study while preparing for the exams.</p>
                                 </li>
                             </ul>
                         </li>
@@ -102,27 +104,32 @@
                         </tr>
                         <tr>
                             <td>Mathematics</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?hemh1=0-16" target="_blank">NCERT Math
+                            <td><a href="https://ncert.nic.in/textbook.php?lemh1=0-6" target="_blank">NCERT Math
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Chemistry</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?hesc1=0-18" target="_blank">NCERT Chemistry
+                            <td><a href="https://ncert.nic.in/textbook.php?lech1=0-5" target="_blank">NCERT Chemistry
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>English</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td><a href="https://ncert.nic.in/textbook.php?lekl1=0-21" target="_blank">NCERT English
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Hindi</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT Hindi
+                            <td><a href="https://ncert.nic.in/textbook.php?lhat1=0-21" target="_blank">NCERT Hindi
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Physics</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT Physics
+                            <td><a href="https://ncert.nic.in/textbook.php?leph1=0-8" target="_blank">NCERT Physics
+                                    Textbook</a></td>
+                        </tr>
+                        <tr>
+                            <td>Biology</td>
+                            <td><a href="https://ncert.nic.in/textbook.php?lebo1=0-13" target="_blank">NCERT Biology
                                     Textbook</a></td>
                         </tr>
                     </table>
@@ -156,7 +163,7 @@
         </div>
     </div>
 </section>
-<div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
+<!-- <div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 padding-0">
@@ -230,7 +237,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 </div>
 <!-- Main content End -->
 

@@ -105,7 +105,7 @@ Okhla, Best JEE Main Coaching Institutes in Jamia Nagar, Best IIT JEE Main Coach
 <!-- Blog Section End -->
 
 <!-- Newsletter section start -->
-<div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
+<!-- <div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
     <div class="container">
         <div class="newsletter-wrap">
             <div class="row y-middle">
@@ -128,7 +128,7 @@ Okhla, Best JEE Main Coaching Institutes in Jamia Nagar, Best IIT JEE Main Coach
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- Newsletter section end -->
 </div>
 <!-- Main content End -->

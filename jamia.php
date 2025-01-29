@@ -20,22 +20,21 @@
             <img src="assets\images\Equalsign Imaes\683 x 529.png" alt="">
         </div>
         <div class="col-md-6">
-        <div class="sec-title pt-5">
-                        <div class="sub-title orange">About</div>
-                        <h2 class="title mb-17">Equalsign Jamia</h2>
-                        <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
-                        <div class="desc">
-                            <p>Equalsign Learning is your compass for academic success. As a premier coaching
-                                institution, we empower students through tailored courses for CBSE (Class 8 to 12), JEE
-                                Main, NEET UG, CUET, and NDA. Our expert faculty and personalized approach ensure a
-                                holistic learning experience. From mastering core subjects to excelling in competitive
-                                exams, Equalsign is your partner in educational excellence. With a commitment to
-                                fostering growth and shaping bright futures, we offer a School Integrated Program for
-                                seamless learning within campuses. Choose Equalsign for a transformative education that
-                                goes beyond classrooms, equipping you with the skills to conquer your academic goals.
-                            </p>
-                        </div>
-                    </div>
+            <div class="sec-title pt-5">
+                <div class="sub-title orange">About</div>
+                <h2 class="title mb-17">Equalsign Jamia</h2>
+                <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
+                <div class="desc">
+                    <p><a href="index.php">Equalsign Learning</a> Jamia Nagar Centre in Okhla upholds academic excellence with cultural
+                        sensitivity. Our bilingual faculty ensures comfortable learning in both English and Hindi,
+                        making education accessible to all. Located near prominent universities, we specialize in CUET
+                        preparation that helps students get into India's top central universities. Our programs respect
+                        local traditions while focusing on modern educational needs. Special attention to female
+                        education through dedicated batches and female faculty members makes us a trusted name in the
+                        community.
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -61,7 +60,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Email Address</span>
-                        <span class="des"><a href="mailto:info@rstheme.com">info@equalsign.in</a></span>
+                        <span class="des"><a href="mailto:info@equalsign.in">info@equalsign.in</a></span>
                     </div>
                 </div>
             </div>
@@ -72,18 +71,18 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Phone Number</span>
-                        <span class="des"><a href="tel%2b0885898745.html">+91 7669911100</a></span>
+                        <span class="des"><a href="tel:+91 97739 87274">+91 97739 87274</a></span>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-12 lg-pl-0 sm-mb-30">
                 <div class="address-item">
                     <div class="icon-part">
-                    <img src= "assets\images\tim.jpg"alt="">
+                        <img src="assets\images\tim.jpg" alt="">
                     </div>
                     <div class="address-text">
                         <span class="label">Timing</span>
-                        <span class="des"><a href="tel%2b0885898745.html">9:00 am -5:00 pm</a></span>
+                        <span class="des"><a href="9:00 am -5:00 pm">10:00 AM - 7:00 PM</a></span>
                     </div>
                 </div>
             </div>

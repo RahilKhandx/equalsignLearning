@@ -1586,7 +1586,7 @@
         margin: 0 0 20px;
     }
     .rs-slider.main-home .slider-content .content-part .sl-title {
-        font-size: 60px;
+        font-size: 55px;
         line-height: 1.3;
     }
     .rs-slider.main-home .slider-content .content-part {
@@ -2474,14 +2474,14 @@
     }
 
     .rs-slider.main-home .slider-content .content-part {
-        padding: 175px 15px 100px;
+        padding: 100px 15px 100px;
     }
     .rs-slider.main-home .slider-content .content-part .sl-sub-title {
         font-size: 20px;
         margin-bottom: 10px;
     }
     .rs-slider.main-home .slider-content .content-part .sl-title {
-        font-size: 48px;
+        font-size: 38px;
         margin-bottom: 50px;
     }
     .rs-features {
@@ -2503,7 +2503,7 @@
         line-height: 1.4;
     }
     .rs-featured-courses .courses-item .content-part .images {
-        padding-bottom: 35px;
+        /* padding-bottom: 35px; */
     }
     .rs-footer .footer-top .widget-title {
         font-size: 10px;
@@ -3498,8 +3498,8 @@
         font-size: 18px;
     }
     .rs-slider.main-home .slider-content .content-part .sl-title {
-        font-size: 35px;
-        margin-bottom: 30px;
+        font-size: 28px;
+        /* margin-bottom: 30px; */
     }
 
     .rs-categories.main-home .categories-items .contents {

@@ -115,7 +115,7 @@
     </div>
 </div>
 
-<div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
+<!-- <div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 padding-0">
@@ -189,7 +189,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 </div>
 <!-- Main content End -->
 

@@ -20,22 +20,21 @@
             <img src="assets\images\Equalsign Imaes\683 x 529.png" alt="">
         </div>
         <div class="col-md-6">
-        <div class="sec-title pt-5">
-                        <div class="sub-title orange">About</div>
-                        <h2 class="title mb-17">Equalsign Bambooflat</h2>
-                        <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
-                        <div class="desc">
-                            <p>Equalsign Learning is your compass for academic success. As a premier coaching
-                                institution, we empower students through tailored courses for CBSE (Class 8 to 12), JEE
-                                Main, NEET UG, CUET, and NDA. Our expert faculty and personalized approach ensure a
-                                holistic learning experience. From mastering core subjects to excelling in competitive
-                                exams, Equalsign is your partner in educational excellence. With a commitment to
-                                fostering growth and shaping bright futures, we offer a School Integrated Program for
-                                seamless learning within campuses. Choose Equalsign for a transformative education that
-                                goes beyond classrooms, equipping you with the skills to conquer your academic goals.
-                            </p>
-                        </div>
-                    </div>
+            <div class="sec-title pt-5">
+                <div class="sub-title orange">About</div>
+                <h2 class="title mb-17">Equalsign Bambooflat</h2>
+                <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
+                <div class="desc">
+                    <p><a href="index.php">Equalsign Learning</a> Bamboo Flat Center offers specialized attention in this close-knit
+                        community. Our programs focus on basic CBSE excellence in classes 8-10, thereby preparing the
+                        children for higher education opportunities. Understanding how lifestyles in the region revolve
+                        around ferry schedules, we offer accordant flexibility and recorded sessions. We furthered our
+                        unique approach by incorporating local context into learning to make learning relevant and
+                        engaging. Focus is built on strong basics as a stepping stone for preparation for competitive
+                        exams in the future, so no child is left behind in this island community.
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -61,7 +60,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Email Address</span>
-                        <span class="des"><a href="mailto:info@rstheme.com">info@equalsign.in</a></span>
+                        <span class="des"><a href="mailto:info@equalsign.in">info@equalsign.in</a></span>
                     </div>
                 </div>
             </div>
@@ -72,18 +71,18 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Phone Number</span>
-                        <span class="des"><a href="tel%2b0885898745.html">+91 7669911100</a></span>
+                        <span class="des"><a href="tel:+91 76950 92994">+91 76950 92994</a></span>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-12 lg-pl-0 sm-mb-30">
                 <div class="address-item">
                     <div class="icon-part">
-                    <img src= "assets\images\tim.jpg"alt="">
+                        <img src="assets\images\tim.jpg" alt="">
                     </div>
                     <div class="address-text">
                         <span class="label">Timing</span>
-                        <span class="des"><a href="tel%2b0885898745.html">9:00 am -5:00 pm</a></span>
+                        <span class="des"><a href="9:00 am -5:00 pm">9:00 AM - 6:00 PM</a></span>
                     </div>
                 </div>
             </div>

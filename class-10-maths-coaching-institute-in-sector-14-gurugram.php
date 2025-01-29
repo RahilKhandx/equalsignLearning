@@ -124,7 +124,7 @@
     <!-- Blog Section End -->
 
     <!-- Newsletter section start -->
-    <div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
+    <!-- <div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
         <div class="container">
             <div class="newsletter-wrap">
                 <div class="row y-middle">
@@ -147,7 +147,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Newsletter section end -->
 </div>
 <!-- Main content End -->

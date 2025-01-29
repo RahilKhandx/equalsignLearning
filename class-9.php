@@ -21,15 +21,18 @@
     <div class="container">
         <div class="row">
             <!-- side nav -->
-            <?php include "side-nav-course.php" ?>
+            <?php include "side-nav-1.php" ?>
             <!-- main part -->
             <div class="col-lg-8 pr-50 md-pr-15">
                 <div class="blog-deatails">
+                <div class="bs-img">
+                        <a href="#"><img src="assets/images/blog/inner/1.jpg" alt="" class="wow fadeInUp"></a>
+                    </div>
                     <h2 class="title">Class 9th Course Details</h2>
                 </div>
                 <div class="blog-desc ">
                     <p>
-                        Embark on a transformative academic journey with Equalsign Learning Class 9 coaching
+                        Embark on a transformative academic journey with <a href="index.php">Equalsign Learning</a>  Class 9 coaching
                         program. Our comprehensive curriculum is crafted to instill a strong foundation across
                         subjects, ensuring students not only excel in their current studies but also pave the way
                         for success in higher grades. </p>
@@ -72,8 +75,8 @@
                     <p>
                         NCERT has prescribed the syllabus of major subjects for the 9th class viz.
                         English, Mathematics, Science, Hindi, Social Science, Sanskrit and Urdu.
-                        <a href="https://school.careers360.com/ncert/ncert-syllabus-for-class-9">Syllabus
-                            of NCERT Class 9</a>
+                        <!-- <a href="https://school.careers360.com/ncert/ncert-syllabus-for-class-9">Syllabus
+                            of NCERT Class 9</a> -->
                         is available to download in the pdf file for all the subjects.
                         The syllabus comprises the introduction about the subject, guidelines to study,
                         and topics and units required to study while preparing for the exams.
@@ -86,27 +89,27 @@
                         </tr>
                         <tr>
                             <td>Mathematics</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?hemh1=0-16" target="_blank">NCERT Math
+                            <td><a href="https://ncert.nic.in/textbook.php?iemh1=0-12" target="_blank">NCERT Math
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Science</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?hesc1=0-18" target="_blank">NCERT Science
+                            <td><a href="https://ncert.nic.in/textbook.php?iesc1=0-12" target="_blank">NCERT Science
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>English</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td><a href="https://ncert.nic.in/textbook.php?iebe1=0-9" target="_blank">NCERT English
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Hindi</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td><a href="https://ncert.nic.in/textbook.php?ihks1=0-13" target="_blank">NCERT Hindi
                                     Textbook</a></td>
                         </tr>
                         <tr>
                             <td>Social Science</td>
-                            <td><a href="https://ncert.nic.in/textbook.php?heeg1=0-12" target="_blank">NCERT English
+                            <td><a href="https://ncert.nic.in/textbook.php?iess4=0-5" target="_blank">NCERT Social Science
                                     Textbook</a></td>
                         </tr>
                     </table>
@@ -136,7 +139,7 @@
         </div>
     </div>
 </section>
-<div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
+<!-- <div class="rs-faq-part style1 orange-color pt-100 pb-100 md-pt-70 md-pb-70">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 padding-0">
@@ -210,7 +213,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 </div>
 <!-- Main content End -->
 

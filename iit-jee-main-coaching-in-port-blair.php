@@ -1,5 +1,19 @@
-<!-- header -->
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Best IIT JEE Mains Coaching in Port Blair: Enroll Now </title>
+    <meta name="description" content="Equalsign offers the IIT JEE Mains Coaching in Port Blair and other examinations. It is a one-for-all coaching center for aspiring students.">
+	<meta name="keywords" content="IIT JEE Mains Coaching in Port Blair, JEE Mains Coaching in Port Blair, JEE Mains Coaching Port Blair, JEE Mains Coaching Center in Port Blair, IIT JEE Mains Coaching Port Blair, Coaching Center in Port Blair, Best JEE Mains Coaching in Port Blair, JEE Mains Coaching Institute in Port Blair">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include "head.php" ?>
+</head>
+
+<body class="home-style2">
+
+  <?php include "menu.php" ?>  
 
 
 <!-- Main content Start -->
@@ -142,7 +156,7 @@
     <!-- Blog Section End -->
 
     <!-- Newsletter section start -->
-    <div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
+    <!-- <div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
         <div class="container">
             <div class="newsletter-wrap">
                 <div class="row y-middle">
@@ -165,7 +179,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Newsletter section end -->
 </div>
 <!-- Main content End -->
