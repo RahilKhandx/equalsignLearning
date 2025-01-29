@@ -43,7 +43,7 @@
                                 Dedicated Faculties </h1>
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms"
                                 style="margin-top:-50px">
-                                <a class="readon blue-btn main-home" href="about.php">START A COURSE</a>
+                                <a class="readon blue-btn main-home" href="about-us.php">START A COURSE</a>
                             </div>
                         </div>
 
@@ -86,7 +86,7 @@
 
 
         <!-- About Section Start -->
-        <div id="rs-about" class="rs-about style3 ">
+        <div id="rs-about" class="rs-about style3 mt-4 ">
             <div class="container">
                 <div class="row y-middle">
                     <div class="col-lg-4 lg-pr-0 md-mb-30 pt-30">
@@ -198,7 +198,7 @@
         <!-- Subject Categories Section End -->
 
         <!-- Popular Course Section Start -->
-        <div class="rs-popular-courses style2 bg3 pt-94 pb-200 md-pt-64 md-pb-90">
+        <div class="rs-popular-courses container-fluid style2 bg3 pt-94 pb-200 md-pt-64 md-pb-90">
             <div class="container">
                 <div class="sec-title mb-60 text-center md-mb-30">
                     <div class="sub-title primary">Top Courses</div>
@@ -209,7 +209,7 @@
                         <div class="course-wrap">
                             <div class="front-part">
                                 <div class="img-part">
-                                    <img src="assets\images\jee.jpeg" alt="">
+                                    <img src="assets\images\jee.jpeg" alt="" class="img-responsive">
                                 </div>
                                 <div class="content-part">
                                     <a class="categorie" href="jee.php">JEE-MAIN</a>
