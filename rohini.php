@@ -38,7 +38,7 @@
         </div>
     </div>
 </div>
-<div class="contact-page-section pt-100 pb-100 md-pt-70 md-pb-70" style="display:none">
+<div class="contact-page-section pt-100 pb-100 md-pt-70 md-pb-70" >
     <div class="container">
         <div class="row rs-contact-box mb-90 md-mb-50">
             <div class="col-lg-3 col-md-12-4 lg-pl-0 sm-mb-30 md-mb-30">
@@ -48,7 +48,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Address</span>
-                        <span class="des">Elahi Complex, B-84, Tikona Park, Jamia Nagar, Okhla, Delhi-110025
+                        <span class="des">SHOP NO.10 KINGS MALL ROHINI WEST DELHI-110085
                         </span>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Phone Number</span>
-                        <span class="des"><a href="tel:+91 7669911100">+91 7669911100</a></span>
+                        <span class="des"><a href="tel:+91 9773987277">+91 9773987277</a></span>
                     </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Timing</span>
-                        <span class="des"><a href="9:00 am -5:00 pm">10:00 AM - 7:00 PM</a></span>
+                        <span class="des"><a href="10:00 am -7:00 pm">10:00 AM - 7:00 PM</a></span>
                     </div>
                 </div>
             </div>
