@@ -87,7 +87,7 @@
     }
 
     .rs-popular-courses.style2 .course-wrap .front-part .img-part img {
-        min-height: 290px;
+        /* min-height: 290px; */
     }
 }
 @media only screen and (max-width: 1400px) {
