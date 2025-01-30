@@ -26,7 +26,7 @@
             <div class="col-lg-8 pr-50 md-pr-15">
                 <div class="blog-deatails">
                 <div class="bs-img">
-                        <a href="#"><img src="assets/images/blog/inner/1.jpg" alt="" class="wow fadeInUp"></a>
+                        <a href="#"><img src="assets/images/Class 9th Course Details.jpg" alt="" class="wow fadeInUp"></a>
                     </div>
                     <h2 class="title">Class 9th Course Details</h2>
                 </div>

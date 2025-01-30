@@ -2,7 +2,7 @@
 <!-- Main content Start -->
 <div class="rs-breadcrumbs breadcrumbs-overlay">
     <div class="breadcrumbs-img">
-        <img src="assets\images\About Us.png" alt="Breadcrumbs Image">
+        <img src="assets/images/EqualMerit-01.jpg" alt="Breadcrumbs Image">
     </div>
     <div class="breadcrumbs-text white-color">
         <h1 class="page-title">EqualMerit</h1>
@@ -42,7 +42,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 order-last padding-0 md-pl-15 md-pr-15 md-mb-30">
                 <div class="img-part">
-                    <img class="wow fadeInUp" src="assets\images\scholar1.jpg.png" alt="About Image">
+                    <img class="wow fadeInUp" src="assets/images/Celebrating1M.jpg" alt="About Image">
                 </div>
             </div>
             <div class="col-lg-6 pr-70 md-pr-15">

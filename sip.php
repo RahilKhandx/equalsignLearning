@@ -111,7 +111,7 @@
                 <div class="col-lg-6 pb-50 md-pt-70 md-pb-70">
                     <div class="media-wrap">
                         <div class="image-wrap">
-                            <img src="assets/images/cta/style2/left-bg2.png" alt="Descriptive Alt Text" class="img-fluid">
+                            <img src="assets/images/Our School Integrated P.jpg"alt="Descriptive Alt Text" class="img-fluid">
                         </div>
                         <!-- <div class="video-wrap">
                             <a class="popup-videos" href="https://www.youtube.com/watch?v=F6Sw-f9oJAU?si=Nvgu3VjJDqhE7OwZ">
@@ -141,7 +141,7 @@
                             <div class="course-item" >
                                 <div class="course-image">
                                   <a href="sip.php">
-                                      <img src="assets\images\Seamless learning Experience.png"  alt="images">
+                                      <img src="assets/images/Seamless learning Experience.jpg" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -179,7 +179,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="sip.php">
-                                      <img src="assets\images\Convenience for Students.png" alt="images">
+                                      <img src="assets/images/ConvenienceforStudents.jpg" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -202,7 +202,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="sip.php">
-                                      <img src="assets\images\Lightening the Load for Schools.png" alt="images">
+                                      <img src="assets/images/Lightening the Load for Schools.jpg" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -232,7 +232,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="sip.php">
-                                      <img src="assets\images\Customized Foundation and Exam Preparation.png" alt="images">
+                                      <img src="assets/images/Customized Foundation and Exam Preparation.jpg" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
