@@ -23,7 +23,7 @@
                 <?php include "side-nav-2.php" ?>
             </div>
             <!-- main part -->
-            <div class="col-lg-7 pr-50 md-pr-15">
+            <div class="col-lg-9 pr-50 md-pr-15">
                 <div class="row">
                     <div class="col-lg-12  padding-0 md-pl-15 md-pr-15 md-mb-30">
                         <div class="img-part">
