@@ -52,13 +52,13 @@
 <body class="home-style2">
 
     <!--Preloader area start here-->
-    <!-- <div id="loader" class="loader">
+    <div id="loader" class="loader">
         <div class="loader-container">
             <div class='loader-icon'>
-                <img src="assets\images\logo-01.png" alt="" class="w-75">
+                <!-- <img src="assets\images\logo-01.png" alt="" class="w-75">git  -->
             </div>
         </div>
-    </div> -->
+    </div>
     <!--Preloader area End here-->
 
     <!--Full width header Start-->
@@ -124,7 +124,7 @@
                                             <li class="menu-item-has-children">
                                                 <a href="#">Who we are</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="about.php">About Us</a></li>
+                                                    <li><a href="about-us.php">About Us</a></li>
                                                     <li><a href="https://equalsign.org/">CSR (Equal Sign Foundation)</a></li>
                                                 </ul>
                                             </li>
