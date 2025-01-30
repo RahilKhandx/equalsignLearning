@@ -75,8 +75,6 @@
                 <h4 class="text-center mb-4"> Enquire Now
                     <hr>
                 </h4>
-
-
                 <form class="row g-3 needs-validation" novalidate method="post" action="registration-class-submit.php">
                     <!-- Name -->
                     <div class="col-md-6 pt-1">

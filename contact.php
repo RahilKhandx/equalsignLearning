@@ -116,34 +116,44 @@
                                 you 24/7.</p>
                         </div>
                         <div id="form-messages"></div>
-                        <form id="contact-form" method="post"
-                            action="https://keenitsolutions.com/products/html/educavo/mailer.php">
+                        <form class="row g-3 needs-validation" novalidate method="post"
+                            action="registration-class-submit.php">
                             <fieldset>
                                 <div class="row">
                                     <div class="col-lg-6 mb-35 col-md-6 col-sm-6">
-                                        <input class="from-control" type="text" id="name" name="name" placeholder="Name"
-                                            required="">
+                                        <input class="from-control" type="text" id="Name" name="Name" placeholder="Name"
+                                            required>
+                                        <div class="invalid-feedback">Please provide your name.</div>
+
                                     </div>
                                     <div class="col-lg-6 mb-35 col-md-6 col-sm-6">
-                                        <input class="from-control" type="text" id="email" name="email"
-                                            placeholder="Email" required="">
+                                        <input class="from-control" type="text" id="Email" name="Email"
+                                            placeholder="Email" required>
+                                        <div class="invalid-feedback">Please provide a valid email address.</div>
+
                                     </div>
                                     <div class="col-lg-6 mb-35 col-md-6 col-sm-6">
-                                        <input class="from-control" type="text" id="phone" name="phone"
-                                            placeholder="Phone" required="">
+                                        <input class="from-control" type="text" id="Phone" name="Phone"
+                                            placeholder="Phone" required pattern="[1-9]{1}[0-9]{9}" required>
+                                        <div class="invalid-feedback">Please provide a valid 10-digit number.</div>
+
                                     </div>
                                     <div class="col-lg-6 mb-35 col-md-6 col-sm-6">
-                                        <input class="from-control" type="text" id="subject" name="subject"
-                                            placeholder="Subject" required="">
+                                        <input class="from-control" type="text" id="Name" name="Name"
+                                            placeholder="Subject" required>
+                                        <div class="invalid-feedback">Please provide your subject name.</div>
+
                                     </div>
 
                                     <div class="col-lg-12 mb-50">
-                                        <textarea class="from-control" id="message" name="message"
-                                            placeholder=" Message" required=""></textarea>
+                                        <textarea class="from-control" id="Name" name="Name" placeholder=" Message"
+                                            required></textarea>
+                                        <div class="invalid-feedback">Please provide your message.</div>
+
                                     </div>
                                 </div>
                                 <div class="form-group mb-0">
-                                    <input class="btn-send" type="submit" value="Submit Now">
+                                    <input class="btnsubmit" type="submit" value="Submit Now" name="classsubmit">
                                 </div>
                             </fieldset>
                         </form>
@@ -156,7 +166,10 @@
 <div class="container-fluid">
     <div class="row justify-content-center">
         <div class="col-md-11">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.302049712852!2d77.04236067437223!3d28.470448891424667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d196d45abe283%3A0x43625e2ec928d37a!2sEqualsign%20Coaching%20Institute!5e0!3m2!1sen!2sin!4v1737520946940!5m2!1sen!2sin" width="95%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.302049712852!2d77.04236067437223!3d28.470448891424667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d196d45abe283%3A0x43625e2ec928d37a!2sEqualsign%20Coaching%20Institute!5e0!3m2!1sen!2sin!4v1737520946940!5m2!1sen!2sin"
+                width="95%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
 
         </div>
     </div>

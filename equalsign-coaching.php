@@ -22,7 +22,7 @@
                 <div class="col-lg-6 pb-50 md-pt-70 md-pb-70">
                     <div class="media-wrap">
                         <div class="image-wrap">
-                            <img src="assets/images/cta/style2/left-bg2.png" alt="Descriptive Alt Text" class="img-fluid">
+                            <img src="assets/images/Welcome to Equalsign Learning.jpg" alt="Descriptive Alt Text" class="img-fluid">
                         </div>
                         <!-- <div class="video-wrap">
                             <a class="popup-videos" href="https://www.youtube.com/watch?v=F6Sw-f9oJAU?si=Nvgu3VjJDqhE7OwZ">
@@ -56,7 +56,7 @@
                             <div class="course-item" >
                                 <div class="course-image">
                                   <a href="#">
-                                      <img src="assets\images\Personalized Coaching.png"  alt="images">
+                                      <img src="assets/images/Personalized Coaching.jpg"  alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -94,7 +94,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="equalsign-coaching.php">
-                                      <img src="assets\images\Comprehensive Courses.png" alt="images">
+                                      <img src="assets/images/Comprehensive Courses.jpg"alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -117,7 +117,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="#">
-                                      <img src="assets\images\Experienced Faculties.png" alt="images">
+                                      <img src="assets/images/Experienced Faculties.jpg" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
@@ -147,7 +147,7 @@
                             <div class="course-item">
                                 <div class="course-image">
                                   <a href="equalsign-coaching.php">
-                                      <img src="assets\images\Holistic Exam Preparation.png" alt="images">
+                                      <img src="assets/images/Holistic Exam Preparation.jpg" alt="images">
                                   </a>
                                 </div>
                                 <div class="course-info">
