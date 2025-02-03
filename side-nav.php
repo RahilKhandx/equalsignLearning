@@ -58,77 +58,8 @@
                 <li><a href="engineering-entrance-coaching-jamia-nagar.php">Engineering Entrance Coaching Jamia Nagar | Okhla</a></li>
             </ul>
         </div>
-        <!-- <div class="widget-archives mb-50">
-            <h3 class="widget-title">Biology Coaching</h3>
-            <ul>
-                <li><a href="biology-coaching-in-jamia-nagar.php">Biology Coaching Center in Jamia Nagar | Okhla
-                </a></li>
-                <li><a href="biology-coaching-center-in-gurugram.php">Biology Coaching Center in Sector 14 Gurugram | Port Blair</a></li>
-            </ul>
-        </div> -->
-        <!-- <div class="widget-archives mb-50">
-            <h3 class="widget-title">Chemistry Coaching</h3>
-            <ul>
-                <li><a href="chemistry-coaching-jamia-nagar.php">Chemistry Coaching Jamia Nagar | Okhla
-                </a></li>
-                <li><a href="chemistry-coaching-center-in-gurugram.php">Chemistry Coaching Center in Sector 14 Gurugram | Port Blair
-                </a></li>
-            </ul>
-        </div> -->
-        <!-- <div class="widget-archives mb-50">
-            <h3 class="widget-title">Mathematics Coaching</h3>
-            <ul>
-                <li><a href="mathematics-coaching-center-in-gurugram.php">Mathematics Coaching Center in Sector 14 Gurugram | Port Blair
-                </a></li>
-                <li><a href="math-coaching-jamia-nagar.php">Math Coaching Jamia Nagar | Okhla
-                </a></li>
-                <li><a href="maths-coaching-classes-8-9-10-jamia-nagar.php">Maths Coaching Classes 8-9-10 Jamia Nagar | Okhla
-                </a></li>
-                <li><a href="class-8-maths-coaching-institute-in-sector-14-gurugram.php">Class 8 Maths Coaching Institute in Sector 14 Gurugram
-                </a></li>
-                <li><a href="class-9-maths-coaching-institute-in-sector-14-gurugram.php">Class 9 Maths Coaching Institute in Sector 14 Gurugram | Gurgaon
-                </a></li>
-                <li><a href="class-10-maths-coaching-institute-in-sector-14-gurugram.php">Class 10 Maths Coaching Institute in Sector 14 Gurugram | Gurgaon
-                </a></li>
-            </ul>
-        </div> -->
-        <!-- <div class="widget-archives mb-50">
-            <h3 class="widget-title">Science Coaching</h3>
-            <ul>
-                <li><a href="science-coaching-in-jamia-nager.php">Science Coaching in Jamia Nager | Okhla
-                </a></li>
-                <li><a href="class-8-science-coaching-institute-in-sector-14-gurugram.php">Class 8 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
-                </a></li>
-                <li><a href="class-9-science-coaching-institute-in-sector-14-gurugram.php">Class 9 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
-                </a></li>
-                <li><a href="class-10-science-coaching-institute-in-sector-14-gurugram.php">Class 10 Science Coaching Institute in Sector 14 Gurugram | Gurgaon
-                </a></li>
-                </ul>
-        </div> -->
-        <!-- <div class="widget-archives mb-50">
-            <h3 class="widget-title">Physics Coaching</h3>
-            <ul>
-                <li><a href="physics-coaching-center-in-gurugram.php">Physics Coaching Center in Sector 14 Gurugram | Port Blair
-                </a></li>
-                <li><a href="physics-coaching-jamia-nagar.php">Physics Coaching Jamia Nagar | Okhla
-                </a></li>
-                </ul>
-        </div> -->
-        <!-- <div class="widget-archives mb-50">
-            <h3 class="widget-title">Economics Coaching</h3>
-            <ul>
-                <li><a href="economics-coaching-center-in-gurugram.php">Economics Coaching Center in Sector 14 Gurugram | Port Blair
-                </a></li>
-                </ul>
-        </div> -->
-        <!-- <div class="widget-archives mb-50">
-            <h3 class="widget-title">Accounts Coaching</h3>
-            <ul>
-                <li><a href="accounts-coaching-center-in-gurugram.php">Accounts Coaching in Sector 14 Gurugram | Port Blair
-                </a></li>
-                </ul>
-        </div> -->
-        <div class="widget-archives mb-50">
+     
+  <div class="widget-archives mb-50">
             <h3 class="widget-title">Jamia Entrance Exam Coaching</h3>
             <ul>
                 <li><a href="jamia-entrance-exam-coaching-class-9-okhla-jamia-nagar.php">Jamia Entrance Exam Coaching Class 9 in Jamia Nagar Okhla | Delhi
@@ -136,7 +67,7 @@
                 <li><a href="jamia-entrance-exam-coaching-class-11-okhla-jamia-nagar.php">Jamia Entrance Exam Coaching Class 11 in Jamia Nagar Okhla | Delhi
                 </a></li>
                 </ul>
-        </div>
+        </div> 
         <div class="widget-archives mb-50">
             <h3 class="widget-title">AMU Entrance Exam coaching</h3>
             <ul>
@@ -145,15 +76,7 @@
             <li><a href="amu-entrance-exam-coaching-class-11-okhla-jamia-nagar.php">AMU Entrance Exam Coaching Class 11 in Jamia Nagar Okhla Delhi
             </a></li>
             </ul>
-        </div>
-        <!-- <div class="recent-posts mb-50">
-            <h3 class="widget-title">Meta</h3>
-            <ul>
-                <li><a href="#">Log in</a></li>
-                <li><a href="#">Entries feed</a></li>
-                <li><a href="#">Comments feed</a></li>
-                <li><a href="#">WordPress.org</a></li>
-            </ul>
-        </div> -->
+        </div> 
+       
     </div>
 </div>
