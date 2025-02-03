@@ -42,7 +42,7 @@
         <div class="container">
             <div class="row">
                 <!-- side nav -->
-                <?php include "side-nav.php" ?>
+                <?php include "side-nav-port.php" ?>
                 <!-- main part -->
                 <ul class="col-lg-8 pr-50 md-pr-15">
                     <div class="blog-deatails">
