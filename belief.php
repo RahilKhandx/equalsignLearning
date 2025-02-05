@@ -30,8 +30,8 @@
                             <div class="col-lg-12  md-pl-15 md-pr-15 md-mb-30">
                                 <div class="img-part">
                                     <img src="assets/images/about/history.png" alt="About Image">
-                                </div> 
-                                <ul class="nav nav-tabs  histort-part" id="myTab" role="tablist" >
+                                </div>
+                                <ul class="nav nav-tabs  histort-part" id="myTab" role="tablist">
                                     <li class="nav-item tab-btns single-history wow fadeInUp" data-wow-delay="100ms"
                                         data-wow-duration="2000ms">
                                         <a class="nav-link tab-btn active" id="about-history-tab" data-toggle="tab"
@@ -112,38 +112,38 @@
                             </div>
                         </div>
                         <div class="container mt-5 wow fadeInUp">
-                <div class="sec-title">
-                            <!-- <div class="sub-title orange">About</div> -->
-                            <h2 class="title mb-17">Talk to the Expert</h2>
+                            <div class="sec-title">
+                                <!-- <div class="sub-title orange">About</div> -->
+                                <h2 class="title mb-17">Talk to the Expert</h2>
                             </div>
-                    <form>
-                        <!-- Name input -->
-                        <div data-mdb-input-init class="form-outline mb-4">
-                            <input type="text" id="form4Example1" class="form-control" />
-                            <label class="form-label" for="form4Example1">Name</label>
-                        </div>
+                            <form>
+                                <!-- Name input -->
+                                <div data-mdb-input-init class="form-outline mb-4">
+                                    <input type="text" id="form4Example1" class="form-control" />
+                                    <label class="form-label" for="form4Example1">Name</label>
+                                </div>
 
-                        <!-- Email input -->
-                        <div data-mdb-input-init class="form-outline mb-4">
-                            <input type="email" id="form4Example2" class="form-control" />
-                            <label class="form-label" for="form4Example2">Email address</label>
-                        </div>
-                        <!-- phone -->
-                        <div data-mdb-input-init class="form-outline mb-4">
-                            <input type="tel" id="form4Example3" class="form-control" />
-                            <label class="form-label" for="form4Example3">Phone</label>
-                        </div>
-                        <!-- course -->
-                        <div data-mdb-input-init class="form-outline mb-4">
-                            <input type="text" id="form4Example4" class="form-control" />
-                            <label class="form-label" for="form4Example4">Course</label>
-                        </div>
+                                <!-- Email input -->
+                                <div data-mdb-input-init class="form-outline mb-4">
+                                    <input type="email" id="form4Example2" class="form-control" />
+                                    <label class="form-label" for="form4Example2">Email address</label>
+                                </div>
+                                <!-- phone -->
+                                <div data-mdb-input-init class="form-outline mb-4">
+                                    <input type="tel" id="form4Example3" class="form-control" />
+                                    <label class="form-label" for="form4Example3">Phone</label>
+                                </div>
+                                <!-- course -->
+                                <div data-mdb-input-init class="form-outline mb-4">
+                                    <input type="text" id="form4Example4" class="form-control" />
+                                    <label class="form-label" for="form4Example4">Course</label>
+                                </div>
 
 
-                        <!-- Submit button -->
-                        <button data-mdb-ripple-init type="button" class="btn btn-primary btn-block mb-4 readon2">Send</button>
-                    </form>
-                </div>
+                                <!-- Submit button -->
+                                <button data-mdb-ripple-init type="button" class="btn btn-primary btn-block mb-4 readon2">Send</button>
+                            </form>
+                        </div>
                     </div>
                 </div>
 
