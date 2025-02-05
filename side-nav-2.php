@@ -4,7 +4,7 @@
             <h3 class="widget-title">About Equalsign</h3>
             <ul>
                 <li><a href="about-us.php">About Us</a></li>
-                <li><a href="founder-message.php">Founder Message</a></li>
+                <li><a href="founder-message.php">Founder</a></li>
                 <li><a href="belief.php">Our Belief</a></li>
                 <li><a href="timeline.php">Our Timeline</a></li>
                 <!-- <li><a href="neet-topper.php">Our NEET Toppers</a></li>

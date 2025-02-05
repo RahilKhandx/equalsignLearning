@@ -25,7 +25,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Address</span>
-                        <span class="des">M30 2nd Floor, Old DLF Colony, Sector 14, Gurugram (HR) - 122001
+                        <span class="des"> <b>Head Office :</b> M30 2nd Floor, Old DLF Colony, Sector 14, Gurugram (HR) - 122001
                         </span>
                     </div>
                 </div>
@@ -67,9 +67,8 @@
                                 <i class="fa-solid fa-location-dot" style="color: #ef481b;"></i>
                             </div>
                             <div class="content-part">
-                                <!-- <h5 class="info-subtitle">Address</h5> -->
-                                <h5 class="info-subtitle">M30 2nd Floor, Old DLF Colony, Sector 14, Gurugram (HR) -
-                                    122001</h5>
+                                <h5 class="info-subtitle" style="color: #ef481b; font-size:21px;"><b >Equalsign Bathubasti</b><br></h5>
+                                <h5 class="info-subtitle">Bathu Basti Main Road, Sri Vijaya Puram Pin No- 744105</h5>
 
                             </div>
                         </div>
@@ -78,6 +77,8 @@
                                 <i class="fa-solid fa-location-dot" style="color: #ef481b;"></i>
                             </div>
                             <div class="content-part">
+                            <h5 class="info-subtitle" style="color: #ef481b; font-size:21px;"><b >Equalsign Sri Vijaya Puram</b><br></h5>
+
                                 <h5 class="info-subtitle">MB 101/1, Opp. State Library, Middle Point, Port Blair -
                                     744101</h5>
                                 <!-- <h4 class="info-title"><a href="mailto:info@rstheme.com">info@rstheme.com</a> -->
@@ -89,6 +90,8 @@
                                 <i class="fa-solid fa-location-dot" style="color: #ef481b;"></i>
                             </div>
                             <div class="content-part">
+                            <h5 class="info-subtitle" style="color: #ef481b; font-size:21px;"><b >Equalsign Bambooflat</b><br></h5>
+
                                 <h5 class="info-subtitle">SS Complex, Bambooflat, South Andaman - 744107</h5>
                                 <!-- <h4 class="info-title"><a href="mailto:info@rstheme.com">info@rstheme.com</a> -->
                                 </h4>
@@ -99,8 +102,22 @@
                                 <i class="fa-solid fa-location-dot" style="color: #ef481b;"></i>
                             </div>
                             <div class="content-part">
+                            <h5 class="info-subtitle" style="color: #ef481b; font-size:21px;"><b >Equalsign Jamia</b><br></h5>
+
                                 <h5 class="info-subtitle">Elahi Complex, B-84, Tikona Park, Jamia Nagar, Okhla,
                                     Delhi-110025</h5>
+                                <!-- <h4 class="info-title"><a href="mailto:info@rstheme.com">info@rstheme.com</a> -->
+                                </h4>
+                            </div>
+                        </div>
+                        <div class="contact-info mb-15 md-mb-30">
+                            <div class="icon-part">
+                                <i class="fa-solid fa-location-dot" style="color: #ef481b;"></i>
+                            </div>
+                            <div class="content-part">
+                            <h5 class="info-subtitle" style="color: #ef481b; font-size:21px;"><b >Equalsign Rohini</b><br></h5>
+
+                                <h5 class="info-subtitle">SHOP NO.10 KINGS MALL ROHINI WEST DELHI-110085</h5>
                                 <!-- <h4 class="info-title"><a href="mailto:info@rstheme.com">info@rstheme.com</a> -->
                                 </h4>
                             </div>

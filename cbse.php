@@ -1,3 +1,4 @@
+
 <?php include "header.php" ?>
 <div class="rs-breadcrumbs breadcrumbs-overlay">
     <div class="breadcrumbs-img">
@@ -34,84 +35,17 @@
                                 goes beyond classrooms, equipping you with the skills to conquer your academic goals.
                             </p>
                         </div>
-    <h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-8th <a href="class-8.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a> </h3>
+    <h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-11th <a href="class-11.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a> </h3>
 
-<table class="table p=5">
-  <thead>
-    <tr>
-      <th scope="col">PROGRAM</th>
-      <th scope="col">CLASS SCHEDULE</th>
-      <th scope="col">TEST SCHEDULE</th>
-      <th scope="col">COURSE DESCRIPTION</th>
-      <th scope="col">COURSE FEE</th>
+    <img class="mt-3 mb-3" src="assets/images/11thh.jpg">
 
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">One Year Foundation <br> Program (for VIIIth)</th>
-      <td>3-4 Days a week<br>3 hrs.each Day</td>
-      <td>Weekly Test</td>
-      <td>The course prepares the students for class VIIIth <br> as well as (olympiads) Exam</td>
-      <td>INR 53,500<br>(+ GST)</td>
+<h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-12th <a href="class-12.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a> </h3>
 
-    </tr>
-    
-  </tbody>
-</table>
-<h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-9th <a href="class-9.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a> </h3>
-
-<table class="table">
-  <thead>
-    <tr>
-      <th scope="col">PROGRAM</th>
-      <th scope="col">CLASS SCHEDULE</th>
-      <th scope="col">TEST SCHEDULE</th>
-      <th scope="col">COURSE DESCRIPTION</th>
-      <th scope="col">COURSE FEE</th>
-
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">One Year Foundation <br> Program (for IXth)</th>
-      <td>3-4 Days a week<br>3 hrs.each Day</td>
-      <td>Weekly Test</td>
-      <td>The course prepares the students for <br> class IXth as well as (olympiads) Exam</td>
-      <td>INR 60,000<br>(+ GST)</td>
-
-    </tr>
-    
-  </tbody>
-</table>
-<h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-10th <a href="class-10.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a></h3>
-
-<table class="table">
-  <thead>
-    <tr>
-      <th scope="col">PROGRAM</th>
-      <th scope="col">CLASS SCHEDULE</th>
-      <th scope="col">TEST SCHEDULE</th>
-      <th scope="col">COURSE DESCRIPTION</th>
-      <th scope="col">COURSE FEE</th>
-
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">One Year Foundation <br> Program (for Xth)</th>
-      <td>3-4 Days a week<br>3 hrs.each Day</td>
-      <td>Weekly Test</td>
-      <td>The course prepares the students for class <br> Xth as well as (olympiads/NTSE) Exam</td>
-      <td>INR 60,000<br>(+ GST)</td>
-
-    </tr>
-    
-  </tbody>
-</table>
-
+<img class="mt-3 mb-3" src="assets/images/12thh.jpg">
 
 </div>
+
+
 
 
 <?php include "footer.php" ?>
