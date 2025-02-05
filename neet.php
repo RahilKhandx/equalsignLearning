@@ -36,82 +36,10 @@
                   
                     <h3 style="color:#EF481B"> <a href="jee.php" style="color:#1B6CCE">NEET UG COURSES </a> </h3> 
 
-                    <table class="table p=5">
-                        <thead>
-                            <tr>
-                                <th scope="col">PROGRAM</th>
-                                <th scope="col">CLASS SCHEDULE</th>
-                                <th scope="col">TEST SCHEDULE</th>
-                                <th scope="col">COURSE DESCRIPTION</th>
-                                <th scope="col">COURSE FEE</th>
+                    <img class="mt-3" src="assets/images/NEET UG COURSES-04.jpg">
+                        <img class="mt-3" src="assets/images/NEET UG COURSES-05.jpg">
+                        <img class="mt-3" src="assets/images/NEET UG COURSES-06.jpg">
 
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th scope="row">One Year Integrated Program <br>(for XIth)</th>
-                                <td>3-4 Days a week<br>3 hrs.each Day</td>
-                                <td>Weekly Test & Monthly Grand Test on NEET Pattern</td>
-                                <td>
-                                    <p>The course prepares the students for class XIth as well as (NEET) Exam</p>
-                                </td>
-                                <td>INR 1,25,000<br>(+ GST)</td>
-
-                            </tr>
-
-                        </tbody>
-                    </table>
-                    <table class="table p=5">
-                        <thead>
-                            <tr>
-                                <th scope="col">PROGRAM</th>
-                                <th scope="col">CLASS SCHEDULE</th>
-                                <th scope="col">TEST SCHEDULE</th>
-                                <th scope="col">COURSE DESCRIPTION</th>
-                                <th scope="col">COURSE FEE</th>
-
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th scope="row">One Year Integrated Program <br>(for XIIth)</th>
-                                <td>3-4 Days a week<br>3 hrs.each Day</td>
-                                <td>Weekly Test & Monthly Grand Test on NEET Pattern</td>
-                                <td>
-                                    <p>The course prepares the students for class XIIth Board as well as (NEET)
-                                        Exam </p>
-                                </td>
-                                <td>INR 1,25,000<br>(+ GST)</td>
-
-                            </tr>
-
-                        </tbody>
-                    </table>
-                    <table class="table p=5">
-                        <thead>
-                            <tr>
-                                <th scope="col">PROGRAM</th>
-                                <th scope="col">CLASS SCHEDULE</th>
-                                <th scope="col">TEST SCHEDULE</th>
-                                <th scope="col">COURSE DESCRIPTION</th>
-                                <th scope="col">COURSE FEE</th>
-
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th scope="row">One Year Integrated Program <br>(for XIIth pass)</th>
-                                <td>4-5 Days a week<br>4 hrs.each Day</td>
-                                <td>Weekly Test & Monthly Grand Test on NEET Pattern</td>
-                                <td>
-                                    <p>The course prepares the students for NEET Exam</p>
-                                </td>
-                                <td>INR 1,50,000<br>(+ GST)</td>
-
-                            </tr>
-
-                        </tbody>
-                    </table>
                 <div class="container">
                     <!-- <h4 class="title" style="color: #EF481B;">Key Features:</h4> -->
                   

@@ -125,7 +125,7 @@
                                                 <a href="#">Who we are</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="about-us.php">About Us</a></li>
-                                                    <li><a href="https://equalsign.org/">CSR (Equal Sign Foundation)</a></li>
+                                                    <li><a href="https://equalsign.org/">CSR (Equalsign Foundation)</a></li>
                                                 </ul>
                                             </li>
 											
@@ -142,11 +142,11 @@
                                                 <a href="#">Courses</a>
                                                 <ul class="sub-menu">
                                                     <li ><a href="foundation.php">Foundation (8th-10th)</a></li>
-													<li class="menu-item-has-children"><a href="#">CBSE (11th-12th)</a>
-													<ul>
+													<li class="menu-item-has-children"><a href="cbse.php">CBSE (11th-12th)</a>
+													<!-- <ul>
 													<li style="background-color:#EF481B"><a href="class-11.php">Class 11</a></li>
 													<li style="background-color:#EF481B"><a href="class-12.php">Class 12</a></li>
-													</ul>
+													</ul> -->
 													</li>
 													<li><a href="jee.php">JEE Main & Advanced</a></li>
                                                     <li><a href="neet.php">NEET UG</a></li>

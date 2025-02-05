@@ -47,7 +47,7 @@
                         <h3>IIT JEE Courses FOR <a href="jee.php" style="color:#1B6CCE">JEE Main & Advanced Coaching </a>
                         </h3>
 
-                        <table class="table p=5">
+                        <!-- <table class="table p=5">
                             <thead>
                                 <tr>
                                     <th scope="col">PROGRAM</th>
@@ -125,7 +125,11 @@
                                 </tr>
 
                             </tbody>
-                        </table>
+                        </table> -->
+                        <img class="mt-3" src="assets/images/IIT JEE Courses FOR JEE Main & Advanced Coaching-01.jpg">
+                        <img class="mt-3" src="assets/images/IIT JEE Courses FOR JEE Main & Advanced Coaching-02.jpg">
+                        <img class="mt-3" src="assets/images/IIT JEE Courses FOR JEE Main & Advanced Coaching-03.jpg">
+
                         <div class="container">
                             <!-- <h4 class="title" style="color: #EF481B;">Key Features:</h4> -->
 

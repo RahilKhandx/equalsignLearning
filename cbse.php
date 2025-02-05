@@ -34,17 +34,13 @@
                                 goes beyond classrooms, equipping you with the skills to conquer your academic goals.
                             </p>
                         </div>
-                        <h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-8th <a href="class-8.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a> </h3>
+    <h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-11th <a href="class-11.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a> </h3>
 
-                        <img class="mt-3 mb-3" src="assets/images/Foundation courses-06.jpg">
-<h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-9th <a href="class-9.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a> </h3>
-<img class="mt-3 mb-3" src="assets/images/Foundation courses-07.jpg">
+    <img class="mt-3 mb-3" src="assets/images/11thh.jpg">
 
+<h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-12th <a href="class-12.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a> </h3>
 
-<h3 style="color:#1B6CCE">FOUNDATION COURSES FOR Class-10th <a href="class-10.php" class="nextclassbtn"> <i class="flaticon-right-arrow"></i></a></h3>
-
-<img class="mt-3 mb-3" src="assets/images/Foundation courses-08.jpg">
-
+<img class="mt-3 mb-3" src="assets/images/12thh.jpg">
 
 </div>
 

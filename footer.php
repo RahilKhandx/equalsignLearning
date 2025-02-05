@@ -16,8 +16,8 @@
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
                     <h4 class="widget-title">Courses <br> We Offer</h4>
                     <ul class="site-map">
-
-                        <li><a href="foundation.php">CBSE (Class 8 to 12)</a></li>
+                    <li><a href="foundation.php">Foundation (Class 8 to 10)</a></li>
+                        <li><a href="cbse.php">CBSE (Class 11 to 12)</a></li>
                         <li><a href="jee.php">JEE Main &amp; Advanced</a></li>
                         <li><a href="neet.php">NEET UG</a></li>
                         <!-- <li><a href="nda">NDA</a></li>
@@ -44,7 +44,7 @@
                     <ul class="address-widget">
                         <li>
                             <i class="flaticon-location"></i>
-                            <div class="desc">Equalsign Coaching Institute
+                            <div class="desc">Equalsign Learning
                                 M, 30, Block M, Old DLF Colony, Sector 14, Gurugram, Haryana 122001</div>
                         </li>
                         <li>
