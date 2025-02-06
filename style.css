@@ -5521,6 +5521,8 @@ body .modal-backdrop {
 
 }
 
+
+
 .bg-grad {
   position: absolute;
   height: 100%;
@@ -5556,10 +5558,17 @@ body .modal-backdrop {
   margin-top: 10px;
   display: block;
 }
-
-.text-small {
-  /* font-size: 1rem; */
-  display: none;
+@media only screen and (max-width: 1400px) {
+  .text-big {
+    font-size: 25px;
+  }
+ 
+}
+@media only screen and (max-width: 800px) {
+  .text-big {
+    display: block;
+  }
+ 
 }
 
 .banner-text {

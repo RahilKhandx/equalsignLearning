@@ -42,7 +42,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 order-last padding-0 md-pl-15 md-pr-15 md-mb-30">
                 <div class="img-part">
-                    <img class="wow fadeInUp" src="assets/images/Celebrating1M.jpg" alt="About Image">
+                    <img class="wow fadeInUp" src="assets/images/meritt.jpg" alt="About Image">
                 </div>
             </div>
             <div class="col-lg-6 pr-70 md-pr-15">
@@ -83,7 +83,7 @@
                 <div class="course-wrap">
                     <div class="front-part">
                         <div class="img-part">
-                            <img src="assets/images/give-wings-to-your-dream.png" alt="">
+                            <img src="assets/images/eql.jpg" alt="">
                         </div>
                         <!-- - -->
                     </div>
