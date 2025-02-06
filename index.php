@@ -39,7 +39,7 @@
 
                 <h3 class="text-center fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms"
                     style="visibility: visible; animation-duration: 2000ms; animation-delay: 600ms; animation-name: fadeInRight;color:white">
-                    NEET 
+                    NEET
                 </h3>
                 <div class="btn-div d-flex justify-content-center">
                     <a class="readon blue-btn main-home fadeInRight" href="neet.php">START A COURSE</a>
@@ -67,24 +67,159 @@
 
                 </div>
                 <div class="btn-div d-flex justify-content-center">
-                    <a class="readon orange-btn main-home fadeInRight" href="cbse4.php">START A COURSE</a>
+                    <a class="readon orange-btn main-home fadeInRight" href="cbse.php">START A COURSE</a>
                 </div>
             </div>
 
         </div>
-
-
-
-
-
     </div>
-
-
     <div style="text-align:center">
         <span class="dot"></span>
         <span class="dot"></span>
         <span class="dot"></span>
     </div>
+
+    <div class="mob-bnr">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active pt-5 pb-5" style="position: relative;">
+                    <div class="container crousel-cont h-100" style="position: relative; z-index: 2;">
+                        <div class="sl-sub-title wow bounceInLeft mt-3 mb-3" data-wow-delay="300ms"
+                            data-wow-duration="2000ms" style="color:white;">
+                            Nationwide Top Results
+                        </div>
+                        <h3 class="sl-title wow fadeInRight mt-3 mb-3" data-wow-delay="600ms"
+                            data-wow-duration="2000ms">
+                            NEET Boards
+                        </h3>
+                        <div class="sl-btn wow fadeInUp mt-3 mb-3" data-wow-delay="900ms" data-wow-duration="2000ms"
+                            style="margin-top:-50px;">
+                            <a class="readon orange-btn main-home" href="jee.php">START A COURSE</a>
+                        </div>
+                    </div>
+                    <img src="assets/images/Class11thCourseDetails-removebg-preview.png" class="mob-bnr-img"
+                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
+                </div>
+                <div class="carousel-item  pt-5 pb-5" style="position: relative;">
+                    <div class="container crousel-cont h-100" style="position: relative; z-index: 2;">
+                        <div class="sl-sub-title wow bounceInLeft mt-3 mb-3" data-wow-delay="300ms"
+                            data-wow-duration="2000ms" style="color:white;">
+                            Nationwide Top Results
+                        </div>
+                        <h3 class="sl-title wow fadeInRight mt-3 mb-3" data-wow-delay="600ms"
+                            data-wow-duration="2000ms">
+                            NEET Boards
+                        </h3>
+                        <div class="sl-btn wow fadeInUp mt-3 mb-3" data-wow-delay="900ms" data-wow-duration="2000ms"
+                            style="margin-top:-50px;">
+                            <a class="readon orange-btn main-home" href="jee.php">START A COURSE</a>
+                        </div>
+                    </div>
+                    <img src="assets/images/Class11thCourseDetails-removebg-preview.png" class="mob-bnr-img"
+                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
+                </div>
+                <div class="carousel-item  pt-5 pb-5" style="position: relative;">
+                    <div class="container crousel-cont h-100" style="position: relative; z-index: 2;">
+                        <div class="sl-sub-title wow bounceInLeft mt-3 mb-3" data-wow-delay="300ms"
+                            data-wow-duration="2000ms" style="color:white;">
+                            Nationwide Top Results
+                        </div>
+                        <h3 class="sl-title wow fadeInRight mt-3 mb-3" data-wow-delay="600ms"
+                            data-wow-duration="2000ms">
+                            NEET Boards
+                        </h3>
+                        <div class="sl-btn wow fadeInUp mt-3 mb-3" data-wow-delay="900ms" data-wow-duration="2000ms"
+                            style="margin-top:-50px;">
+                            <a class="readon orange-btn main-home" href="jee.php">START A COURSE</a>
+                        </div>
+                    </div>
+                    <img src="assets/images/Class11thCourseDetails-removebg-preview.png" class="mob-bnr-img"
+                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
+                </div>
+                <!-- Add more carousel items here if needed -->
+            </div>
+            <!-- Uncomment if you want to add controls -->
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active pt-5 pb-5" style="position: relative;">
+            <img src="assets/images/Class11thCourseDetails-removebg-preview.png" class="mob-bnr-img"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
+            <div class="container crousel-cont h-100" style="position: relative; z-index: 2;">
+                <div class="sl-sub-title wow bounceInLeft mt-3 mb-3" data-wow-delay="300ms"
+                    data-wow-duration="2000ms" style="color:white;">
+                    Nationwide Top Results
+                </div>
+                <h3 class="sl-title wow fadeInRight mt-3 mb-3" data-wow-delay="600ms"
+                    data-wow-duration="2000ms">
+                    NEET Boards
+                </h3>
+                <div class="sl-btn wow fadeInUp mt-3 mb-3" data-wow-delay="900ms" data-wow-duration="2000ms"
+                    style="margin-top:-50px;">
+                    <a class="readon orange-btn main-home" href="jee.php">START A COURSE</a>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item pt-5 pb-5" style="position: relative;">
+            <img src="assets/images/Class11thCourseDetails-removebg-preview.png" class="mob-bnr-img"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
+            <div class="container crousel-cont h-100" style="position: relative; z-index: 2;">
+                <div class="sl-sub-title wow bounceInLeft mt-3 mb-3" data-wow-delay="300ms"
+                    data-wow-duration="2000ms" style="color:white;">
+                    Nationwide Top Results
+                </div>
+                <h3 class="sl-title wow fadeInRight mt-3 mb-3" data-wow-delay="600ms"
+                    data-wow-duration="2000ms">
+                    NEET Boards
+                </h3>
+                <div class="sl-btn wow fadeInUp mt-3 mb-3" data-wow-delay="900ms" data-wow-duration="2000ms"
+                    style="margin-top:-50px;">
+                    <a class="readon orange-btn main-home" href="jee.php">START A COURSE</a>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item pt-5 pb-5" style="position: relative;">
+            <img src="assets/images/Class11thCourseDetails-removebg-preview.png" class="mob-bnr-img"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
+            <div class="container crousel-cont h-100" style="position: relative; z-index: 2;">
+                <div class="sl-sub-title wow bounceInLeft mt-3 mb-3" data-wow-delay="300ms"
+                    data-wow-duration="2000ms" style="color:white;">
+                    Nationwide Top Results
+                </div>
+                <h3 class="sl-title wow fadeInRight mt-3 mb-3" data-wow-delay="600ms"
+                    data-wow-duration="2000ms">
+                    NEET Boards
+                </h3>
+                <div class="sl-btn wow fadeInUp mt-3 mb-3" data-wow-delay="900ms" data-wow-duration="2000ms"
+                    style="margin-top:-50px;">
+                    <a class="readon orange-btn main-home" href="jee.php">START A COURSE</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+        <!-- <div class="bg-grad"></div> -->
+    </div>
+
+
+
+
     <div class="rs-slider main-home">
         <!-- <div class="rs-carousel owl-carousel" data-loop="true" data-items="1" data-margin="0" data-autoplay="true"
             data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false"
@@ -465,7 +600,8 @@
                                             nurturing, and supporting academic excellence.
                                         </p>
                                         <div class="btn-div ">
-                                            <a class="readon orange-btn main-home wow fadeInRight" href="equalmerit.php">
+                                            <a class="readon orange-btn main-home wow fadeInRight"
+                                                href="equalmerit.php">
                                                 EQUAL MERIT
                                             </a>
                                         </div>
@@ -728,4 +864,45 @@
         dots[slideIndex - 1].className += " active";
         setTimeout(showSlides, 4000); // Change image every 2 seconds
     }
+
+
+    // $(document).ready(function () {
+    //     var changebox = $(".changebox");
+
+    //     var firstclone = changebox.children(":first").clone();
+    //     changebox.append(firstclone);
+
+    //     var fsstr = changebox.parent().css("font-size");
+    //     fsstr = fsstr.slice(0, fsstr.indexOf("p"));
+    //     var fs = parseInt(fsstr);
+
+    //     changebox.css("height", changebox.parent().css("font-size"));
+    //     ChangeSize(0);
+    //     setInterval(Next, 2000);
+
+    //     function Next() {
+    //         if (typeof Next.i == 'undefined') {
+    //             Next.i = 0;
+    //         }
+    //         Next.i++;
+    //         if (Next.i == changebox.children("span").length) {
+    //             Next.i = 1;
+    //             changebox.scrollTop(0);
+    //         }
+    //         changebox.animate({ scrollTop: (fs * Next.i) + Next.i * 5 + 3 }, 500);
+    //         setTimeout(function () {
+    //             ChangeSize(Next.i);
+    //         }, 500);
+
+    //     }
+
+    //     function ChangeSize(i) {
+    //         var word = changebox.children("span").eq(i);
+    //         var wordsize = word.css("width");
+    //         changebox.css("width", wordsize);
+    //     }
+
+
+    // });
+
 </script>
