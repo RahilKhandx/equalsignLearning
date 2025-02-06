@@ -9,7 +9,7 @@
             <div class="bg-grad"></div>
 
             <div class="pb-2 container slider-cont">
-                <h1 class="text-center text-big" style="color:white">
+                <h1 class="text-center text-big mt-5" style="color:white">
                     Nationwide Top Results </h1>
                 <!-- <h4 class="text-center text-small" style="color:white">
                     Nationwide Top Results </h4> -->
@@ -32,7 +32,7 @@
             <div class="bg-grad"></div>
 
             <div class="pb-2 container slider-cont">
-                <h1 class="text-center text-big" style="color:white">
+                <h1 class="text-center text-big mt-5" style="color:white">
                     Nationwide Top Results </h1>
                 <!-- <h4 class="text-center text-small" style="color:white">
                     Nationwide Top Results </h4> -->
@@ -55,7 +55,7 @@
             <div class="bg-grad"></div>
 
             <div class="pb-2 container slider-cont">
-                <h1 class="text-center text-big" style="color:white">
+                <h1 class="text-center text-big mt-5" style="color:white">
                     Nationwide Top Results </h1>
                 <!-- <h4 class="text-center text-small" style="color:white">
                     Nationwide Top Results </h4> -->
@@ -84,11 +84,12 @@
         <div class="carousel-inner">
             <!-- Slide 1 -->
             <div class="carousel-item cr-1 active pt-5 pb-5" style="position: relative;">
-            <div class="overlay"></div>
+            
                 <img src="assets/images/Class11thCourseDetails-removebg-preview.png" class="mob-bnr-img"
                     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
                 <div class="container crousel-cont h-100">
                      <!-- Added for better readability -->
+                     <div class="overlay"></div>
                     <div class="content">
                         <div class="sl-sub-titles">Nationwide Top Results</div>
                         <h3 class="sl-titles">JEE-MAIN </h3>
@@ -100,11 +101,11 @@
             </div>
             <!-- Slide 2 -->
             <div class="carousel-item cr-2 pt-5 pb-5" style="position: relative;">
-            <div class="overlay"></div>
+           
                 <img src="assets/images/Class_9th_Course_Details-removebg-preview.png" class="mob-bnr-img"
                     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
                 <div class="container crousel-cont h-100">
-                    
+                <div class="overlay"></div>
                     <div class="content">
                         <div class="sl-sub-titles">Nationwide Top Results</div>
                         <h3 class="sl-titles">NEET</h3>
@@ -116,11 +117,11 @@
             </div>
             <!-- Slide 3 -->
             <div class="carousel-item cr-3 pt-5 pb-5" style="position: relative;">
-            <div class="overlay"></div>
+            
                 <img src="assets/images/Class10thCourseDetails-removebg-preview.png" class="mob-bnr-img"
                     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
                 <div class="container crousel-cont h-100">
-                    
+                <div class="overlay"></div>
                     <div class="content">
                         <div class="sl-sub-titles">Nationwide Top Results</div>
                         <h3 class="sl-titles">CBSE Boards</h3>
