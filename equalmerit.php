@@ -83,7 +83,7 @@
                 <div class="course-wrap">
                     <div class="front-part">
                         <div class="img-part">
-                            <img src="assets/images/give-wings-to-your-dream.png" alt="">
+                            <img src="assets/images/eql.jpg" alt="">
                         </div>
                         <!-- - -->
                     </div>
