@@ -128,7 +128,7 @@
                                                     <li><a href="https://equalsign.org/">CSR (Equalsign Foundation)</a></li>
                                                 </ul>
                                             </li>
-											
+
                                             <li class="menu-item-has-children">
                                                 <a href="#">Learning Mediums</a>
                                                 <ul class="sub-menu">
@@ -136,32 +136,32 @@
                                                     <li><a href="sip.php">School Integrated Program</a></li>
                                                     <li><a href="https://onlinemaths.in/">Online Learning</a></li>
                                                 </ul>
-											</li>
-											
+                                            </li>
+
                                             <li class="menu-item-has-children">
                                                 <a href="#">Courses</a>
                                                 <ul class="sub-menu">
-                                                    <li ><a href="foundation.php">Foundation (8th-10th)</a></li>
-													<li class="menu-item-has-children"><a href="cbse.php">CBSE (11th-12th)</a>
-													<!-- <ul>
+                                                    <li><a href="foundation.php">Foundation (8th-10th)</a></li>
+                                                    <li class=""><a href="cbse.php">CBSE (11th-12th)</a>
+                                                        <!-- <ul>
 													<li style="background-color:#EF481B"><a href="class-11.php">Class 11</a></li>
 													<li style="background-color:#EF481B"><a href="class-12.php">Class 12</a></li>
 													</ul> -->
-													</li>
-													<li><a href="jee.php">JEE Main & Advanced</a></li>
+                                                    </li>
+                                                    <li><a href="jee.php">JEE Main & Advanced</a></li>
                                                     <li><a href="neet.php">NEET UG</a></li>
-												 </ul>
-                                              </li>
-                                               
+                                                </ul>
+                                            </li>
+
                                             <li class="menu-item-has-children">
                                                 <a href="#">Centers</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="gurugram-centers.php"> Sector 14, Gurugram </a></li>
                                                     <li><a href="portblair.php"> Sri Vijaya Puram</a></li>
                                                     <li><a href="bambooflat.php"> Bambooflat, Andaman</a></li>
-													<li><a href="jamia.php"> Jamia Nagar, Okhla Delhi </a></li>
+                                                    <li><a href="jamia.php"> Jamia Nagar, Okhla Delhi </a></li>
                                                     <li><a href="bathubasti.php"> Bathubasti, Andaman</a></li>
-													<li><a href="rohini.php"> Rohini, Delhi </a></li>
+                                                    <li><a href="rohini.php"> Rohini, Delhi </a></li>
                                                     <!-- <li><a href="portblair.php">Port Blair </a></li> -->
 
                                                 </ul>

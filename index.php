@@ -67,7 +67,7 @@
 
                 </div>
                 <div class="btn-div d-flex justify-content-center">
-                    <a class="readon orange-btn main-home fadeInRight" href="cbse4.php">START A COURSE</a>
+                    <a class="readon orange-btn main-home fadeInRight" href="cbse.php">START A COURSE</a>
                 </div>
             </div>
 
