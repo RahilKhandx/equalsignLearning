@@ -267,21 +267,21 @@
                     <div class="col-lg-8 pl-83 md-pl-15">
                         <div class="row rs-counter couter-area">
                             <div class="col-md-4 sm-mb-30">
-                                <div class="counter-item one" style="margin-left:0 !important">
+                                <div class="counter-item one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms" style="margin-left:0 !important">
                                     <img class="count-img" src="assets/images/about/style3/icons/1.png" alt="">
                                     <h2 class="number rs-count kplus">25000</h2>
                                     <h4 class="title mb-0">Shaping Minds, Building Success</h4>
                                 </div>
                             </div>
-                            <div class="col-md-4 sm-mb-30">
-                                <div class="counter-item two">
+                            <div class="col-md-4 sm-mb-30 ">
+                                <div class="counter-item two wow fadeInUp" data-wow-delay="350ms" data-wow-duration="2500ms">
                                     <img class="count-img" src="assets/images/about/style3/icons/2.png" alt="">
                                     <h2 class="number rs-count kplus">4000</h2>
                                     <h4 class="title mb-0">IIT-JEE & NEET Qualified Students</h4>
                                 </div>
                             </div>
-                            <div class="col-md-4">
-                                <div class="counter-item three">
+                            <div class="col-md-4 sm-mb-30"> 
+                                <div class="counter-item three wow fadeInUp" data-wow-delay="400ms" data-wow-duration="3000ms">
                                     <img class="count-img" src="assets/images/about/style3/icons/3.png" alt="">
                                     <h2 class="number rs-count kplus">50</h2>
                                     <h4 class="title mb-0">Experienced Faculty</h4>
@@ -302,7 +302,7 @@
                     <h2 class="title mb-0">Our Top Mediums</h2>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
                         <div class="subject-wrap bgc1">
                             <img src="assets/images/subject/icons/1.png" alt="">
                             <h4 class="title"><a href="equalsign-coaching.php">Coaching Institute</a></h4>
@@ -310,14 +310,14 @@
                             <!-- <span class="course-qnty">04 Courses</span> -->
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInUp" data-wow-delay="350ms" data-wow-duration="2500ms">
                         <div class="subject-wrap bgc2 text-light">
                             <img src="assets/images/subject/icons/2.png" alt="">
                             <h4 class="title"><a href="sip.php"> School Integrated Program</a></h4>
                             <!-- <span class="course-qnty">04 Courses</span> -->
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="3000ms">
                         <div class="subject-wrap bgc3">
                             <img src="assets/images/subject/icons/3.png" alt="">
                             <h4 class="title"><a href="learning.php">Online Learning</a></h4>
@@ -358,7 +358,7 @@
                     <h2 class="title mb-0">Popular Courses</h2>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="3000ms">
                         <div class="course-wrap">
                             <div class="front-part">
                                 <div class="img-part">
@@ -393,7 +393,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="3000ms">
                         <div class="course-wrap">
                             <div class="front-part">
                                 <div class="img-part">
@@ -427,7 +427,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInRight" data-wow-delay="400ms" data-wow-duration="3000ms">
                         <div class="course-wrap">
                             <div class="front-part">
                                 <div class="img-part">

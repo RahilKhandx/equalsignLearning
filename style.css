@@ -6228,9 +6228,9 @@ body .modal-backdrop {
   z-index: 0;
 }
 
-.active {
+/* .active {
   background: transparent !important;
-}
+} */
 
 .carousel-item {
   position: relative;
@@ -6314,7 +6314,7 @@ body .modal-backdrop {
 }
 
 .active {
-  background-color: #717171;
+  /* background-color: #717171; */
 }
 
 /* Fading animation */
