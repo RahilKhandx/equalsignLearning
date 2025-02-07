@@ -5565,6 +5565,9 @@ body .modal-backdrop {
   .text-big {
     font-size: 25px;
   }
+  .equal-text-cont{
+    width: 100% !important;
+  }
  
 }
 @media only screen and (max-width: 800px) {
@@ -6320,7 +6323,29 @@ body .modal-backdrop {
   display: inline-block;
   transition: background-color 0.6s ease;
 }
-
+.em-sec{
+  display: flex;
+  justify-content: left !important;
+}
+.em-cont{
+  /* position: relative; */
+  /* border: 1px solid black; */
+  /* width: 50% !important ; */
+}
+.equal-text-cont{
+  width: 60%;
+}
+.em-text{
+  color: black;
+  z-index: 6 !important;
+}
+.em-img{
+  position: absolute;
+  /* top: 0; */
+  bottom: 0;
+  right: 0;
+  z-index: 2;
+}
 .active {
   /* background-color: #717171; */
 }
@@ -19756,6 +19781,18 @@ a:hover {
   width: 100%;
   height: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  /* Adjust gradient */
+  z-index: 1;
+  /* Ensure it's above the background image */
+}
+.bg-grad-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgb(33,167,208);
+background: linear-gradient(4deg, rgba(33,167,208,0.3477766106442577) 0%, rgba(255,255,255,1) 58%);
   /* Adjust gradient */
   z-index: 1;
   /* Ensure it's above the background image */

@@ -280,7 +280,7 @@
                                     <h4 class="title mb-0">IIT-JEE & NEET Qualified Students</h4>
                                 </div>
                             </div>
-                            <div class="col-md-4 sm-mb-30"> 
+                            <div class="col-md-4 sm-mb-30">
                                 <div class="counter-item three wow fadeInUp" data-wow-delay="400ms" data-wow-duration="3000ms">
                                     <img class="count-img" src="assets/images/about/style3/icons/3.png" alt="">
                                     <h2 class="number rs-count kplus">50</h2>
@@ -478,7 +478,7 @@
             <div id="rs-about" class="rs-about style1 pb-100 md-pb-70 container-fluid">
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="col-lg-4 order-last">
+                        <div class="col-lg-4 col-sm-12 col-md-12 order-last">
                             <div class="notice-bord style1">
                                 <h4 class="title">Specifications</h4>
                                 <ul>
@@ -512,43 +512,43 @@
                             </div>
                         </div>
 
-                        <div class="col-md-8">
+                        <div class="col-lg-8 col-sm-12 col-md-12">
 
                             <div class="about-part">
-                                <div class="bg-grad-1"></div>
-                                <div class="sec-title-eq sec-title mb-40">
-                                    <div class="sub-title primary fadeInUp" data-wow-delay="300ms"
-                                        data-wow-duration="2000ms">
-                                        EQUAL Merit
-                                    </div>
-
-                                    <div class="col-md-8 ">
-                                        <div class="desc fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
-                                            <div class="breadcrumbs-text white-color">
-                                                <p class="equal-text ">
-                                                    Equalsign Coaching Institute proudly introduces EqualMerit, a
-                                                    transformative national scholarship examination designed to unlock
-                                                    the potential of young learners across India. This free aptitude and
-                                                    scholarship test represents our commitment to identifying,
-                                                    nurturing, and supporting academic excellence.
-                                                </p>
-                                                <div class="btn-div ">
-                                                    <a class="readon orange-btn main-home wow fadeInRight"
-                                                        href="equalmerit.php">
-                                                        EQUAL MERIT
-                                                    </a>
+                                <img class="wow fadeInUp em-img wow fadeInLeft" data-wow-delay="300ms"
+                                    data-wow-duration="2000ms" src="assets/images/e1-removebg-preview.png"
+                                    alt="About Image">
+                                <div class="bg-grad-2"></div>
+                                <div class="row">
+                                    <div class="col-lg-8 col-md-12">
+                                        <div class="sec-title-eq sec-title em-sec">
+                                            <div class="container em-cont">
+                                                <div class="sub-title primary fadeInUp" data-wow-delay="300ms"
+                                                    data-wow-duration="2000ms">
+                                                    <h2 class="title mb-21">Equalmerit</h2>
+                                                </div>
+                                                <div class="desc fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
+                                                    <div class="breadcrumbs-text white-color equal-text-cont">
+                                                        <p class="equal-text em-text">
+                                                            Equalsign Coaching Institute proudly introduces EqualMerit, a
+                                                            transformative national scholarship examination designed to unlock
+                                                            the potential of young learners across India. This free aptitude and
+                                                            scholarship test represents our commitment to identifying,
+                                                            nurturing, and supporting academic excellence.
+                                                        </p>
+                                                        <div class="btn-div ">
+                                                            <a class="readon orange-btn main-home wow fadeInRight"
+                                                                href="equalmerit.php">
+                                                                EQUAL MERIT
+                                                            </a>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-7 flex">
-                                        <div class="img-part">
-
-                                            <img class="wow fadeInUp nw " src="assets/images/e1-removebg-preview.png"
-                                                alt="About Image" style="position:relative;margin-top:-350px;margin-left:500px">
-                                        </div>
-                                    </div>
                                 </div>
+
 
                             </div>
                         </div>
@@ -798,7 +798,9 @@
                 slides[i].style.display = "none";
             }
             slideIndex++;
-            if (slideIndex > slides.length) { slideIndex = 1 }
+            if (slideIndex > slides.length) {
+                slideIndex = 1
+            }
             for (i = 0; i < dots.length; i++) {
                 dots[i].className = dots[i].className.replace(" active", "");
             }
@@ -846,5 +848,4 @@
 
 
         // });
-
     </script>
