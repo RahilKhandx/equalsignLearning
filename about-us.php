@@ -25,31 +25,39 @@
             <!-- main part -->
             <div class="col-lg-9 pr-50 md-pr-15">
                 <div class="row">
-                    <div class="col-lg-12  padding-0 md-pl-15 md-pr-15 md-mb-30">
-                        <div class="img-part">
-                            <div class="sec-title">
-                                <div class="sub-title orange">About</div>
-                                <h2 class="title mb-17">About Our Institution</h2>
-                            </div>
-                            <img class="wow fadeInUp" src="assets\images\Equalsign Imaes\683 x 529.png" alt="About Image">
+                    <div class="col-lg-6">
+                        <div class="sec-title">
+                            <div class="sub-title orange">About</div>
+                            <h2 class="title mb-17">About Our Institution</h2>
                         </div>
-                    </div>
-
-                    <div class="col-lg-12">
                         <div class="sec-title">
 
                             <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
                             <div class="desc">
-                                <p><a href="https://equalsign.in">Equalsign Learning </a> is your compass for academic success. As a premier coaching institution,
-                                    we empower students through tailored courses for CBSE (Class 8 to 12), JEE Main, NEET UG, CUET, and NDA. Our expert faculty and
-                                    personalized approach ensure a holistic learning experience. From mastering core subjects to excelling in competitive exams,
-                                    Equalsign is your partner in educational excellence. With a commitment to fostering growth and shaping bright futures, we offer a
-                                    School Integrated Program for seamless learning within campuses. Choose Equalsign for a transformative education that goes beyond
+                                <p><a href="https://equalsign.in">Equalsign Learning </a> is your compass for academic
+                                    success. As a premier coaching institution,
+                                    we empower students through tailored courses for CBSE (Class 8 to 12), JEE Main,
+                                    NEET UG, CUET, and NDA. Our expert faculty and
+                                    personalized approach ensure a holistic learning experience. From mastering core
+                                    subjects to excelling in competitive exams,
+                                    Equalsign is your partner in educational excellence. With a commitment to fostering
+                                    growth and shaping bright futures, we offer a
+                                    School Integrated Program for seamless learning within campuses. Choose Equalsign
+                                    for a transformative education that goes beyond
                                     classrooms, equipping you with the skills to conquer your academic goals.</p>
 
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-6  padding-0 md-pl-15 md-pr-15 md-mb-30">
+                        <div class="img-part">
+
+                            <img class="wow fadeInUp  " src="assets\images\Equalsign Imaes\683 x 529.png"
+                                alt="About Image">
+                        </div>
+                    </div>
+
+
                 </div>
 
                 <div class="container mt-5 wow fadeInUp">
@@ -82,7 +90,8 @@
 
 
                         <!-- Submit button -->
-                        <button data-mdb-ripple-init type="button" class="btn btn-primary btn-block mb-4 readon2">Send</button>
+                        <button data-mdb-ripple-init type="button"
+                            class="btn btn-primary btn-block mb-4 readon2">Send</button>
                     </form>
                 </div>
 

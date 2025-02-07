@@ -5508,6 +5508,14 @@ body .modal-backdrop {
     display: none !important;
   }
 }
+@media only screen and (max-width: 600px) {
+  .mySlides {
+    display: none !important;
+  }
+  .dotssss{
+    display: none !important;
+  }
+}
 
 
 .slider-cont {
@@ -19771,4 +19779,8 @@ a:hover {
   position: relative;
   z-index: 2;
   /* Keeps the text above the gradient */
+}
+.abtt{
+width: 80% !important;
+    height: auto;
 }
