@@ -474,88 +474,66 @@
 
         <!-- About Section Start -->
         <div class="row">
-            <div class="col-md-6"></div>
-            <div id="rs-about" class="rs-about style1 pb-100 md-pb-70 container-fluid">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-lg-4 order-last">
-                            <div class="notice-bord style1">
-                                <h4 class="title">Specifications</h4>
-                                <ul>
-                                    <li class="wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
-                                        <div class="date"><i class="fa fa-video-camera" aria-hidden="true"
-                                                style="font-size: 30px;"></i></div>
-                                        <div class="desc">Chapter-wise Test</div>
-                                    </li>
-                                    <li class="wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
-                                        <div class="date"><i class="fa fa-user" aria-hidden="true"
-                                                style="font-size: 30px"></i>
-                                        </div>
-                                        <div class="desc">Experienced Faculties</div>
-                                    </li>
-                                    <li class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
-                                        <div class="date"><i class="fa fa-graduation-cap" aria-hidden="true"
-                                                style="font-size: 30px"></i></i></div>
-                                        <div class="desc">Limited Batch Size</div>
-                                    </li>
-                                    <li class="wow fadeInUp" data-wow-delay="600ms" data-wow-duration="2000ms">
-                                        <div class="date"><i class="fa fa-book" aria-hidden="true"
-                                                style="font-size: 30px"></i>
-                                        </div>
-                                        <div class="desc">Notes and Assignment</div>
-                                    </li>
-                                    <!-- <li class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="2000ms">
-                                        <div class="date"><span>28</span>Oct</div>
-                                        <div class="desc">Lorem Ipsum is simply dummy text of the printing and setting</div>
-                                    </li> -->
-                                </ul>
+    <div id="rs-about" class="rs-about style1 container">
+        
+        <div class="row">
+            <!-- Left Column (Specifications) -->
+            <div class="col-lg-4 order-lg-last">
+                <div class="notice-bord style1">
+                    <h4 class="title">Specifications</h4>
+                    <ul>
+                        <li class="wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+                            <div class="date"><i class="fa fa-video-camera" aria-hidden="true" style="font-size: 30px;"></i></div>
+                            <div class="desc">Chapter-wise Test</div>
+                        </li>
+                        <li class="wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+                            <div class="date"><i class="fa fa-user" aria-hidden="true" style="font-size: 30px"></i></div>
+                            <div class="desc">Experienced Faculties</div>
+                        </li>
+                        <li class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
+                            <div class="date"><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size: 30px"></i></div>
+                            <div class="desc">Limited Batch Size</div>
+                        </li>
+                        <li class="wow fadeInUp" data-wow-delay="600ms" data-wow-duration="2000ms">
+                            <div class="date"><i class="fa fa-book" aria-hidden="true" style="font-size: 30px"></i></div>
+                            <div class="desc">Notes and Assignment</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Right Column (Text & Image Side by Side) -->
+            <div class="col-lg-8">
+                <div class="about-part d-flex justify-content-between align-items-center flex-column flex-lg-row">
+                    <!-- Text Section -->
+                    <div class="col-lg-8">
+                        <div class="sec-title-eq sec-title mb-40">
+                            <div class="sub-title primary fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+                                EQUAL Merit
                             </div>
-                        </div>
-
-                        <div class="col-md-8">
-
-                            <div class="about-part">
-                                <div class="bg-grad-1"></div>
-                                <div class="sec-title-eq sec-title mb-40">
-                                    <div class="sub-title primary fadeInUp" data-wow-delay="300ms"
-                                        data-wow-duration="2000ms">
-                                        EQUAL Merit
-                                    </div>
-
-                                    <div class="col-md-8 ">
-                                        <div class="desc fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
-                                            <div class="breadcrumbs-text white-color">
-                                                <p class="equal-text ">
-                                                    Equalsign Coaching Institute proudly introduces EqualMerit, a
-                                                    transformative national scholarship examination designed to unlock
-                                                    the potential of young learners across India. This free aptitude and
-                                                    scholarship test represents our commitment to identifying,
-                                                    nurturing, and supporting academic excellence.
-                                                </p>
-                                                <div class="btn-div ">
-                                                    <a class="readon orange-btn main-home wow fadeInRight"
-                                                        href="equalmerit.php">
-                                                        EQUAL MERIT
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-7 flex">
-                                        <div class="img-part">
-
-                                            <img class="wow fadeInUp nw " src="assets/images/e1-removebg-preview.png"
-                                                alt="About Image" style="position:relative;margin-top:-350px;margin-left:500px">
-                                        </div>
-                                    </div>
+                            <div class="desc fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
+                                <p class="equal-text">
+                                    Equalsign Coaching Institute proudly introduces EqualMerit, a transformative national scholarship examination designed to unlock the potential of young learners across India. This free aptitude and scholarship test represents our commitment to identifying, nurturing, and supporting academic excellence.
+                                </p>
+                                <div class="btn-div">
+                                    <a class="readon orange-btn main-home wow fadeInRight" href="equalmerit.php">
+                                        EQUAL MERIT
+                                    </a>
                                 </div>
-
                             </div>
                         </div>
                     </div>
+
+                    <!-- Image Section -->
+                    <div class="col-lg-6 text-center">
+                        <img class="wow fadeInUp img-fluid" src="assets/images/e1-removebg-preview.png" alt="About Image">
+                    </div>
                 </div>
-            </div>
+            </div> 
         </div>
+    </div>
+</div>
+
         <!-- About Section End -->
 
         <!-- CTA Section Start -->

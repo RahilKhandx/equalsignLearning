@@ -17,7 +17,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <img src="assets\images\Equalsign Imaes\683 x 529.png" alt="">
+            <img src="assets/images/Sri Vijaya Puram.png"alt="">
         </div>
         <div class="col-md-6">
             <div class="sec-title pt-5">
