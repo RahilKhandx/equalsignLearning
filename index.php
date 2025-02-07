@@ -267,21 +267,21 @@
                     <div class="col-lg-8 pl-83 md-pl-15">
                         <div class="row rs-counter couter-area">
                             <div class="col-md-4 sm-mb-30">
-                                <div class="counter-item one" style="margin-left:0 !important">
+                                <div class="counter-item one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms" style="margin-left:0 !important">
                                     <img class="count-img" src="assets/images/about/style3/icons/1.png" alt="">
                                     <h2 class="number rs-count kplus">25000</h2>
                                     <h4 class="title mb-0">Shaping Minds, Building Success</h4>
                                 </div>
                             </div>
-                            <div class="col-md-4 sm-mb-30">
-                                <div class="counter-item two">
+                            <div class="col-md-4 sm-mb-30 ">
+                                <div class="counter-item two wow fadeInUp" data-wow-delay="350ms" data-wow-duration="2500ms">
                                     <img class="count-img" src="assets/images/about/style3/icons/2.png" alt="">
                                     <h2 class="number rs-count kplus">4000</h2>
                                     <h4 class="title mb-0">IIT-JEE & NEET Qualified Students</h4>
                                 </div>
                             </div>
-                            <div class="col-md-4">
-                                <div class="counter-item three">
+                            <div class="col-md-4 sm-mb-30">
+                                <div class="counter-item three wow fadeInUp" data-wow-delay="400ms" data-wow-duration="3000ms">
                                     <img class="count-img" src="assets/images/about/style3/icons/3.png" alt="">
                                     <h2 class="number rs-count kplus">50</h2>
                                     <h4 class="title mb-0">Experienced Faculty</h4>
@@ -302,7 +302,7 @@
                     <h2 class="title mb-0">Our Top Mediums</h2>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
                         <div class="subject-wrap bgc1">
                             <img src="assets/images/subject/icons/1.png" alt="">
                             <h4 class="title"><a href="equalsign-coaching.php">Coaching Institute</a></h4>
@@ -310,14 +310,14 @@
                             <!-- <span class="course-qnty">04 Courses</span> -->
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInUp" data-wow-delay="350ms" data-wow-duration="2500ms">
                         <div class="subject-wrap bgc2 text-light">
                             <img src="assets/images/subject/icons/2.png" alt="">
                             <h4 class="title"><a href="sip.php"> School Integrated Program</a></h4>
                             <!-- <span class="course-qnty">04 Courses</span> -->
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="3000ms">
                         <div class="subject-wrap bgc3">
                             <img src="assets/images/subject/icons/3.png" alt="">
                             <h4 class="title"><a href="learning.php">Online Learning</a></h4>
@@ -358,7 +358,7 @@
                     <h2 class="title mb-0">Popular Courses</h2>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="3000ms">
                         <div class="course-wrap">
                             <div class="front-part">
                                 <div class="img-part">
@@ -393,7 +393,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="3000ms">
                         <div class="course-wrap">
                             <div class="front-part">
                                 <div class="img-part">
@@ -427,7 +427,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="col-lg-4 col-md-6 mb-30 wow fadeInRight" data-wow-delay="400ms" data-wow-duration="3000ms">
                         <div class="course-wrap">
                             <div class="front-part">
                                 <div class="img-part">
@@ -474,6 +474,7 @@
 
         <!-- About Section Start -->
         <div class="row">
+<<<<<<< HEAD
     <div id="rs-about" class="rs-about style1 container">
         
         <div class="row">
@@ -520,6 +521,84 @@
                                         EQUAL MERIT
                                     </a>
                                 </div>
+=======
+            <div class="col-md-6"></div>
+            <div id="rs-about" class="rs-about style1 pb-100 md-pb-70 container-fluid">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-4 col-sm-12 col-md-12 order-last">
+                            <div class="notice-bord style1">
+                                <h4 class="title">Specifications</h4>
+                                <ul>
+                                    <li class="wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+                                        <div class="date"><i class="fa fa-video-camera" aria-hidden="true"
+                                                style="font-size: 30px;"></i></div>
+                                        <div class="desc">Chapter-wise Test</div>
+                                    </li>
+                                    <li class="wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+                                        <div class="date"><i class="fa fa-user" aria-hidden="true"
+                                                style="font-size: 30px"></i>
+                                        </div>
+                                        <div class="desc">Experienced Faculties</div>
+                                    </li>
+                                    <li class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
+                                        <div class="date"><i class="fa fa-graduation-cap" aria-hidden="true"
+                                                style="font-size: 30px"></i></i></div>
+                                        <div class="desc">Limited Batch Size</div>
+                                    </li>
+                                    <li class="wow fadeInUp" data-wow-delay="600ms" data-wow-duration="2000ms">
+                                        <div class="date"><i class="fa fa-book" aria-hidden="true"
+                                                style="font-size: 30px"></i>
+                                        </div>
+                                        <div class="desc">Notes and Assignment</div>
+                                    </li>
+                                    <!-- <li class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="2000ms">
+                                        <div class="date"><span>28</span>Oct</div>
+                                        <div class="desc">Lorem Ipsum is simply dummy text of the printing and setting</div>
+                                    </li> -->
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-8 col-sm-12 col-md-12">
+
+                            <div class="about-part">
+                                <img class="wow fadeInUp em-img wow fadeInLeft" data-wow-delay="300ms"
+                                    data-wow-duration="2000ms" src="assets/images/e1-removebg-preview.png"
+                                    alt="About Image">
+                                <div class="bg-grad-2"></div>
+                                <div class="row">
+                                    <div class="col-lg-8 col-md-12">
+                                        <div class="sec-title-eq sec-title em-sec">
+                                            <div class="container em-cont">
+                                                <div class="sub-title primary fadeInUp" data-wow-delay="300ms"
+                                                    data-wow-duration="2000ms">
+                                                    <h2 class="title mb-21">Equalmerit</h2>
+                                                </div>
+                                                <div class="desc fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
+                                                    <div class="breadcrumbs-text white-color equal-text-cont">
+                                                        <p class="equal-text em-text">
+                                                            Equalsign Coaching Institute proudly introduces EqualMerit, a
+                                                            transformative national scholarship examination designed to unlock
+                                                            the potential of young learners across India. This free aptitude and
+                                                            scholarship test represents our commitment to identifying,
+                                                            nurturing, and supporting academic excellence.
+                                                        </p>
+                                                        <div class="btn-div ">
+                                                            <a class="readon orange-btn main-home wow fadeInRight"
+                                                                href="equalmerit.php">
+                                                                EQUAL MERIT
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+>>>>>>> c0cfdf866307b38443fbca86761d488f09010078
                             </div>
                         </div>
                     </div>
@@ -776,7 +855,9 @@
                 slides[i].style.display = "none";
             }
             slideIndex++;
-            if (slideIndex > slides.length) { slideIndex = 1 }
+            if (slideIndex > slides.length) {
+                slideIndex = 1
+            }
             for (i = 0; i < dots.length; i++) {
                 dots[i].className = dots[i].className.replace(" active", "");
             }
@@ -824,5 +905,4 @@
 
 
         // });
-
     </script>
