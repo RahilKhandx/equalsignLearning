@@ -6602,7 +6602,7 @@ body .modal-backdrop {
 }
 
 .rs-about.style1 .about-part {
-  background: #e7f4f6;
+  /* background: #e7f4f6; */
   padding: 60px 60px 70px;
   position: relative;
   border-radius: 5px;
@@ -6610,11 +6610,11 @@ body .modal-backdrop {
 }
 
 .rs-about.style1 .about-part {
-  background: #e7f4f6;
-  background-image: url("assets/images/NEETform.jpg");
+  /* background: white; */
+  /* background-image: url("assets/images/e1-removebg-preview.png"); */
   padding: 60px 60px 70px;
   border-radius: 5px;
-  margin-top: -60px;
+  /* margin-top: -60px; */
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -19765,8 +19765,4 @@ a:hover {
   position: relative;
   z-index: 2;
   /* Keeps the text above the gradient */
-}
-.abtt{
-width: 80% !important;
-    height: auto;
 }
