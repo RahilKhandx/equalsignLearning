@@ -25,25 +25,11 @@
             <!-- main part -->
             <div class="col-lg-9 pr-50 md-pr-15">
                 <div class="row">
-                    <div class="col-lg-12  padding-0 md-pl-15 md-pr-15 md-mb-30">
-                        <div class="img-part">
-                            <div class="sec-title">
-                                <div class="sub-title primary wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms"> EQUALSIGN
+                <div class="col-lg-6 mt-2">
+                        <div class="sec-title mb-40">
+                        <div class="sub-title primary wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms"> EQUALSIGN
                                 </div>
                                 <h2 class="title wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">Founder's Message </h2>
-                                <div class="sign-part wow fadeInUp" data-wow-delay="600ms" data-wow-duration="2000ms">
-                                    <div class="img-part">
-                                        <img src="assets/images/ceo.png" alt="CEO Image" style="border-radius: 50%;">
-                                    </div>
-
-                                </div>
-                            </div>
-                            <!-- <img class="wow fadeInUp" src="assets\images\Equalsign Imaes\683 x 529.png" alt="About Image"> -->
-                        </div>
-                    </div>
-
-                    <div class="col-lg-12 mt-2">
-                        <div class="sec-title mb-40">
 
                             <div class="desc wow fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
 
@@ -62,6 +48,22 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-6  padding-0 md-pl-15 md-pr-15 md-mb-30">
+                        <div class="img-part">
+                            <div class="sec-title">
+                                
+                                <div class="sign-part wow fadeInUp" data-wow-delay="600ms" data-wow-duration="2000ms">
+                                    <div class="img-part">
+                                        <img src="assets/images/ss.png" alt="CEO Image">
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- <img class="wow fadeInUp" src="assets\images\Equalsign Imaes\683 x 529.png" alt="About Image"> -->
+                        </div>
+                    </div>
+
+
                 </div>
 
                 <div class="container mt-5 wow fadeInUp">
