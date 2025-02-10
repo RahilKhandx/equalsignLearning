@@ -25,11 +25,19 @@
             <!-- main part -->
             <div class="col-lg-9 pr-50 md-pr-15">
                 <div class="row">
-                    <div class="col-lg-6">
-                        <div class="sec-title">
+                <div class="col-lg-6  padding-0 md-pl-15 md-pr-15 md-mb-30">
+                <div class="sec-title">
                             <div class="sub-title orange">About</div>
                             <h2 class="title mb-17">About Our Institution</h2>
                         </div>
+                        <div class="img-part">
+
+                            <img class="wow fadeInUp  " src="assets\images\Equalsign Imaes\683 x 529.png"
+                                alt="About Image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        
                         <div class="sec-title">
 
                             <!-- <div class="bold-text mb-22">Recogizing the need is the primary than we expected Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa voluptatibus,</div> -->
@@ -44,18 +52,19 @@
                                     growth and shaping bright futures, we offer a
                                     School Integrated Program for seamless learning within campuses. Choose Equalsign
                                     for a transformative education that goes beyond
-                                    classrooms, equipping you with the skills to conquer your academic goals.</p>
+                                    classrooms, equipping you with the skills to conquer your academic goals.
+                                    At Equalsign Learning, we’re not just preparing students for exams; we’re preparing
+                                    them for life’s challenges. We aim to equip our students with the knowledge, skills,
+                                    and mindset to excel not only in academics but also in their future careers and
+                                    beyond.
+                                    Choose Equalsign Learning for an educational journey that goes beyond the classroom.
+                                    Let us be your partner in success and help you unlock your true potential.
+                                </p>
 
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6  padding-0 md-pl-15 md-pr-15 md-mb-30">
-                        <div class="img-part">
-
-                            <img class="wow fadeInUp  " src="assets\images\Equalsign Imaes\683 x 529.png"
-                                alt="About Image">
-                        </div>
-                    </div>
+                    
 
 
                 </div>

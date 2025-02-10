@@ -6,6 +6,8 @@
                 <li><a href="about-us.php">About Us</a></li>
                 <li><a href="founder-message.php">Founder</a></li>
                 <li><a href="belief.php">Our Belief</a></li>
+                <li><a href="faculty.php">Our Faculty</a></li>
+
                 <li><a href="timeline.php">Our Timeline</a></li>
                 <!-- <li><a href="neet-topper.php">Our NEET Toppers</a></li>
                 <li><a href="jee-toppers.php">Our JEE Toppers</a></li> -->

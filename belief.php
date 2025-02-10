@@ -76,7 +76,9 @@
                                                             to provide personalized coaching that empowers students to
                                                             excel academically,
                                                             preparing them for success in a dynamic and ever-evolving
-                                                            world.</p>
+                                                            world. As we continue to grow and evolve, we invite you to be a part of this exciting journey. At Equalsign Learning, your potential is not only recognized—it is nurtured and fully realized. Together, we will empower the next generation of thinkers, innovators, and leaders. 
+
+                                                        </p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -109,6 +111,14 @@
                                                             not just successful
                                                             students but future leaders who contribute positively to the
                                                             global community.
+                                                            The journey of Equalsign Learning began with a simple, yet
+                                                            powerful idea: to create an educational space where students
+                                                            are encouraged to explore, question, and grow. We envisioned
+                                                            an institution that would not just follow traditional
+                                                            teaching methods but one that embraces innovation, critical
+                                                            thinking, and personalized learning.We
+                                                            believe that every student is unique, and our approach is
+                                                            tailored to meet the individual needs of each learner.
                                                         </p>
                                                     </div>
                                                 </div>
