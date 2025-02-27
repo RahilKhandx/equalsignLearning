@@ -5,16 +5,16 @@
 
         <div class="mySlides ">
             <!-- <div class="numbertext">1 / 2</div> -->
-            <img src="assets/images/Web Banner 100-100.jpg">
+            <img src="assets/images/Web Banner JEE New1.jpg">
             <div class="bg-grad"></div>
 
             <div class="pb-2 container slider-cont">
-                <h1 class="text-center text-big mt-5" style="color:white">
-                    Nationwide Top Results </h1>
+                <!-- <h1 class="text-center text-big mt-5" style="color:white">
+                    Nationwide Top Results </h1> -->
                 <!-- <h4 class="text-center text-small" style="color:white">
                     Nationwide Top Results </h4> -->
 
-                <h2 class=" wow fadeInRight text-center" data-wow-delay="600ms" data-wow-duration="2000ms"
+                <!-- <h2 class=" wow fadeInRight text-center" data-wow-delay="600ms" data-wow-duration="2000ms"
                     style="visibility: visible; animation-duration: 2000ms; animation-delay: 600ms; animation-name: fadeInRight;color:white">
                     IIT-JEE</h2>
                 <div class="btn-div">
@@ -22,28 +22,28 @@
                 </div>
                 <div class="btn-div d-flex justify-content-center">
                     <a class="readon orange-btn main-home fadeInRight" href="jee.php">START A COURSE</a>
-                </div>
+                </div> -->
             </div>
 
         </div>
         <div class="mySlides ">
             <!-- <div class="numbertext">1 / 2</div> -->
-            <img src="assets/images/Web Banner JEE New (1).jpg">
+            <img src="assets/images/Web Banner NEET New1.jpg">
             <div class="bg-grad"></div>
 
             <div class="pb-2 container slider-cont">
-                <h1 class="text-center text-big mt-5" style="color:white">
-                    Nationwide Top Results </h1>
+                <!-- <h1 class="text-center text-big mt-5" style="color:white">
+                    Nationwide Top Results </h1> -->
                 <!-- <h4 class="text-center text-small" style="color:white">
                     Nationwide Top Results </h4> -->
 
-                <h2 class="text-center fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms"
+                <!-- <h2 class="text-center fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms"
                     style="visibility: visible; animation-duration: 2000ms; animation-delay: 600ms; animation-name: fadeInRight;color:white">
                     NEET
                 </h2>
                 <div class="btn-div d-flex justify-content-center">
                     <a class="readon blue-btn main-home fadeInRight" href="neet.php">START A COURSE</a>
-                </div>
+                </div> -->
 
 
             </div>
@@ -51,16 +51,16 @@
         </div>
         <div class="mySlides ">
             <!-- <div class="numbertext">1 / 2</div> -->
-            <img src="assets/images/Web Banner NEET New.jpg">
+            <img src="assets/images/Web Banner 100-1001.jpg">
             <div class="bg-grad"></div>
 
             <div class="pb-2 container slider-cont">
-                <h1 class="text-center text-big mt-5" style="color:white">
-                    Nationwide Top Results </h1>
+                <!-- <h1 class="text-center text-big mt-5" style="color:white">
+                    Nationwide Top Results </h1> -->
                 <!-- <h4 class="text-center text-small" style="color:white">
                     Nationwide Top Results </h4> -->
 
-                <h2 class="text-center fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms"
+                <!-- <h2 class="text-center fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms"
                     style="visibility: visible; animation-duration: 2000ms; animation-delay: 600ms; animation-name: fadeInRight;color:white">
                     CBSE Results </h2>
                 <div class="btn-div">
@@ -68,7 +68,7 @@
                 </div>
                 <div class="btn-div d-flex justify-content-center">
                     <a class="readon orange-btn main-home fadeInRight" href="cbse.php">START A COURSE</a>
-                </div>
+                </div> -->
             </div>
 
         </div>
