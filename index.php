@@ -85,10 +85,10 @@
                 <!-- Slide 1 -->
                 <div class="carousel-item cr-1 active pt-5 pb-5" style="position: relative;">
 
-                    <img src="assets/images/Class11thCourseDetails-removebg-preview.png" class="mob-bnr-img"
+                    <img src="assets/images/mob-1.jpg" class="mob-bnr-img"
                         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
-                    <div class="container crousel-cont h-100">
-                        <!-- Added for better readability -->
+                    <!-- <div class="container crousel-cont h-100">
+                        
                         <div class="overlay"></div>
                         <div class="content">
                             <div class="sl-sub-titles">Nationwide Top Results</div>
@@ -97,14 +97,14 @@
                                 <a class="readon orange-button main-home-inner " href="jee.php">START A COURSE</a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <!-- Slide 2 -->
                 <div class="carousel-item cr-2 pt-5 pb-5" style="position: relative;">
 
-                    <img src="assets/images/Class_9th_Course_Details-removebg-preview.png" class="mob-bnr-img"
+                    <img src="assets/images/mob-2.jpg" class="mob-bnr-img"
                         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
-                    <div class="container crousel-cont h-100">
+                    <!-- <div class="container crousel-cont h-100">
                         <div class="overlay"></div>
                         <div class="content">
                             <div class="sl-sub-titles">Nationwide Top Results</div>
@@ -113,14 +113,14 @@
                                 <a class="readon orange-button main-home" href="neet.php">START A COURSE</a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <!-- Slide 3 -->
                 <div class="carousel-item cr-3 pt-5 pb-5" style="position: relative;">
 
-                    <img src="assets/images/Class10thCourseDetails-removebg-preview.png" class="mob-bnr-img"
+                    <img src="assets/images/mob-3.jpg" class="mob-bnr-img"
                         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;">
-                    <div class="container crousel-cont h-100">
+                    <!-- <div class="container crousel-cont h-100">
                         <div class="overlay"></div>
                         <div class="content">
                             <div class="sl-sub-titles">Nationwide Top Results</div>
@@ -129,7 +129,7 @@
                                 <a class="readon orange-button main-home" href="neet.php">START A COURSE</a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <!-- Carousel Controls -->
