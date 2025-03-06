@@ -39,9 +39,12 @@
                 <li><a href="best-jee-mains-coaching-in-rohini.php">Best JEE Mains Coaching in Rohini</a></li>
                 <li><a href="best-neet-coaching-in-rohini.php">Best NEET Coaching in Rohini</a></li>
                 <li><a href="best-foundation-courses-in-rohini.php">Best Foundation Courses in Rohini</a></li>
+                <li><a href="class-8-science-coaching-in-rohini.php">Class 8 Science Coaching in Rohini</a></li>
+                <li><a href="class-9-science-coaching-in-rohini.php">Class 9 Science Coaching in Rohini</a></li>
+                <li><a href="class-10-science-coaching-in-rohini.php">Class 10 Science Coaching in Rohini</a></li>
 
                 </a></li>
             </ul>
         </div>
     </div>
-    </div>
+</div>

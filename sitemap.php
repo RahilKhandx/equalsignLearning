@@ -153,6 +153,12 @@
                     </a></li>
                 <li><a href="best-foundation-courses-in-rohini.php">Best Foundation Courses in Rohini
                     </a></li>
+                    <li><a href="class-8-science-coaching-in-rohini.php">Class 8 Science Coaching in Rohini 
+                    </a></li>
+                    <li><a href="class-9-science-coaching-in-rohini.php">Class 9 Science Coaching in Rohini 
+                    </a></li>
+                    <li><a href="class-10-science-coaching-in-rohini.php">Class 10 Science Coaching in Rohini 
+                    </a></li>
                 <!-- <li><a href="mathematics-coaching-center-in-gurugram.php">Mathematics Coaching Center in Sector
                         14 Gurugram | Port Blair
                     </a></li>

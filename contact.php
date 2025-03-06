@@ -48,7 +48,7 @@
                     </div>
                     <div class="address-text">
                         <span class="label">Phone Number</span>
-                        <span class="des"><a href="tel:+91 97739 87276">+91 97739 87276</a></span>
+                        <span class="des"><a href="tel:+91 97739 87276">+91 9773987276</a></span>
                     </div>
                 </div>
             </div>
@@ -69,6 +69,8 @@
                             <div class="content-part">
                                 <h5 class="info-subtitle" style="color: #ef481b; font-size:21px;"><b >Equalsign Bathubasti</b><br></h5>
                                 <h5 class="info-subtitle">Bathu Basti Main Road, Sri Vijaya Puram Pin No- 744105</h5>
+                            
+                                <h5 class="info-subtitle">9773987275</h5>
 
                             </div>
                         </div>
@@ -81,6 +83,9 @@
 
                                 <h5 class="info-subtitle">MB 101/1, Opp. State Library, Middle Point, Port Blair -
                                     744101</h5>
+                                 
+                                    <h5 class="info-subtitle">8250749760 </h5>
+
                                 <!-- <h4 class="info-title"><a href="mailto:info@rstheme.com">info@rstheme.com</a> -->
                                 </h4>
                             </div>
@@ -93,6 +98,8 @@
                             <h5 class="info-subtitle" style="color: #ef481b; font-size:21px;"><b >Equalsign Bambooflat</b><br></h5>
 
                                 <h5 class="info-subtitle">SS Complex, Bambooflat, South Andaman - 744107</h5>
+                                
+                                <h5 class="info-subtitle">	7695092994</h5>
                                 <!-- <h4 class="info-title"><a href="mailto:info@rstheme.com">info@rstheme.com</a> -->
                                 </h4>
                             </div>
@@ -106,6 +113,8 @@
 
                                 <h5 class="info-subtitle">Elahi Complex, B-84, Tikona Park, Jamia Nagar, Okhla,
                                     Delhi-110025</h5>
+                                  
+                                    <h5 class="info-subtitle">9773987274</h5>
                                 <!-- <h4 class="info-title"><a href="mailto:info@rstheme.com">info@rstheme.com</a> -->
                                 </h4>
                             </div>
@@ -118,6 +127,8 @@
                             <h5 class="info-subtitle" style="color: #ef481b; font-size:21px;"><b >Equalsign Rohini</b><br></h5>
 
                                 <h5 class="info-subtitle">SHOP NO.10 KINGS MALL ROHINI WEST DELHI-110085</h5>
+                       
+                                <h5 class="info-subtitle">	9773987277</h5>
                                 <!-- <h4 class="info-title"><a href="mailto:info@rstheme.com">info@rstheme.com</a> -->
                                 </h4>
                             </div>
