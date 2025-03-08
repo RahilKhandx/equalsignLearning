@@ -159,6 +159,14 @@
                     </a></li>
                     <li><a href="class-10-science-coaching-in-rohini.php">Class 10 Science Coaching in Rohini 
                     </a></li>
+                    <li><a href="maths-coaching-in-rohini.php">Maths Coaching in Rohini
+                    </a></li>
+                    <li><a href="physics-coaching-in-rohini.php">Physics Coaching in Rohini
+                    </a></li>
+                    <li><a href="chemistry-coaching-in-rohini.php">Chemistry Coaching in Rohini
+                    </a></li>
+                    <li><a href="biology-coaching-in-rohini.php">Biology Coaching in Rohini
+                    </a></li>
                 <!-- <li><a href="mathematics-coaching-center-in-gurugram.php">Mathematics Coaching Center in Sector
                         14 Gurugram | Port Blair
                     </a></li>
