@@ -145,7 +145,7 @@
                     </a></li>
                 <li><a href="class-12-maths-coaching-in-rohini.php">Class 12 Maths Coaching in Rohini
                     </a></li>
-                <li><a href="best-jee-coaching-in-rohini.php">Best JEE Coaching in Rohini
+                <li><a href="best-jee-advance-coaching-in-rohini.php">Best JEE Advance Coaching in Rohini
                     </a></li>
                 <li><a href="best-jee-mains-coaching-in-rohini.php">Best JEE Mains Coaching in Rohini
                     </a></li>

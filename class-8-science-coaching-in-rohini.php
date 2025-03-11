@@ -4,11 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Class 8 Science Coaching in Rohini </title>
+    <title>Perfect Science Concepts with Class 8 Coaching in Rohini West </title>
     <meta name="description"
-        content="Equalsign is a leading provider of Maths Coaching Center in Sector 14 Gurugram. We have experienced experts who will teach the subject to children from scratch.">
+        content="Looking for the best Class 8 Science coaching in Rohini West? Join us for expert guidance, interactive lessons, and better exam performance!">
     <meta name="keywords"
-        content="Mathematics Tuition Center in Sector 14 Gurugram, Best Mathematics Coaching Center in Sector 14 Gurgaon, Mathematics Classes in Sector 14, Mathematics Classes in Sector 14 Gurugram, Mathematics Coaching in Port Blair, Math Tuition in Port Blair, Best Maths Coaching in Port Blair, Maths Classes in Port Blair, Math Coaching Institute in Port Blair, Math Coaching Institute in Gurugram, Math Coaching Institute in Sector 14 Gurgaon, Math Tuition in Port Blair, Class 11 Math Coaching Center in Gurugram sector 14, Class 11 Maths Coaching Center in Gurgaon sector 14, Class 11 Math Coaching Center in Gurugram, Class 11 Math Coaching in Port Blair, Class 12 Math Coaching in Port Blair, Class 12 Math Coaching Center in Gurugram sector 14, Class 12 Math Coaching Center in Gurgaon sector 14, Class 12 Math Coaching Center in Gurugram, Best Coaching Institute in Gurugram sector 14, Mathematics Coaching Institute in Sector 14 Gurgaon, Mathematics Tuition in Port Blair, Class 11 Mathematics Coaching in Gurugram sector 14, Class 11 Mathematics Coaching in Gurgaon sector 14, Class 11 Mathematics Coaching in Gurugram, Class 11 Mathematics Coaching in Port Blair, Class 12 Mathematics Coaching in Port Blair, Class 12 Mathematics Coaching in Sector 14 Gurugram, Class 12 Mathematics Coaching in Sector 14 Gurgaon, Class 12 Mathematics Coaching in Sector 14 Gurugram, Best Coaching Institute in Sector 14 Gurugram, Mathematics Coaching Center in Sector 14 Gurugram, Mathematics Coaching Center in Sector 14 Gurgaon, Mathematics Tuition Center in Sector 14 Gurgaon">
+        content="Class 8 Science Coaching in Rohini, 8 Science Coaching in Rohini West, class 8 Science coaching center Rohini West, class 8 Science tuition center Rohini West, class 8 Science classes in Rohini, 8 Science coaching in Rohini, 8 Science tuition center Rohini, class 8 Science coaching institute Rohini West, 8 Science Coaching Rohini.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include "head.php" ?>
 </head>

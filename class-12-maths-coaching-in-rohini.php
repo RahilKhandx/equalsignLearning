@@ -4,11 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Class 12 Maths Coaching in Rohini </title>
+    <title>Ace Class 12 Maths with Expert Coaching in Rohini West </title>
     <meta name="description"
-        content="Equalsign is a leading provider of Maths Coaching Center in Sector 14 Gurugram. We have experienced experts who will teach the subject to children from scratch.">
+        content="Learn from top educators at the best Class 12 Maths coaching in Rohini West. Get personalized training for top scores. Join now!  ">
     <meta name="keywords"
-        content="Mathematics Tuition Center in Sector 14 Gurugram, Best Mathematics Coaching Center in Sector 14 Gurgaon, Mathematics Classes in Sector 14, Mathematics Classes in Sector 14 Gurugram, Mathematics Coaching in Port Blair, Math Tuition in Port Blair, Best Maths Coaching in Port Blair, Maths Classes in Port Blair, Math Coaching Institute in Port Blair, Math Coaching Institute in Gurugram, Math Coaching Institute in Sector 14 Gurgaon, Math Tuition in Port Blair, Class 11 Math Coaching Center in Gurugram sector 14, Class 11 Maths Coaching Center in Gurgaon sector 14, Class 11 Math Coaching Center in Gurugram, Class 11 Math Coaching in Port Blair, Class 12 Math Coaching in Port Blair, Class 12 Math Coaching Center in Gurugram sector 14, Class 12 Math Coaching Center in Gurgaon sector 14, Class 12 Math Coaching Center in Gurugram, Best Coaching Institute in Gurugram sector 14, Mathematics Coaching Institute in Sector 14 Gurgaon, Mathematics Tuition in Port Blair, Class 11 Mathematics Coaching in Gurugram sector 14, Class 11 Mathematics Coaching in Gurgaon sector 14, Class 11 Mathematics Coaching in Gurugram, Class 11 Mathematics Coaching in Port Blair, Class 12 Mathematics Coaching in Port Blair, Class 12 Mathematics Coaching in Sector 14 Gurugram, Class 12 Mathematics Coaching in Sector 14 Gurgaon, Class 12 Mathematics Coaching in Sector 14 Gurugram, Best Coaching Institute in Sector 14 Gurugram, Mathematics Coaching Center in Sector 14 Gurugram, Mathematics Coaching Center in Sector 14 Gurgaon, Mathematics Tuition Center in Sector 14 Gurgaon">
+        content="12 Maths Coaching in Rohini, 12 Maths Coaching in Rohini West, class 12 maths coaching center Rohini, class 12 maths tuition center Rohini West, class 12 maths classes in Rohini, maths coaching in Rohini, maths tuition center Rohini West, class 12 maths coaching institute Rohini West, class 12 mathematics tuition center Rohini, 12 Maths Coaching in Rohini West/ East, class 12 math coaching Rohini, Best maths coaching institute in Rohini West, top class 12 maths coaching in Rohini, class 12 maths tuition center Rohini west, 12 maths coaching in Rohini.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include "head.php" ?>
 </head>

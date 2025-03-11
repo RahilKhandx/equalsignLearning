@@ -4,11 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Biology Coaching in Rohini</title>
+    <title>Fulfill Your Medical Dream! Join Biology coaching in Rohini West</title>
     <meta name="description"
-        content="Equalsign is a leading provider of Maths Coaching Center in Sector 14 Gurugram. We have experienced experts who will teach the subject to children from scratch.">
+        content="Learn Biology with real-world applications and expert coaching in Rohini West. Join today for interactive sessions and mock tests!">
     <meta name="keywords"
-        content="Mathematics Tuition Center in Sector 14 Gurugram, Best Mathematics Coaching Center in Sector 14 Gurgaon, Mathematics Classes in Sector 14, Mathematics Classes in Sector 14 Gurugram, Mathematics Coaching in Port Blair, Math Tuition in Port Blair, Best Maths Coaching in Port Blair, Maths Classes in Port Blair, Math Coaching Institute in Port Blair, Math Coaching Institute in Gurugram, Math Coaching Institute in Sector 14 Gurgaon, Math Tuition in Port Blair, Class 11 Math Coaching Center in Gurugram sector 14, Class 11 Maths Coaching Center in Gurgaon sector 14, Class 11 Math Coaching Center in Gurugram, Class 11 Math Coaching in Port Blair, Class 12 Math Coaching in Port Blair, Class 12 Math Coaching Center in Gurugram sector 14, Class 12 Math Coaching Center in Gurgaon sector 14, Class 12 Math Coaching Center in Gurugram, Best Coaching Institute in Gurugram sector 14, Mathematics Coaching Institute in Sector 14 Gurgaon, Mathematics Tuition in Port Blair, Class 11 Mathematics Coaching in Gurugram sector 14, Class 11 Mathematics Coaching in Gurgaon sector 14, Class 11 Mathematics Coaching in Gurugram, Class 11 Mathematics Coaching in Port Blair, Class 12 Mathematics Coaching in Port Blair, Class 12 Mathematics Coaching in Sector 14 Gurugram, Class 12 Mathematics Coaching in Sector 14 Gurgaon, Class 12 Mathematics Coaching in Sector 14 Gurugram, Best Coaching Institute in Sector 14 Gurugram, Mathematics Coaching Center in Sector 14 Gurugram, Mathematics Coaching Center in Sector 14 Gurgaon, Mathematics Tuition Center in Sector 14 Gurgaon">
+        content="Biology Coaching Center Rohini, Biology Coaching in Rohini west, Biology Tuition Rohini, Biology Tuition Center Rohini west, Biology Classes in Rohini West, Biology Classes in Rohini, Biology Coaching in Rohini, Biology Tuition Rohini west, Biology Coaching Institute Rohini, Class 11 Biology Coaching Rohini west, Class 12 Biology Coaching Rohini west, Class 12 Biology coaching in Rohini, Bioloty Class in Rohini west, east.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include "head.php" ?>
 </head>

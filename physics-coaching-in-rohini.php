@@ -4,11 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Physics Coaching in Rohini</title>
+    <title>Master Physics with the Best Coaching in Rohini West.</title>
     <meta name="description"
-        content="Equalsign is a leading provider of Maths Coaching Center in Sector 14 Gurugram. We have experienced experts who will teach the subject to children from scratch.">
+        content="Need help with Physics? Join Rohini West’s best coaching and improve your problem-solving skills with expert guidance and personalized attention.">
     <meta name="keywords"
-        content="Mathematics Tuition Center in Sector 14 Gurugram, Best Mathematics Coaching Center in Sector 14 Gurgaon, Mathematics Classes in Sector 14, Mathematics Classes in Sector 14 Gurugram, Mathematics Coaching in Port Blair, Math Tuition in Port Blair, Best Maths Coaching in Port Blair, Maths Classes in Port Blair, Math Coaching Institute in Port Blair, Math Coaching Institute in Gurugram, Math Coaching Institute in Sector 14 Gurgaon, Math Tuition in Port Blair, Class 11 Math Coaching Center in Gurugram sector 14, Class 11 Maths Coaching Center in Gurgaon sector 14, Class 11 Math Coaching Center in Gurugram, Class 11 Math Coaching in Port Blair, Class 12 Math Coaching in Port Blair, Class 12 Math Coaching Center in Gurugram sector 14, Class 12 Math Coaching Center in Gurgaon sector 14, Class 12 Math Coaching Center in Gurugram, Best Coaching Institute in Gurugram sector 14, Mathematics Coaching Institute in Sector 14 Gurgaon, Mathematics Tuition in Port Blair, Class 11 Mathematics Coaching in Gurugram sector 14, Class 11 Mathematics Coaching in Gurgaon sector 14, Class 11 Mathematics Coaching in Gurugram, Class 11 Mathematics Coaching in Port Blair, Class 12 Mathematics Coaching in Port Blair, Class 12 Mathematics Coaching in Sector 14 Gurugram, Class 12 Mathematics Coaching in Sector 14 Gurgaon, Class 12 Mathematics Coaching in Sector 14 Gurugram, Best Coaching Institute in Sector 14 Gurugram, Mathematics Coaching Center in Sector 14 Gurugram, Mathematics Coaching Center in Sector 14 Gurgaon, Mathematics Tuition Center in Sector 14 Gurgaon">
+        content="Physics Coaching Center Rohini, Physics Coaching Center Rohini West, Physics Tuition Rohini, Physics Tuition Center in Rohini west, Best Physics Coaching Center in Rohini, Physics Classes in Rohini west, Physics Classes in Rohini, Physics Tuition in Rohini, Class 11 Physics Coaching Center Rohini West, Class 11 Physics Coaching Rohini east, Class 11 Physics Coaching Center in Rohini Delhi, Class 11 Physics Coaching near me, Class 12 Physics Coaching in Rohini, Class 12 Physics Coaching Center Rohini west, Class 12 Physics Coaching Center Rohini, Class 12 Physics Coaching Center in Rohini west.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include "head.php" ?>
 </head>
