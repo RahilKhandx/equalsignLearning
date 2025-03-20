@@ -137,7 +137,7 @@ Jamia Nagar Okhla, AMU Entrance exam coaching institute Okhla.">
             </ul>
         </div>
         <div class="blog-img mb-40">
-            <img src="assets/images/blog/inner/2.jpg" alt="">
+            <img src="assets/images/Web Images/AMU Entrance Exam Coaching Class 9 Jamia Nagar Okhla.jpg"alt="AMU Entrance Exam Coaching Class 9 Jamia Nagar Okhla">
         </div>
     </div>
 </div>

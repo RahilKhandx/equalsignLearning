@@ -128,7 +128,7 @@
                         </ul>
                     </div>
                     <div class="blog-img mb-40">
-                        <img src="assets/images/blog/inner/2.jpg" alt="">
+                        <img src="assets/images/Web Images/AMU Entrance Exam Coaching Class 11 Jamia Nagar Okhla.jpg" alt="AMU Entrance Exam Coaching Class 11 Jamia Nagar Okhla">
                     </div>
         </div>
     </div>

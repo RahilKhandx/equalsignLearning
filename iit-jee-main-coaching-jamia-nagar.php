@@ -71,7 +71,7 @@ Okhla, Best JEE Main Coaching Institutes in Jamia Nagar, Best IIT JEE Main Coach
                         </p>
                     </div>
                     <div class="bs-img">
-                        <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/Web Images/IIT JEE Main Coaching Jamia Nagar Okhla.jpg" alt="IIT JEE Coaching Jamia Nagar | Okhla"></a>
                     </div>
                     <!-- <blockquote>
                                 <p>Globally incubate standards compliant channels before scalable benefits. Quickly
@@ -91,7 +91,7 @@ Okhla, Best JEE Main Coaching Institutes in Jamia Nagar, Best IIT JEE Main Coach
                         You cannot survive a day in the modern world without technology. For one to live in this day and age, one must be aware of technology. That's what JEE-Main will assist you with. All that is necessary for JEE-Main is for it to be fair. Transparency has been achieved across the JEE-Main system, which is essential given the importance of your career. Psychometrics are essential to the test since they ensure that the questions are appropriate for the candidates—neither too hard nor too easy. With the use of our mock tests, students studying for JEE-Main can increase their preparedness by twofold.<br><br>Selecting the best JEE coaching center is a crucial choice for Indian engineering students. With a demonstrated track record of success, Equalsign has assisted numerous students in realizing their dream of attending prestigious engineering colleges. Nonetheless, it's critical to remember that a student's hard work and dedication are ultimately what determines their success. As a result, even if we can offer helpful advice, students still need to work extremely hard to do well on the JEE exams. We send our best wishes to every student taking the upcoming JEE Main 2024 exam.     
                         </p>
                         <div class="bs-img">
-                        <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
+                        <!-- <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a> -->
                     </div>
                     </div>
                 </div>

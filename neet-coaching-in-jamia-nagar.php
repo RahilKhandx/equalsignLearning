@@ -71,7 +71,7 @@
                     </p>
                     </div>
                     <div class="bs-img">
-                        <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/Web Images/NEET Coaching in Jamia Nagar Okhla.jpg" alt="NEET Coaching in Jamia Nagar | Okhla"></a>
                     </div>
                     <!-- <blockquote>
                                 <p>Globally incubate standards compliant channels before scalable benefits. Quickly
@@ -98,9 +98,9 @@
                         The top-notch NEET study guide and instructional module highlight students' mindsets to enable them to focus intently on their lessons. The majority of students and their parents approach this coaching since it is regarded as the best NEET coaching center in Okhla and Jamia Nagar.
                         </p>
                     </div>  
-                    <div class="bs-img">
+                    <!-- <div class="bs-img">
                         <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
-                    </div>
+                    </div> -->
                 </di>
             </div>
         </div>

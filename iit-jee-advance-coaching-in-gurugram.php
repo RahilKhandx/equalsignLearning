@@ -84,7 +84,7 @@
                         </p>
                     </div>
                     <div class="bs-img">
-                        <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/Web Images/IIT JEE Advance Coaching in Gurugram.jpg" alt="IIT JEE Advance Coaching in Gurugram"></a>
                     </div>
                     <!-- <blockquote>
                                 <p>Globally incubate standards compliant channels before scalable benefits. Quickly
@@ -119,9 +119,9 @@
                             problem thinking enables pupils to handle complicated issues quickly and accurately, which
                             is a necessary skill for top-ranking competitors in competitive tests.
                         </p>
-                        <div class="blog-img mb-40">
+                        <!-- <div class="blog-img mb-40">
                             <img src="assets/images/blog/inner/2.jpg" alt="">
-                        </div>
+                        </div> -->
                     </div>
 
                     <h2 class="title">Why Choose Our IIT JEE Advanced Coaching in Gurgaon?</h2>

@@ -71,7 +71,7 @@
                                 </p>
                             </div>
                             <div class="bs-img">
-                            <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/Web Images/Coaching for Engineering Entrance Coaching in Gurugram.jpg" alt="Coaching for Engineering Entrance Coaching in Gurugram"></a>
                         </div>
                             <!-- <blockquote>
                                 <p>Globally incubate standards compliant channels before scalable benefits. Quickly
@@ -117,9 +117,9 @@
                                 Contact us to enroll in engineering entrance coaching programs at the top engineering entrance coaching institute in Gurugram.
                                 </p>
                             </div>
-                            <div class="blog-img mb-40">
+                            <!-- <div class="blog-img mb-40">
                                 <img src="assets/images/blog/inner/2.jpg" alt="">
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

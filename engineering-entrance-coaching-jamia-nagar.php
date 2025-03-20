@@ -88,9 +88,9 @@
                                 One of the well-known brands when it comes to engineering coaching facilities is Equalsign. We provide well-researched study guides and qualified instructors. Connect with us now!
                                 </p>
                             </div>
-                            <div class="bs-img">
+                            <!-- <div class="bs-img">
                             <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
-                        </div>
+                        </div> -->
                             <!-- <blockquote>
                                 <p>Globally incubate standards compliant channels before scalable benefits. Quickly
                                     disseminate superior deliverables whereas web-enabled applications.</p>

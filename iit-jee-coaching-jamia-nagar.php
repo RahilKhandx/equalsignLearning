@@ -73,7 +73,7 @@
                         </p>
                     </div>
                     <div class="bs-img">
-                        <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/Web Images/IIT JEE Coaching Jamia Nagar Okhla.jpg" alt=""></a>
                     </div>
                     <!-- <blockquote>
                                 <p>Globally incubate standards compliant channels before scalable benefits. Quickly
@@ -93,9 +93,9 @@
                         Students will receive the best JEE Main and Advanced preparation from <a href="https://equalsign.in/"><strong>Equalsign Institute</strong></a> since its specialists are highly certified and trained in a variety of disciplines. Candidates can start their preparation by taking part in the institution's periodic assessments, regular tests, and mock exams. A large number of applicants scored highly on the JEE Advanced exam with our IIT JEE Coaching in Okhla and Jamia Nagar.<br><br>
                              
                         </p>
-                        <div class="blog-img mb-40">
+                        <!-- <div class="blog-img mb-40">
                             <img src="assets/images/blog/inner/2.jpg" alt="">
-                        </div>
+                        </div> -->
                     </div>
 
                     <h2 class="title">Goal of the Programme:</h2>

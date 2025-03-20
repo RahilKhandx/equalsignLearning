@@ -85,7 +85,7 @@
                         </p>
                     </div>
                     <div class="blog-img mb-40">
-                        <img src="assets/images/blog/inner/2.jpg" alt="">
+                        <img src="assets/images/Web Images/Physics Coaching Jamia Nagar Okhla.jpg" alt="Physics Coaching Jamia Nagar | Okhla">
                     </div>
                     <h2 class="title">Why Choose Our Coaching Center?
                     </h2>

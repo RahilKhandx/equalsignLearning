@@ -235,7 +235,7 @@
                         </p>
                     </div>
                     <div class="blog-img mb-40">
-                        <img src="assets/images/blog/inner/2.jpg" alt="">
+                        <img src="assets/images/Web Images/Physics Coaching Tuition Centre Sector 14 Gurugram and Port Blair.jpg" alt="Physics Coaching | Tuition Centre Sector 14 Gurugram and Port Blair">
                     </div>
             </div>
         </div>

@@ -113,8 +113,8 @@
                            </p>
                             </div>
                              <div class="blog-img mb-40">
-                                <img src="assets/images/blog/inner/2.jpg" alt="">
-                            </div>
+                                <img src="assets/images/Web Images/Class 10 Maths Coaching Institute in Sector 14 Gurugram.jpg" alt="Class 10 Maths Coaching Institute in Sector 14 Gurugram.jpg">
+                            </div>+
                         </div>
                     </div>
                 </div>

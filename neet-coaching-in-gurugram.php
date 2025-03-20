@@ -71,7 +71,7 @@
                     </p>
                     </div>
                     <div class="bs-img">
-                        <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/Web Images\NEET (National Eligibility and Entrance Test) Coaching In Gurugram.jpg" alt="NEET Coaching in Gurugram"></a>
                     </div>
                     <!-- <blockquote>
                                 <p>Globally incubate standards compliant channels before scalable benefits. Quickly
@@ -128,9 +128,9 @@
                     <div class="blog-desc">
                     <a href="https://equalsign.in/"><strong>Equalsign offers</strong></a> various NEET coaching courses in Gurgaon, Sector 14 with a structured curriculum, potentially providing a clear roadmap for exam preparation. We also have doubt-clearing sessions and mock tests. These sessions can help clarify concepts, address student concerns, and practice time management skills through simulated exams.<br><br>Ultimately, the best way to decide if Equalsign Institute is right for you is to schedule a consultation or attend a sample class to get a firsthand feel for their teaching methods and environment.</p>    
                     </div>  
-                    <div class="bs-img">
+                    <!-- <div class="bs-img">
                         <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
-                    </div>
+                    </div> -->
                 </di>
             </div>
         </div>

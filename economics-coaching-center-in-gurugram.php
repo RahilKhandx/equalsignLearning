@@ -225,7 +225,7 @@
                         </p>
                     </div>
                     <div class="blog-img mb-40">
-                        <img src="assets/images/blog/inner/2.jpg" alt="">
+                        <img src="assets/images/Web Images/11th and 12th Economics Coaching Center in Sector 14 Gurugram Port Blair.jpg" alt="Economics Coaching Center in Sector 14 Gurugram | Port Blair">
                     </div>
             </div>
         </div>

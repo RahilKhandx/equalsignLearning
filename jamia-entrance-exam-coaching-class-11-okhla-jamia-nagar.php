@@ -159,7 +159,8 @@
                         </ul>
                     </div>
                     <div class="blog-img mb-40">
-                        <img src="assets/images/blog/inner/2.jpg" alt="">
+                        <img src="assets/images/Web Images/Jamia Entrance Exam Coaching Class 11 Okhla Jamia Nagar.jpg" alt="Jamia Entrance Exam Coaching Class 11
+in Jamia Nagar Okhla | Delhi">
                     </div>
             </div>
         </div>

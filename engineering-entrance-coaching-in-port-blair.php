@@ -84,6 +84,9 @@
                                     compliant channels before scalable benefits.
                                 </p>
                             </div> -->
+                            <div class="bs-img">
+                        <a href="#"><img src="assets/images/Web Images/Equalsign Academy Your Ultimate Guide for Engineering Entrance Coaching in Port Blair.jpg" alt="Engineering Entrance Coaching in Port Blair"></a>
+                    </div>
                             <h2 class="title mb-40">Why choose Equalsign for online NDA coaching?</h2>
                             <div class="blog-desc mb-35">
                             <ul style="list-style: disc;margin-left: 17px;">

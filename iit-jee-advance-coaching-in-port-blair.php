@@ -45,7 +45,7 @@
                     <div class="col-lg-8 pr-50 md-pr-15">
                         <div class="blog-deatails">
                             <div class="bs-img">
-                                <a href="#"><img src="assets/images/blog/inner/1.jpg" alt=""></a>
+                                <a href="#"><img src="assets/images/Web Images/The Best IIT JEE Advance Coaching in Port Blair.jpg" alt="The Best IIT JEE Advance Coaching in Port Blair"></a>
                             </div>
                             <!-- <div class="blog-full">
                             <ul class="single-post-meta">

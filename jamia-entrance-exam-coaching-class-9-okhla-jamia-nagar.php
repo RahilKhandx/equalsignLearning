@@ -117,7 +117,8 @@ Best Jamia Entrance exam class 11 Okhla, Best Jamia Entrance exam Coaching insti
                         </p>
                     </div>
                     <div class="blog-img mb-40">
-                        <img src="assets/images/blog/inner/2.jpg" alt="">
+                        <img src="assets/images/Web Images/Jamia Entrance Exam Coaching Class 9 Okhla Jamia Nagar.jpg" alt="Jamia Entrance Exam Coaching Class 9
+in Jamia Nagar Okhla | Delhi">
                     </div>
             </div>
         </div>

@@ -72,6 +72,9 @@
                         Equalsign is the best coaching center for NEET and it has a team of highly experienced and qualified faculty members who are experts in the NEET syllabus. We are well-versed in the latest teaching methods and use a variety of teaching materials to help students learn effectively.  
                         </p>
                     </div>
+                    <div class="bs-img">
+                        <a href="#"><img src="assets/images/Web Images/NEET Coaching in Port Blair.jpg" alt="NEET Coaching in Port Blair"></a>
+                    </div>
                     <!-- <blockquote>
                                 <p>Globally incubate standards compliant channels before scalable benefits. Quickly
                                     disseminate superior deliverables whereas web-enabled applications.</p>
